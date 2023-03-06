@@ -18,9 +18,9 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [Rust](#rust)
 *   [C++](#c)
-*   [Go](#go)
 *   [C#](#c-1)
 *   [Vue](#vue)
 *   [JavaScript](#javascript)
@@ -35,6 +35,36 @@
 *   [Shell](#shell)
 *   [HTML](#html)
 *   [Thanks](#thanks)
+
+## Go
+
+*   [SpenserCai/GoWxDump](https://github.com/SpenserCai/GoWxDump) - SharpWxDump的Go语言版。微信客户端取证，获取信息(微信号、手机号、昵称)，微信聊天记录分析(Top N聊天的人、统计聊天最频繁的好友排行、关键词列表搜索等)
+
+*   [Brum3ns/firefly](https://github.com/Brum3ns/firefly) - Black box fuzzer for web applications
+
+*   [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
+
+*   [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
+
+*   [4ra1n/CVE-2023-21839](https://github.com/4ra1n/CVE-2023-21839) - Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)
+
+*   [Ggasdfg321/SmallProxyPool](https://github.com/Ggasdfg321/SmallProxyPool) - 一个免费高质量的小代理池，解决一些站点有WAF的情况下，进行目录扫描或者字典爆破
+
+*   [Gourds/upload2remote](https://github.com/Gourds/upload2remote) - 上传文件到对象存储（OSS、OBS、S3、KS3）
+
+*   [chaitin/veinmind-tools](https://github.com/chaitin/veinmind-tools) - veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集
+
+*   [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
+
+*   [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework.
+
+*   [TheKingOfDuck/geacon](https://github.com/TheKingOfDuck/geacon) - 修改自geacon的多功能linux运维管理工具
+
+*   [xiaoyaochen/yscan](https://github.com/xiaoyaochen/yscan) - yscan是一款基于go写的端口扫描工具，集masscan+nmap+wappalyzer+证书于一体
+
+*   [ac0d3r/Hyuga](https://github.com/ac0d3r/Hyuga) - Hyuga 是一个用来监控带外(Out-of-Band)流量的工具。🪤
+
+*   [dubek/rabbitmq-dump-queue](https://github.com/dubek/rabbitmq-dump-queue) - Dump messages from a RabbitMQ queue to files, without affecting the queue.
 
 ## Rust
 
@@ -131,34 +161,6 @@
 *   [Wh04m1001/CVE-2023-21752](https://github.com/Wh04m1001/CVE-2023-21752) -
 
 *   [H4de5-7/schtask-bypass](https://github.com/H4de5-7/schtask-bypass) - 免杀计划任务进行权限维持，过主流杀软。 A schtask tool bypass anti-virus
-
-## Go
-
-*   [Brum3ns/firefly](https://github.com/Brum3ns/firefly) - Black box fuzzer for web applications
-
-*   [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
-
-*   [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
-
-*   [4ra1n/CVE-2023-21839](https://github.com/4ra1n/CVE-2023-21839) - Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)
-
-*   [Ggasdfg321/SmallProxyPool](https://github.com/Ggasdfg321/SmallProxyPool) - 一个免费高质量的小代理池，解决一些站点有WAF的情况下，进行目录扫描或者字典爆破
-
-*   [Gourds/upload2remote](https://github.com/Gourds/upload2remote) - 上传文件到对象存储（OSS、OBS、S3、KS3）
-
-*   [chaitin/veinmind-tools](https://github.com/chaitin/veinmind-tools) - veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集
-
-*   [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
-
-*   [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework.
-
-*   [TheKingOfDuck/geacon](https://github.com/TheKingOfDuck/geacon) - 修改自geacon的多功能linux运维管理工具
-
-*   [xiaoyaochen/yscan](https://github.com/xiaoyaochen/yscan) - yscan是一款基于go写的端口扫描工具，集masscan+nmap+wappalyzer+证书于一体
-
-*   [ac0d3r/Hyuga](https://github.com/ac0d3r/Hyuga) - Hyuga 是一个用来监控带外(Out-of-Band)流量的工具。🪤
-
-*   [dubek/rabbitmq-dump-queue](https://github.com/dubek/rabbitmq-dump-queue) - Dump messages from a RabbitMQ queue to files, without affecting the queue.
 
 ## C\#
 
@@ -321,8 +323,6 @@
 *   [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 
 *   [XiaoliChan/RedCaddy](https://github.com/XiaoliChan/RedCaddy) - C2 redirector base on caddy
-
-*   [LiAoRJ/CS\_fakesubmit](https://github.com/LiAoRJ/CS_fakesubmit) - 一个可以伪装上线Cobaltstrike的脚本
 
 ## PowerShell
 
