@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [PHP](#php)
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
@@ -35,6 +36,10 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [Thanks](#thanks)
+
+## PHP
+
+*   [chris-koch-penn/gpt3\_security\_vulnerability\_scanner](https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner) - GPT-3 found hundreds of security vulnerabilities in this repo
 
 ## C++
 
@@ -366,8 +371,6 @@
 
 *   [jas502n/coremail-checkwkpass](https://github.com/jas502n/coremail-checkwkpass) - enc8 密码碰撞脚本
 
-*   [blackarrowsec/redteam-research](https://github.com/blackarrowsec/redteam-research) - Collection of PoC and offensive techniques used by the BlackArrow Red Team
-
 ## JavaScript
 
 *   [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
@@ -436,7 +439,7 @@
 
 *   [KrystianLi/OutLook](https://github.com/KrystianLi/OutLook) - 一款OutLook信息收集工具
 
-*   [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK.   Uses reverse engineered official API. ChatGPT 网页 Java 版. 非gpt3 api。开箱即用.
+*   [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK.   Uses reverse engineered official API. ChatGPT 网页 Java 版. 非gpt3 GPT4 api。开箱即用.
 
 *   [qtc-de/beanshooter](https://github.com/qtc-de/beanshooter) - JMX enumeration and attacking tool.
 
