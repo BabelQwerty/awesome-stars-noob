@@ -620,7 +620,7 @@
 
 *   [KrystianLi/OutLook](https://github.com/KrystianLi/OutLook) - 一款OutLook信息收集工具
 
-*   [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK.   Uses reverse engineered official API. ChatGPT 网页 Java 版. 非gpt3 GPT4 api。开箱即用.
+*   [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK. 支持 GPT3.5、 GPT4 API。开箱即用.
 
 *   [qtc-de/beanshooter](https://github.com/qtc-de/beanshooter) - JMX enumeration and attacking tool.
 
