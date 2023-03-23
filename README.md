@@ -40,6 +40,10 @@
 
 ## C
 
+*   [realoriginal/bootlicker](https://github.com/realoriginal/bootlicker) - A generic UEFI bootkit used to achieve initial usermode execution. It works with modifications.
+
+*   [realoriginal/bootdoor](https://github.com/realoriginal/bootdoor) - An initial proof of concept of a bootkit based on Cr4sh's DMABackdoorBoot
+
 *   [mertdas/PrivKit](https://github.com/mertdas/PrivKit) - PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.
 
 *   [paranoidninja/Process-Instrumentation-Syscall-Hook](https://github.com/paranoidninja/Process-Instrumentation-Syscall-Hook) - A simple program to hook the current process to identify the manual syscall executions on windows
@@ -510,8 +514,6 @@
 
 *   [Neo23x0/Loki](https://github.com/Neo23x0/Loki) - Loki - Simple IOC and Incident Response Scanner
 
-*   [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-
 ## PowerShell
 
 *   [api0cradle/CVE-2023-23397-POC-Powershell](https://github.com/api0cradle/CVE-2023-23397-POC-Powershell) -
@@ -581,8 +583,6 @@
 *   [sechacking/sgk](https://github.com/sechacking/sgk) - 仿findmima的社工库代码，基于elasticsearch和PHP构建
 
 *   [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
-
-*   [Zhwt/yaml-to-go](https://github.com/Zhwt/yaml-to-go) - Translates YAML into a Go type in your browser instantly.
 
 ## Shell
 
