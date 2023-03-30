@@ -18,14 +18,15 @@
 
 ## Table of Contents
 
-*   [Python](#python)
 *   [TypeScript](#typescript)
+*   [Python](#python)
+*   [Java](#java)
+*   [Rust](#rust)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [Shell](#shell)
 *   [C++](#c)
-*   [Rust](#rust)
 *   [C](#c-1)
 *   [C#](#c-2)
 *   [PowerShell](#powershell)
@@ -33,11 +34,26 @@
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [Lua](#lua)
-*   [Java](#java)
 *   [HTML](#html)
 *   [Thanks](#thanks)
 
+## TypeScript
+
+*   [r3x5ur/unveilr](https://github.com/r3x5ur/unveilr) - 小程序反编译工具
+
+*   [okld/streamlit-elements](https://github.com/okld/streamlit-elements) - Create a draggable and resizable dashboard in Streamlit, featuring Material UI widgets, Monaco editor (Visual Studio Code), Nivo charts, and more!
+
+*   [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
+
+*   [alibaba/lowcode-demo](https://github.com/alibaba/lowcode-demo) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
+
+*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+
+*   [kahosan/lolicon-chat-bot](https://github.com/kahosan/lolicon-chat-bot) -
+
 ## Python
+
+*   [karust/cuckoo-docker](https://github.com/karust/cuckoo-docker) - Dockerized Cuckoo sandbox
 
 *   [mohamedbenchikh/MDML](https://github.com/mohamedbenchikh/MDML) - Malware Detection using Machine Learning (MDML)
 
@@ -215,19 +231,131 @@
 
 *   [garzon/CTF-Writeups](https://github.com/garzon/CTF-Writeups) - 自己ctf比赛的writeup
 
-*   [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
+## Java
 
-## TypeScript
+*   [coderabbit214/bibliothecarius](https://github.com/coderabbit214/bibliothecarius) - Quickly build services to integrate your local data and AI models.
 
-*   [okld/streamlit-elements](https://github.com/okld/streamlit-elements) - Create a draggable and resizable dashboard in Streamlit, featuring Material UI widgets, Monaco editor (Visual Studio Code), Nivo charts, and more!
+*   [Mr-xn/RedTeam\_BlueTeam\_HW](https://github.com/Mr-xn/RedTeam_BlueTeam_HW) - 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具
 
-*   [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
+*   [0xf4n9x/CVE-2023-0669](https://github.com/0xf4n9x/CVE-2023-0669) - CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object.
 
-*   [alibaba/lowcode-demo](https://github.com/alibaba/lowcode-demo) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
+*   [phith0n/JavaThings](https://github.com/phith0n/JavaThings) - Share Things Related to Java - Java安全漫谈笔记相关内容
 
-*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+*   [DXask88MA/Weblogic-CVE-2023-21839](https://github.com/DXask88MA/Weblogic-CVE-2023-21839) -
 
-*   [kahosan/lolicon-chat-bot](https://github.com/kahosan/lolicon-chat-bot) -
+*   [FFreestanding/JavaUnserializeChain](https://github.com/FFreestanding/JavaUnserializeChain) - 自己积累的一些Java反序列化利用链
+
+*   [KrystianLi/OutLook](https://github.com/KrystianLi/OutLook) - 一款OutLook信息收集工具
+
+*   [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。
+
+*   [qtc-de/beanshooter](https://github.com/qtc-de/beanshooter) - JMX enumeration and attacking tool.
+
+*   [momosecurity/rhizobia\_J](https://github.com/momosecurity/rhizobia_J) - JAVA安全SDK及编码规范
+
+*   [BeichenDream/JDR](https://github.com/BeichenDream/JDR) -
+
+*   [wh1t3p1g/tabby](https://github.com/wh1t3p1g/tabby) - A CAT called tabby ( Code Analysis Tool )
+
+*   [pandening/Java-debug-tool](https://github.com/pandening/Java-debug-tool) - Java dynamic debug tool
+
+*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+
+## Rust
+
+*   [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no\_std, ...
+
+*   [seqre/rast](https://github.com/seqre/rast) - A cross platform C2 server written in Rust!
+
+*   [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
+
+*   [cr7pt0pl4gu3/Pestilence](https://github.com/cr7pt0pl4gu3/Pestilence) - Shellcode loader designed for evasion. Coded in Rust.
+
+*   [dRAT3/merter](https://github.com/dRAT3/merter) - Bounty hunting tool for eth and bsc, using the MythX API.
+
+*   [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+
+*   [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
+
+*   [mcginty/snow](https://github.com/mcginty/snow) - A Rust implementation of the Noise Protocol Framework
+
+*   [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
+
+*   [nccgroup/dirble](https://github.com/nccgroup/dirble) - Fast directory scanning and scraping tool
+
+*   [0xor0ne/qscan](https://github.com/0xor0ne/qscan) - Quick network scanner library. https://crates.io/crates/qscan
+
+*   [MichalGniadek/klask](https://github.com/MichalGniadek/klask) - Automatically create GUI applications from clap3 apps
+
+*   [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
+
+*   [EddieIvan01/memexec](https://github.com/EddieIvan01/memexec) - A library for loading and executing PE (Portable Executable) from memory without ever touching the disk
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+
+*   [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust) - Rust Weaponization for Red Team Engagements.
+
+*   [grantshandy/claui](https://github.com/grantshandy/claui) - A GUI generator for clap-rs using egui
+
+*   [ihciah/socks5-forwarder](https://github.com/ihciah/socks5-forwarder) -
+
+*   [ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf) - 基于 Rust + eBPF 丢弃 GFW DNS 污染包
+
+*   [Privoce/vocechat-server-rust](https://github.com/Privoce/vocechat-server-rust) - VoceChat is a superlight rust written social server. Easy integration to your site/app.
+
+*   [segeljakt/xterm-js-rs](https://github.com/segeljakt/xterm-js-rs) - Rust-WebAssembly bindings to the xterm-js Javascript library
+
+*   [aress31/raadef](https://github.com/aress31/raadef) - An extensible Rust-based exploitation framework designed to audit/attack AzureAD environments.
+
+*   [dwisiswant0/ppfuzz](https://github.com/dwisiswant0/ppfuzz) - A fast tool to scan client-side prototype pollution vulnerability written in Rust. 🦀
+
+*   [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
+
+*   [Sndav/WeChatDB-Rust](https://github.com/Sndav/WeChatDB-Rust) - 用Rust语言编写，使用特征值从微信内存中提取数据库密钥的工具
+
+*   [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
+
+*   [rusty-celery/rusty-celery](https://github.com/rusty-celery/rusty-celery) - 🦀 Rust implementation of Celery for producing and consuming background tasks
+
+*   [kkocdko/ricq](https://github.com/kkocdko/ricq) - 用 Rust 实现的高性能 QQ 协议库
+
+*   [zblurx/impersonate-rs](https://github.com/zblurx/impersonate-rs) - Rusty Impersonate
+
+*   [0xlane/com-process-inject](https://github.com/0xlane/com-process-inject) - Process Injection via Component Object Model (COM) IRundown::DoCallback().
+
+*   [MaulingMonkey/firehazard](https://github.com/MaulingMonkey/firehazard) - Unopinionated low level API bindings focused on soundness, safety, and stronger types over raw FFI.
+
+*   [memN0ps/rootkit-rs](https://github.com/memN0ps/rootkit-rs) - Rusty Rootkit - Windows Kernel Rookit in Rust
+
+*   [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
+
+*   [TheBotlyNoob/Rust-Privesc](https://github.com/TheBotlyNoob/Rust-Privesc) - privilege escalation POCs built in Rust.
+
+*   [Idov31/FunctionStomping](https://github.com/Idov31/FunctionStomping) - A new shellcode injection technique. Given as C++ header, standalone Rust program or library.
+
+*   [b23r0/Heroinn](https://github.com/b23r0/Heroinn) - A cross platform C2/post-exploitation framework.
+
+*   [m4b/goblin](https://github.com/m4b/goblin) - An impish, cross-platform binary parsing crate, written in Rust
+
+*   [mgostIH/process\_list](https://github.com/mgostIH/process_list) - Rust crate to get the processes list on the operating system, with their name and id
+
+*   [postrequest/link](https://github.com/postrequest/link) - link is a command and control framework written in rust
+
+*   [darkarp/chromepass](https://github.com/darkarp/chromepass) - Chromepass - Hacking Chrome Saved Passwords
+
+*   [OPENCYBER-FR/RustHound](https://github.com/OPENCYBER-FR/RustHound) - Active Directory data collector for BloodHound written in Rust. 🦀
+
+*   [YDHCUI/manjusaka](https://github.com/YDHCUI/manjusaka) - 牛屎花 一款基于WEB界面的远程主机管理工具
+
+*   [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
+
+*   [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Forensic Artefacts
+
+*   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+
+*   [substrate-developer-hub/substrate-node-template](https://github.com/substrate-developer-hub/substrate-node-template) - A new FRAME-based Substrate node, ready for hacking.
+
+*   [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 
 ## Jupyter Notebook
 
@@ -312,8 +440,6 @@
 *   [rustlang-cn/Rustt](https://github.com/rustlang-cn/Rustt) - 🥇RustCn 翻译计划，代号 Rustt。这里有国内最优质、最实时的 Rust 技术文章、学习资料和新闻资讯，欢迎大家 🌟 订阅。
 
 *   [Getshell/CobaltStrike](https://github.com/Getshell/CobaltStrike) - CobaltStrike资源大全
-
-*   [1135/notes](https://github.com/1135/notes) - Security & Development
 
 ## Go
 
@@ -415,100 +541,6 @@
 
 *   [Wh04m1001/CVE-2023-21752](https://github.com/Wh04m1001/CVE-2023-21752) -
 
-## Rust
-
-*   [seqre/rast](https://github.com/seqre/rast) - A cross platform C2 server written in Rust!
-
-*   [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
-
-*   [cr7pt0pl4gu3/Pestilence](https://github.com/cr7pt0pl4gu3/Pestilence) - Shellcode loader designed for evasion. Coded in Rust.
-
-*   [dRAT3/merter](https://github.com/dRAT3/merter) - Bounty hunting tool for eth and bsc, using the MythX API.
-
-*   [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
-
-*   [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
-
-*   [mcginty/snow](https://github.com/mcginty/snow) - A Rust implementation of the Noise Protocol Framework
-
-*   [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
-
-*   [nccgroup/dirble](https://github.com/nccgroup/dirble) - Fast directory scanning and scraping tool
-
-*   [0xor0ne/qscan](https://github.com/0xor0ne/qscan) - Quick network scanner library. https://crates.io/crates/qscan
-
-*   [MichalGniadek/klask](https://github.com/MichalGniadek/klask) - Automatically create GUI applications from clap3 apps
-
-*   [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
-
-*   [EddieIvan01/memexec](https://github.com/EddieIvan01/memexec) - A library for loading and executing PE (Portable Executable) from memory without ever touching the disk
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
-
-*   [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust) - Rust Weaponization for Red Team Engagements.
-
-*   [grantshandy/claui](https://github.com/grantshandy/claui) - A GUI generator for clap-rs using egui
-
-*   [ihciah/socks5-forwarder](https://github.com/ihciah/socks5-forwarder) -
-
-*   [ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf) - 基于 Rust + eBPF 丢弃 GFW DNS 污染包
-
-*   [Privoce/vocechat-server-rust](https://github.com/Privoce/vocechat-server-rust) - VoceChat is a superlight rust written social server. Easy integration to your site/app.
-
-*   [segeljakt/xterm-js-rs](https://github.com/segeljakt/xterm-js-rs) - Rust-WebAssembly bindings to the xterm-js Javascript library
-
-*   [aress31/raadef](https://github.com/aress31/raadef) - An extensible Rust-based exploitation framework designed to audit/attack AzureAD environments.
-
-*   [dwisiswant0/ppfuzz](https://github.com/dwisiswant0/ppfuzz) - A fast tool to scan client-side prototype pollution vulnerability written in Rust. 🦀
-
-*   [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
-
-*   [Sndav/WeChatDB-Rust](https://github.com/Sndav/WeChatDB-Rust) - 用Rust语言编写，使用特征值从微信内存中提取数据库密钥的工具
-
-*   [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
-
-*   [rusty-celery/rusty-celery](https://github.com/rusty-celery/rusty-celery) - 🦀 Rust implementation of Celery for producing and consuming background tasks
-
-*   [kkocdko/ricq](https://github.com/kkocdko/ricq) - 用 Rust 实现的高性能 QQ 协议库
-
-*   [zblurx/impersonate-rs](https://github.com/zblurx/impersonate-rs) - Rusty Impersonate
-
-*   [0xlane/com-process-inject](https://github.com/0xlane/com-process-inject) - Process Injection via Component Object Model (COM) IRundown::DoCallback().
-
-*   [MaulingMonkey/firehazard](https://github.com/MaulingMonkey/firehazard) - Unopinionated low level API bindings focused on soundness, safety, and stronger types over raw FFI.
-
-*   [memN0ps/rootkit-rs](https://github.com/memN0ps/rootkit-rs) - Rusty Rootkit - Windows Kernel Rookit in Rust
-
-*   [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
-
-*   [TheBotlyNoob/Rust-Privesc](https://github.com/TheBotlyNoob/Rust-Privesc) - privilege escalation POCs built in Rust.
-
-*   [Idov31/FunctionStomping](https://github.com/Idov31/FunctionStomping) - A new shellcode injection technique. Given as C++ header, standalone Rust program or library.
-
-*   [b23r0/Heroinn](https://github.com/b23r0/Heroinn) - A cross platform C2/post-exploitation framework.
-
-*   [m4b/goblin](https://github.com/m4b/goblin) - An impish, cross-platform binary parsing crate, written in Rust
-
-*   [mgostIH/process\_list](https://github.com/mgostIH/process_list) - Rust crate to get the processes list on the operating system, with their name and id
-
-*   [postrequest/link](https://github.com/postrequest/link) - link is a command and control framework written in rust
-
-*   [darkarp/chromepass](https://github.com/darkarp/chromepass) - Chromepass - Hacking Chrome Saved Passwords
-
-*   [OPENCYBER-FR/RustHound](https://github.com/OPENCYBER-FR/RustHound) - Active Directory data collector for BloodHound written in Rust. 🦀
-
-*   [YDHCUI/manjusaka](https://github.com/YDHCUI/manjusaka) - 牛屎花 一款基于WEB界面的远程主机管理工具
-
-*   [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
-
-*   [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Forensic Artefacts
-
-*   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-
-*   [substrate-developer-hub/substrate-node-template](https://github.com/substrate-developer-hub/substrate-node-template) - A new FRAME-based Substrate node, ready for hacking.
-
-*   [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
-
 ## C
 
 *   [realoriginal/bootlicker](https://github.com/realoriginal/bootlicker) - A generic UEFI bootkit used to achieve initial usermode execution. It works with modifications.
@@ -550,10 +582,6 @@
 *   [kyleavery/inject-assembly](https://github.com/kyleavery/inject-assembly) - Inject .NET assemblies into an existing process
 
 *   [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
-
-*   [kyleavery/AceLdr](https://github.com/kyleavery/AceLdr) - Cobalt Strike UDRL for memory scanner evasion.
-
-*   [rsmudge/vncdll](https://github.com/rsmudge/vncdll) - Stand-alone VNC server compiled as a Reflective DLL
 
 ## C\#
 
@@ -633,32 +661,6 @@
 
 *   [M507/nmap-vulnerability-scan-scripts](https://github.com/M507/nmap-vulnerability-scan-scripts) - nmap detection scripts for CVE-2022-45477, CVE-2022-45479, CVE-2022-45482, CVE-2022-45481
 
-## Java
-
-*   [0xf4n9x/CVE-2023-0669](https://github.com/0xf4n9x/CVE-2023-0669) - CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object.
-
-*   [phith0n/JavaThings](https://github.com/phith0n/JavaThings) - Share Things Related to Java - Java安全漫谈笔记相关内容
-
-*   [DXask88MA/Weblogic-CVE-2023-21839](https://github.com/DXask88MA/Weblogic-CVE-2023-21839) -
-
-*   [FFreestanding/JavaUnserializeChain](https://github.com/FFreestanding/JavaUnserializeChain) - 自己积累的一些Java反序列化利用链
-
-*   [KrystianLi/OutLook](https://github.com/KrystianLi/OutLook) - 一款OutLook信息收集工具
-
-*   [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。
-
-*   [qtc-de/beanshooter](https://github.com/qtc-de/beanshooter) - JMX enumeration and attacking tool.
-
-*   [momosecurity/rhizobia\_J](https://github.com/momosecurity/rhizobia_J) - JAVA安全SDK及编码规范
-
-*   [BeichenDream/JDR](https://github.com/BeichenDream/JDR) -
-
-*   [wh1t3p1g/tabby](https://github.com/wh1t3p1g/tabby) - A CAT called tabby ( Code Analysis Tool )
-
-*   [pandening/Java-debug-tool](https://github.com/pandening/Java-debug-tool) - Java dynamic debug tool
-
-*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
-
 ## HTML
 
 *   [roottusk/vapi](https://github.com/roottusk/vapi) - vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios through Exercises.
@@ -668,8 +670,6 @@
 *   [sense-of-security/ADRecon](https://github.com/sense-of-security/ADRecon) - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
 
 *   [ilovexjp/health-code-index](https://github.com/ilovexjp/health-code-index) - 健康码模拟 - 索引
-
-*   [Cobalt-Strike/community\_kit](https://github.com/Cobalt-Strike/community_kit) - Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work.
 
 ## Thanks
 
