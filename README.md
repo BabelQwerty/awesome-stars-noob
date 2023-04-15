@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Batchfile](#batchfile)
 *   [miscellaneous](#miscellaneous)
 *   [C#](#c)
 *   [Go](#go)
@@ -37,6 +38,10 @@
 *   [Vue](#vue)
 *   [Lua](#lua)
 *   [Thanks](#thanks)
+
+## Batchfile
+
+*   [sagishahar/lpeworkshop](https://github.com/sagishahar/lpeworkshop) - Windows / Linux Local Privilege Escalation Workshop
 
 ## miscellaneous
 
@@ -308,8 +313,6 @@
 
 *   [m4b/goblin](https://github.com/m4b/goblin) - An impish, cross-platform binary parsing crate, written in Rust
 
-*   [mgostIH/process\_list](https://github.com/mgostIH/process_list) - Rust crate to get the processes list on the operating system, with their name and id
-
 ## Python
 
 *   [ztgrace/changeme](https://github.com/ztgrace/changeme) - A default credential scanner.
@@ -474,7 +477,7 @@
 
 *   [aleenzz/ADExplorerX](https://github.com/aleenzz/ADExplorerX) -
 
-*   [aniqfakhrul/powerview.py](https://github.com/aniqfakhrul/powerview.py) - PowerView alternative
+*   [aniqfakhrul/powerview.py](https://github.com/aniqfakhrul/powerview.py) - Just another Powerview alternative
 
 *   [icyguider/MoreImpacketExamples](https://github.com/icyguider/MoreImpacketExamples) - More examples using the Impacket library designed for learning purposes.
 
