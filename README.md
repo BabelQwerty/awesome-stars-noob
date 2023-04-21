@@ -159,7 +159,7 @@
 
 *   [johnsmith0031/alpaca\_lora\_4bit](https://github.com/johnsmith0031/alpaca_lora_4bit) -
 
-*   [deep-diver/Alpaca-LoRA-Serve](https://github.com/deep-diver/Alpaca-LoRA-Serve) - Alpaca-LoRA as Chatbot service
+*   [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) - Alpaca-LoRA as Chatbot service
 
 *   [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit) -
 
