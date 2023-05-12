@@ -18,8 +18,9 @@
 
 ## Table of Contents
 
-*   [Vim Script](#vim-script)
 *   [Rust](#rust)
+*   [Lua](#lua)
+*   [Vim Script](#vim-script)
 *   [Python](#python)
 *   [PowerShell](#powershell)
 *   [miscellaneous](#miscellaneous)
@@ -38,14 +39,11 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [PHP](#php)
 *   [Vue](#vue)
-*   [Lua](#lua)
 *   [Thanks](#thanks)
 
-## Vim Script
-
-*   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-
 ## Rust
+
+*   [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 
 *   [b1tg/cobaltstrike-beacon-rust](https://github.com/b1tg/cobaltstrike-beacon-rust) - CobaltStrike beacon in rust
 
@@ -160,6 +158,16 @@
 *   [substrate-developer-hub/substrate-node-template](https://github.com/substrate-developer-hub/substrate-node-template) - A new FRAME-based Substrate node, ready for hacking.
 
 *   [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
+
+## Lua
+
+*   [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) - 🪨 This is my attempt at a basic stable starting point for a Neovim IDE.
+
+*   [M507/nmap-vulnerability-scan-scripts](https://github.com/M507/nmap-vulnerability-scan-scripts) - nmap detection scripts for CVE-2022-45477, CVE-2022-45479, CVE-2022-45482, CVE-2022-45481
+
+## Vim Script
+
+*   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Python
 
@@ -400,8 +408,6 @@
 *   [3gstudent/Homework-of-Powershell](https://github.com/3gstudent/Homework-of-Powershell) - powershell codes of my blog.
 
 *   [scipag/HardeningKitty](https://github.com/scipag/HardeningKitty) - HardeningKitty - Checks and hardens your Windows configuration
-
-*   [rasta-mouse/Aggressor-Script](https://github.com/rasta-mouse/Aggressor-Script) - Collection of Aggressor Scripts for Cobalt Strike
 
 ## miscellaneous
 
@@ -821,8 +827,6 @@
 
 *   [AdminTest0/SharpWxDump](https://github.com/AdminTest0/SharpWxDump) - 微信客户端取证，可获取用户个人信息(昵称/账号/手机/邮箱/数据库密钥(用来解密聊天记录))；支持获取多用户信息，不定期更新新版本偏移，目前支持所有新版本、正式版本
 
-*   [Tycx2ry/SweetPotato\_CS](https://github.com/Tycx2ry/SweetPotato_CS) - 修改的SweetPotato，使之可以用于CobaltStrike v4.0
-
 ## Scala
 
 *   [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
@@ -878,10 +882,6 @@
 *   [l3yx/SnowSword](https://github.com/l3yx/SnowSword) - Web版WebShell管理工具
 
 *   [AbelChe/cola\_dnslog](https://github.com/AbelChe/cola_dnslog) - Cola Dnslog v1.3.2 更加强大的dnslog平台/无回显漏洞探测辅助平台 完全开源 dnslog httplog ldaplog rmilog 支持dns http ldap rmi等协议 提供API调用方式便于与其他工具结合 支持钉钉机器人、Bark等提醒 支持docker一键部署 后端完全使用python实现 前端基于vue-element-admin二开
-
-## Lua
-
-*   [M507/nmap-vulnerability-scan-scripts](https://github.com/M507/nmap-vulnerability-scan-scripts) - nmap detection scripts for CVE-2022-45477, CVE-2022-45479, CVE-2022-45482, CVE-2022-45481
 
 ## Thanks
 
