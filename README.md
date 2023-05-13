@@ -43,6 +43,8 @@
 
 ## Rust
 
+*   [memN0ps/arsenal-rs](https://github.com/memN0ps/arsenal-rs) - Rusty Arsenal - Process Injection / Post-Exploitation Techniques in Rust
+
 *   [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 
 *   [b1tg/cobaltstrike-beacon-rust](https://github.com/b1tg/cobaltstrike-beacon-rust) - CobaltStrike beacon in rust
@@ -426,8 +428,6 @@
 *   [KimJun1010/WeblogicTool](https://github.com/KimJun1010/WeblogicTool) - WeblogicTool，GUI漏洞利用工具，支持漏洞检测、命令执行、内存马注入、密码解密等（深信服深蓝实验室天威战队强力驱动）
 
 *   [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
-
-*   [VirtualAlllocEx/AV-EPP-EDR-Windows-API-Hooking-List](https://github.com/VirtualAlllocEx/AV-EPP-EDR-Windows-API-Hooking-List) - Depending on the AV/EDR we will check which Windows APIs are hooked by the AV/EDR
 
 *   [ProbiusOfficial/CTF-QuickStart](https://github.com/ProbiusOfficial/CTF-QuickStart) - 针对0基础新手编写的CTF快速入门手册
 
