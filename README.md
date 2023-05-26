@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Makefile](#makefile)
 *   [Go](#go)
 *   [Rust](#rust)
 *   [C#](#c)
@@ -40,6 +41,10 @@
 *   [PHP](#php)
 *   [Vue](#vue)
 *   [Thanks](#thanks)
+
+## Makefile
+
+*   [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) - Simple makefile-based build for musl cross compiler
 
 ## Go
 
@@ -256,8 +261,6 @@
 *   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 
 *   [substrate-developer-hub/substrate-node-template](https://github.com/substrate-developer-hub/substrate-node-template) - A new FRAME-based Substrate node, ready for hacking.
-
-*   [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 
 ## C\#
 
