@@ -296,8 +296,6 @@
 
 *   [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
 
-*   [20142995/Goby](https://github.com/20142995/Goby) -
-
 *   [Aquilao/HackBrowserData](https://github.com/Aquilao/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 
 *   [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
@@ -393,6 +391,8 @@
 *   [jiushill/wmi-hack-py](https://github.com/jiushill/wmi-hack-py) -
 
 *   [dr0op/WeblogicScan](https://github.com/dr0op/WeblogicScan) - 增强版WeblogicScan、检测结果更精确、插件化、添加CVE-2019-2618，CVE-2019-2729检测，Python3支持
+
+*   [20142995/Goby](https://github.com/20142995/Goby) -
 
 *   [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 
