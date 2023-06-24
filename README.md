@@ -32,8 +32,8 @@
 *   [C#](#c-2)
 *   [Makefile](#makefile)
 *   [PowerShell](#powershell)
-*   [Vim Script](#vim-script)
 *   [JavaScript](#javascript)
+*   [Vim Script](#vim-script)
 *   [Dockerfile](#dockerfile)
 *   [Batchfile](#batchfile)
 *   [Scala](#scala)
@@ -239,8 +239,6 @@
 *   [Mr-Un1k0d3r/PowerLessShell](https://github.com/Mr-Un1k0d3r/PowerLessShell) - Run PowerShell command without invoking powershell.exe
 
 *   [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
-
-*   [AI-Yash/st-chat](https://github.com/AI-Yash/st-chat) - Streamlit Component, for a Chatbot UI
 
 *   [jiushill/wmi-hack-py](https://github.com/jiushill/wmi-hack-py) -
 
@@ -826,11 +824,9 @@
 
 *   [jaredcatkinson/PSReflect-Functions](https://github.com/jaredcatkinson/PSReflect-Functions) - Module to provide PowerShell functions that abstract Win32 API functions
 
-## Vim Script
-
-*   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-
 ## JavaScript
+
+*   [AI-Yash/st-chat](https://github.com/AI-Yash/st-chat) - Streamlit Component, for a Chatbot UI
 
 *   [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 
@@ -851,6 +847,10 @@
 *   [chenchenwuai/vscode-binance-price-watch](https://github.com/chenchenwuai/vscode-binance-price-watch) - vscode-binance-price-watch
 
 *   [sechacking/sgk](https://github.com/sechacking/sgk) - 仿findmima的社工库代码，基于elasticsearch和PHP构建
+
+## Vim Script
+
+*   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Dockerfile
 
