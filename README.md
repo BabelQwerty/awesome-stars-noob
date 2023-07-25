@@ -41,7 +41,6 @@
 *   [Scala](#scala)
 *   [PHP](#php)
 *   [Vue](#vue)
-*   [MDX](#mdx)
 *   [Thanks](#thanks)
 
 ## miscellaneous
@@ -381,6 +380,8 @@
 *   [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot
 
 *   [ausbitbank/ChatGPTDiscord](https://github.com/ausbitbank/ChatGPTDiscord) - Discord bot for interacting with ChatGPT's API by OpenAI
+
+*   [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 
 *   [y1nglamore/IDOR\_detect\_tool](https://github.com/y1nglamore/IDOR_detect_tool) - 一款API水平越权漏洞检测工具
 
@@ -1087,10 +1088,6 @@
 *   [l3yx/SnowSword](https://github.com/l3yx/SnowSword) - Web版WebShell管理工具
 
 *   [AbelChe/cola\_dnslog](https://github.com/AbelChe/cola_dnslog) - Cola Dnslog v1.3.2 更加强大的dnslog平台/无回显漏洞探测辅助平台 完全开源 dnslog httplog ldaplog rmilog 支持dns http ldap rmi等协议 提供API调用方式便于与其他工具结合 支持钉钉机器人、Bark等提醒 支持docker一键部署 后端完全使用python实现 前端基于vue-element-admin二开
-
-## MDX
-
-*   [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 
 ## Thanks
 
