@@ -317,7 +317,7 @@
 
 ## HTML
 
-*   [ddzipp/AutoAudit](https://github.com/ddzipp/AutoAudit) - AutoAudit—— a LLM for Cyber Security 网络安全大语言模型
+*   [ddzipp/AutoAudit](https://github.com/ddzipp/AutoAudit) - AutoAudit—— the LLM for Cyber Security 网络安全大语言模型
 
 *   [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 
