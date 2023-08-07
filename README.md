@@ -603,7 +603,7 @@
 
 ## Python
 
-*   [fin3ss3g0d/cypherhound](https://github.com/fin3ss3g0d/cypherhound) - Python3 terminal application that contains 280+ Neo4j cyphers for BloodHound data sets and 270 GUI cyphers
+*   [fin3ss3g0d/cypherhound](https://github.com/fin3ss3g0d/cypherhound) - Python3 terminal application that contains 340+ Neo4j cyphers for BloodHound data sets and 324 GUI cyphers
 
 *   [WingsSec/Meppo](https://github.com/WingsSec/Meppo) - 漏洞检测框架 Meppo | By WingsSec
 
