@@ -603,7 +603,7 @@
 
 ## Python
 
-*   [fin3ss3g0d/cypherhound](https://github.com/fin3ss3g0d/cypherhound) - Python3 terminal application that contains 340+ Neo4j cyphers for BloodHound data sets and 324 GUI cyphers
+*   [fin3ss3g0d/cypherhound](https://github.com/fin3ss3g0d/cypherhound) - Python3 terminal application that contains 360+ Neo4j cyphers for BloodHound data sets and 344 GUI cyphers
 
 *   [WingsSec/Meppo](https://github.com/WingsSec/Meppo) - 漏洞检测框架 Meppo | By WingsSec
 
@@ -679,7 +679,7 @@
 
 *   [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University
 
-*   [dadevel/mssql-spider](https://github.com/dadevel/mssql-spider) - Automated exploitation of MSSQL user impersonation and linked instances
+*   [dadevel/mssql-spider](https://github.com/dadevel/mssql-spider) - Automated exploitation of MSSQL servers at scale
 
 *   [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
 
