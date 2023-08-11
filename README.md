@@ -18,8 +18,8 @@
 
 ## Table of Contents
 
-*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
+*   [JavaScript](#javascript)
 *   [Python](#python)
 *   [C++](#c)
 *   [C](#c-1)
@@ -43,37 +43,11 @@
 *   [Vue](#vue)
 *   [Thanks](#thanks)
 
-## JavaScript
-
-*   [djerryz/electron\_shell](https://github.com/djerryz/electron_shell) - Developing a more covert Remote Access Trojan (RAT) tool by leveraging Electron's features for command injection and combining it with remote control methods.
-
-*   [AntSwordProject/AwesomeEncoder](https://github.com/AntSwordProject/AwesomeEncoder) - AntSword 自定义编(解)码器分享
-
-*   [AI-Yash/st-chat](https://github.com/AI-Yash/st-chat) - Streamlit Component, for a Chatbot UI
-
-*   [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
-
-*   [qfdk/EasyDockerWeb](https://github.com/qfdk/EasyDockerWeb) - A simple Web Ui for Docker using xterm.js, Node.js, dockerode and Socket.io
-
-*   [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
-
-*   [lyxhh/lxhToolHTTPDecrypt](https://github.com/lyxhh/lxhToolHTTPDecrypt) - Simple Android/iOS protocol analysis and utilization tool
-
-*   [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
-
-*   [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
-
-*   [Coalfire-Research/npk](https://github.com/Coalfire-Research/npk) - A mostly-serverless distributed hash cracking platform
-
-*   [trazyn/weweChat](https://github.com/trazyn/weweChat) - 💬 Unofficial WeChat client built with React, MobX and Electron.
-
-*   [chenchenwuai/vscode-binance-price-watch](https://github.com/chenchenwuai/vscode-binance-price-watch) - vscode-binance-price-watch
-
-*   [sechacking/sgk](https://github.com/sechacking/sgk) - 仿findmima的社工库代码，基于elasticsearch和PHP构建
-
-*   [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
-
 ## miscellaneous
+
+*   [badboycxcc/Brute-Ratel-C4](https://github.com/badboycxcc/Brute-Ratel-C4) -
+
+*   [yggo/SmartBIAttackTool](https://github.com/yggo/SmartBIAttackTool) - SmartBI 登录代码逻辑漏洞导致的远程代码执行利用工具
 
 *   [yhy0/nucleiY](https://github.com/yhy0/nucleiY) - 承影用的 nuclei 漏扫模板
 
@@ -208,6 +182,36 @@
 *   [cjh0613/tencent-sensitive-words](https://github.com/cjh0613/tencent-sensitive-words) - 腾讯的离线敏感词库
 
 *   [HackingCost/AD\_Pentest](https://github.com/HackingCost/AD_Pentest) - 红队|域渗透重要漏洞汇总(持续更新)
+
+## JavaScript
+
+*   [djerryz/electron\_shell](https://github.com/djerryz/electron_shell) - Developing a more covert Remote Access Trojan (RAT) tool by leveraging Electron's features for command injection and combining it with remote control methods.
+
+*   [AntSwordProject/AwesomeEncoder](https://github.com/AntSwordProject/AwesomeEncoder) - AntSword 自定义编(解)码器分享
+
+*   [AI-Yash/st-chat](https://github.com/AI-Yash/st-chat) - Streamlit Component, for a Chatbot UI
+
+*   [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
+
+*   [qfdk/EasyDockerWeb](https://github.com/qfdk/EasyDockerWeb) - A simple Web Ui for Docker using xterm.js, Node.js, dockerode and Socket.io
+
+*   [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
+
+*   [lyxhh/lxhToolHTTPDecrypt](https://github.com/lyxhh/lxhToolHTTPDecrypt) - Simple Android/iOS protocol analysis and utilization tool
+
+*   [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
+
+*   [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+
+*   [Coalfire-Research/npk](https://github.com/Coalfire-Research/npk) - A mostly-serverless distributed hash cracking platform
+
+*   [trazyn/weweChat](https://github.com/trazyn/weweChat) - 💬 Unofficial WeChat client built with React, MobX and Electron.
+
+*   [chenchenwuai/vscode-binance-price-watch](https://github.com/chenchenwuai/vscode-binance-price-watch) - vscode-binance-price-watch
+
+*   [sechacking/sgk](https://github.com/sechacking/sgk) - 仿findmima的社工库代码，基于elasticsearch和PHP构建
+
+*   [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 
 ## Python
 
@@ -369,7 +373,7 @@
 
 *   [w-digital-scanner/w12scan-client](https://github.com/w-digital-scanner/w12scan-client) - 网络资产搜索发现引擎，w12scan 扫描端程序
 
-*   [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
+*   [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
 
 *   [machine1337/gmailc2](https://github.com/machine1337/gmailc2) - A Fully Undetectable C2 Server That Communicates Via Google SMTP to evade Antivirus Protections and Network Traffic Restrictions
 
@@ -639,7 +643,7 @@
 
 *   [optiv/Freeze.rs](https://github.com/optiv/Freeze.rs) - Freeze.rs is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls written in RUST
 
-*   [KCarretto/realm](https://github.com/KCarretto/realm) -
+*   [KCarretto/realm](https://github.com/KCarretto/realm) - Realm is a cross platform Red Team engagement platform with a focus on automation and reliability.
 
 *   [zu1k/good-mitm](https://github.com/zu1k/good-mitm) - Rule-based MITM engine. Rewriting, redirecting and rejecting on HTTP(S) requests and responses, supports JavaScript.
 
@@ -873,8 +877,6 @@
 
 *   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
 
-*   [dubek/rabbitmq-dump-queue](https://github.com/dubek/rabbitmq-dump-queue) - Dump messages from a RabbitMQ queue to files, without affecting the queue.
-
 ## Java
 
 *   [yuyan-sec/DBeaver-decrypter](https://github.com/yuyan-sec/DBeaver-decrypter) - 解密DBeaver数据库软件保存的密码
@@ -976,8 +978,6 @@
 *   [mabangde/SharpGetUserLoginIPRPC](https://github.com/mabangde/SharpGetUserLoginIPRPC) - 提取域控日志，支持远程提取
 
 *   [NYAN-x-CAT/AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) - Open-Source Remote Administration Tool For Windows C# (RAT)
-
-*   [TartarusLabs/Coyote](https://github.com/TartarusLabs/Coyote) - Coyote is a standalone C# post-exploitation implant for maintaining access to compromised Windows infrastructure during red team engagements using DNS tunneling.
 
 ## PowerShell
 
