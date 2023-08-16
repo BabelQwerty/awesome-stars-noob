@@ -305,7 +305,7 @@
 
 *   [six2dez/dorks\_hunter](https://github.com/six2dez/dorks_hunter) - Simple Google Dorks search tool
 
-*   [hayabhay/frogbase](https://github.com/hayabhay/frogbase) - Create navigable knowledge from multi-media content.
+*   [hayabhay/frogbase](https://github.com/hayabhay/frogbase) - Create navigable knowledge from audiovisual content.
 
 *   [snehankekre/streamlit-d3graph](https://github.com/snehankekre/streamlit-d3graph) - A simple component to display d3graph network graphs in Streamlit apps.
 
