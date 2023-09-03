@@ -370,6 +370,8 @@
 
 *   [vesperp/xray-auto](https://github.com/vesperp/xray-auto) -
 
+*   [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An open-source adversary emulation platform
+
 ## C\#
 
 *   [daem0nc0re/PrivFu](https://github.com/daem0nc0re/PrivFu) - Kernel mode WinDbg extension and PoCs for token privilege investigation.
@@ -795,8 +797,6 @@
 *   [JDArmy/DCSec](https://github.com/JDArmy/DCSec) - 域控安全one for all
 
 *   [jxpsx/AV-EDR-WIN32-API-Hooking-List](https://github.com/jxpsx/AV-EDR-WIN32-API-Hooking-List) - Depending on the AV/EDR we will check which Windows APIs are hooked by the AV/EDR
-
-*   [lyshark/WindowsKernelBook](https://github.com/lyshark/WindowsKernelBook) - 《Windows 内核安全编程技术实践》 是一本于2023年3月4日创作完成，并于3月6日首次发表的图书作品，著作权人是王瑞。本书图文并茂、深入浅出、案例丰富，是Windows内核开发工程师的参考资料，也可供信息安全，软件工程等相关专业本科及以上在校生学习参考。本书是近年来少见的关于揭秘AntiRootkit反内核工具实现细节的相关书籍。
 
 *   [biggerduck/RedTeamNotes](https://github.com/biggerduck/RedTeamNotes) - 红队笔记
 
