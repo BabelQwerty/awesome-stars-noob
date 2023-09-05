@@ -282,8 +282,6 @@
 
 *   [z-bool/CVE-2022-40684](https://github.com/z-bool/CVE-2022-40684) - 一键枚举所有用户名以及写入SSH公钥
 
-*   [n3rada/zero-effort](https://github.com/n3rada/zero-effort) - Exploiting CVE-2020-1472 vulnerability (a.k.a Zerologon) without effort.
-
 *   [refraction-ray/xalpha](https://github.com/refraction-ray/xalpha) - 基金投资管理回测引擎
 
 *   [w-digital-scanner/w12scan-client](https://github.com/w-digital-scanner/w12scan-client) - 网络资产搜索发现引擎，w12scan 扫描端程序
@@ -371,6 +369,8 @@
 *   [vesperp/xray-auto](https://github.com/vesperp/xray-auto) -
 
 *   [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An open-source adversary emulation platform
+
+*   [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
 
 ## C\#
 
@@ -1078,7 +1078,7 @@
 
 *   [alibaba/lowcode-demo](https://github.com/alibaba/lowcode-demo) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 
-*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 
 *   [kahosan/lolicon-chat-bot](https://github.com/kahosan/lolicon-chat-bot) -
 
