@@ -18,14 +18,14 @@
 
 ## Table of Contents
 
+*   [PowerShell](#powershell)
 *   [Python](#python)
-*   [C](#c)
+*   [C++](#c)
 *   [C#](#c-1)
+*   [C](#c-2)
 *   [Go](#go)
 *   [Rust](#rust)
-*   [C++](#c-2)
 *   [CSS](#css)
-*   [PowerShell](#powershell)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
@@ -44,7 +44,33 @@
 *   [Vue](#vue)
 *   [Thanks](#thanks)
 
+## PowerShell
+
+*   [WazeHell/vulnerable-AD](https://github.com/WazeHell/vulnerable-AD) - Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab
+
+*   [Marshall-Hallenbeck/red\_team\_attack\_lab](https://github.com/Marshall-Hallenbeck/red_team_attack_lab) - Red Team Attack Lab for TTP testing & research
+
+*   [danielbohannon/Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) - PowerShell Obfuscator
+
+*   [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
+
+*   [61106960/adPEAS](https://github.com/61106960/adPEAS) - Powershell tool to automate Active Directory enumeration.
+
+*   [peewpw/Invoke-WCMDump](https://github.com/peewpw/Invoke-WCMDump) - PowerShell Script to Dump Windows Credentials from the Credential Manager
+
+*   [IAMinZoho/OFFSEC-PowerShell](https://github.com/IAMinZoho/OFFSEC-PowerShell) - My Favorite Offensive Security Scripts
+
+*   [api0cradle/CVE-2023-23397-POC-Powershell](https://github.com/api0cradle/CVE-2023-23397-POC-Powershell) -
+
+*   [rasta-mouse/Sherlock](https://github.com/rasta-mouse/Sherlock) - PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities.
+
+*   [0xBallpoint/LOAD](https://github.com/0xBallpoint/LOAD) - Lord Of Active Directory - automatic vulnerable active directory on AWS
+
+*   [jaredcatkinson/PSReflect-Functions](https://github.com/jaredcatkinson/PSReflect-Functions) - Module to provide PowerShell functions that abstract Win32 API functions
+
 ## Python
+
+*   [Pennyw0rth/CrackMapExec](https://github.com/Pennyw0rth/CrackMapExec) - A swiss army knife for pentesting networks
 
 *   [XiaoliChan/CrackMapExec](https://github.com/XiaoliChan/CrackMapExec) - A swiss army knife for pentesting networks
 
@@ -300,7 +326,101 @@
 
 *   [vesperp/xray-auto](https://github.com/vesperp/xray-auto) -
 
-*   [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An open-source adversary emulation platform
+## C++
+
+*   [NytroRST/ShellcodeCompiler](https://github.com/NytroRST/ShellcodeCompiler) - Shellcode Compiler
+
+*   [deepinstinct/ContainYourself](https://github.com/deepinstinct/ContainYourself) - A PoC of the ContainYourself research presented in DEFCON 31, which abuses the Windows containers framework to bypass EDRs.
+
+*   [S12cybersecurity/RDPCredentialStealer](https://github.com/S12cybersecurity/RDPCredentialStealer) - RDPCredentialStealer it's a malware that steal credentials provided by users in RDP using API Hooking with Detours in C++
+
+*   [RtlDallas/KrakenMask](https://github.com/RtlDallas/KrakenMask) - Sleep obfuscation
+
+*   [iGh0st/gh0st3.6\_src](https://github.com/iGh0st/gh0st3.6_src) -
+
+*   [yuanyuanxiang/SimpleRemoter](https://github.com/yuanyuanxiang/SimpleRemoter) - 基于gh0st的远程控制器：实现了终端管理、进程管理、窗口管理、远程桌面、文件管理、语音管理、视频管理、服务管理、注册表管理等功能，优化全部代码及整理排版，修复内存泄漏缺陷，程序运行稳定。项目代码仅限于学习和交流用途。
+
+*   [hasherezade/pe\_to\_shellcode](https://github.com/hasherezade/pe_to_shellcode) - Converts PE into a shellcode
+
+*   [ZeroMemoryEx/Terminator](https://github.com/ZeroMemoryEx/Terminator) - Reproducing Spyboy technique to terminate all EDR/XDR/AVs processes
+
+*   [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) -
+
+*   [ShorSec/HWSyscalls](https://github.com/ShorSec/HWSyscalls) - HWSyscalls is a new method to execute indirect syscalls using HWBP, HalosGate and a synthetic trampoline on kernel32 with HWBP.
+
+*   [georgesotiriadis/Chimera](https://github.com/georgesotiriadis/Chimera) - Automated DLL Sideloading Tool With EDR Evasion Capabilities
+
+*   [lsecqt/OffensiveCpp](https://github.com/lsecqt/OffensiveCpp) - This repo contains C/C++ snippets that can be handy in specific offensive scenarios.
+
+*   [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 私有部署zerotier-planet服务
+
+*   [itm4n/PPLmedic](https://github.com/itm4n/PPLmedic) - Dump the memory of any PPL with a Userland exploit chain
+
+*   [XaFF-XaFF/Black-Angel-Rootkit](https://github.com/XaFF-XaFF/Black-Angel-Rootkit) - Black Angel is a Windows 11/10 x64 kernel mode rootkit. Rootkit can be loaded with enabled DSE while maintaining its full functionality.
+
+*   [ldsaiyan/EventLogPersist](https://github.com/ldsaiyan/EventLogPersist) - A Simple Proof Code for Extracting and Executing Shellcode from Event Logs
+
+*   [LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
+
+*   [mrexodia/lolbin-poc](https://github.com/mrexodia/lolbin-poc) - Small PoC of using a Microsoft signed executable as a lolbin.
+
+*   [ZeroMemoryEx/APT38-0day-Stealer](https://github.com/ZeroMemoryEx/APT38-0day-Stealer) - APT38 Tactic PoC for Stealing 0days from security professionals
+
+*   [TheD1rkMtr/FilelessPELoader](https://github.com/TheD1rkMtr/FilelessPELoader) - Loading Remote AES Encrypted PE in memory , Decrypted it and run it
+
+*   [wanttobeno/SunDaySearchSignCode](https://github.com/wanttobeno/SunDaySearchSignCode) - 基于sunday算法的内存快速搜索，搜索2GB内存只需1秒
+
+*   [TheD1rkMtr/Shellcode-Hide](https://github.com/TheD1rkMtr/Shellcode-Hide) - This repo contains : simple shellcode Loader , Encoders (base64 - custom - UUID - IPv4 - MAC), Encryptors (AES), Fileless Loader (Winhttp, socket)
+
+*   [baiyies/CppWeixinHunter](https://github.com/baiyies/CppWeixinHunter) - 微信解密 c++实现。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。Search information of Wechat from memory.
+
+*   [matthieu-hackwitharts/Win32\_Offensive\_Cheatsheet](https://github.com/matthieu-hackwitharts/Win32_Offensive_Cheatsheet) - Win32 and Kernel abusing techniques for pentesters
+
+*   [cxasm/cc-compare](https://github.com/cxasm/cc-compare) - 一款可替换beycond compare, 免费使用的代码同步对比工具，来自中国。
+
+*   [wh0amitz/BypassCredGuard](https://github.com/wh0amitz/BypassCredGuard) - Credential Guard Bypass Via Patching Wdigest Memory
+
+## C\#
+
+*   [Flangvik/SharpProxyLogon](https://github.com/Flangvik/SharpProxyLogon) - C# POC for CVE-2021-26855 aka ProxyLogon, supports the classically semi-interactive web shell as well as shellcode injection
+
+*   [daem0nc0re/PrivFu](https://github.com/daem0nc0re/PrivFu) - Kernel mode WinDbg extension and PoCs for token privilege investigation.
+
+*   [ironmansoftware/code-conversion](https://github.com/ironmansoftware/code-conversion) - Code conversion command line tool for PowerShell and C#
+
+*   [uknowsec/SharpEventLog](https://github.com/uknowsec/SharpEventLog) - c# 读取登录过本机的登录失败或登录成功（4624，4625）的所有计算机信息，在内网渗透中快速定位运维管理人员。
+
+*   [m3rcer/Chisel-Strike](https://github.com/m3rcer/Chisel-Strike) - A .NET XOR encrypted cobalt strike aggressor implementation for chisel to utilize faster proxy and advanced socks5 capabilities.
+
+*   [matterpreter/OffensiveCSharp](https://github.com/matterpreter/OffensiveCSharp) - Collection of Offensive C# Tooling
+
+*   [3lpsy/FactionCore](https://github.com/3lpsy/FactionCore) - Faction C2 Framework Core Server
+
+*   [WesleyWong420/RedTeamOps-Havoc-101](https://github.com/WesleyWong420/RedTeamOps-Havoc-101) - Materials for the workshop "Red Team Ops: Havoc 101"
+
+*   [malcomvetter/CSExec](https://github.com/malcomvetter/CSExec) - An implementation of PSExec in C#
+
+*   [sqrtZeroKnowledge/CVE-2023-23397\_EXPLOIT\_0DAY](https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY) - Exploit for the CVE-2023-23397
+
+*   [FSecureLABS/SharpGPOAbuse](https://github.com/FSecureLABS/SharpGPOAbuse) - SharpGPOAbuse is a .NET application written in C# that can be used to take advantage of a user's edit rights on a Group Policy Object (GPO) in order to compromise the objects that are controlled by that GPO.
+
+*   [qwqdanchun/DcRat](https://github.com/qwqdanchun/DcRat) - A simple remote tool in C#.
+
+*   [BeichenDream/SharpToken](https://github.com/BeichenDream/SharpToken) - Windows Token Stealing Expert
+
+*   [Hzllaga/ShellcodeLoader](https://github.com/Hzllaga/ShellcodeLoader) - 将shellcode用rsa加密并动态编译exe，自带几种反沙箱技术。
+
+*   [JDArmy/SharpSpray](https://github.com/JDArmy/SharpSpray) - 域内密码喷射工具
+
+*   [icsharpcode/AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy)
+
+*   [cube0x0/CVE-2021-1675](https://github.com/cube0x0/CVE-2021-1675) - C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527
+
+*   [1y0n/AV\_Evasion\_Tool](https://github.com/1y0n/AV_Evasion_Tool) - 掩日 - 免杀执行器生成工具
+
+*   [mabangde/SharpGetUserLoginIPRPC](https://github.com/mabangde/SharpGetUserLoginIPRPC) - 提取域控日志，支持远程提取
+
+*   [NYAN-x-CAT/AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) - Open-Source Remote Administration Tool For Windows C# (RAT)
 
 ## C
 
@@ -369,46 +489,6 @@
 *   [LethalSnake1337/PE-Loader-exercise](https://github.com/LethalSnake1337/PE-Loader-exercise) - A simple PE loader.
 
 *   [jas502n/coremail-checkwkpass](https://github.com/jas502n/coremail-checkwkpass) - enc8 密码碰撞脚本
-
-## C\#
-
-*   [daem0nc0re/PrivFu](https://github.com/daem0nc0re/PrivFu) - Kernel mode WinDbg extension and PoCs for token privilege investigation.
-
-*   [ironmansoftware/code-conversion](https://github.com/ironmansoftware/code-conversion) - Code conversion command line tool for PowerShell and C#
-
-*   [uknowsec/SharpEventLog](https://github.com/uknowsec/SharpEventLog) - c# 读取登录过本机的登录失败或登录成功（4624，4625）的所有计算机信息，在内网渗透中快速定位运维管理人员。
-
-*   [m3rcer/Chisel-Strike](https://github.com/m3rcer/Chisel-Strike) - A .NET XOR encrypted cobalt strike aggressor implementation for chisel to utilize faster proxy and advanced socks5 capabilities.
-
-*   [matterpreter/OffensiveCSharp](https://github.com/matterpreter/OffensiveCSharp) - Collection of Offensive C# Tooling
-
-*   [3lpsy/FactionCore](https://github.com/3lpsy/FactionCore) - Faction C2 Framework Core Server
-
-*   [WesleyWong420/RedTeamOps-Havoc-101](https://github.com/WesleyWong420/RedTeamOps-Havoc-101) - Materials for the workshop "Red Team Ops: Havoc 101"
-
-*   [malcomvetter/CSExec](https://github.com/malcomvetter/CSExec) - An implementation of PSExec in C#
-
-*   [sqrtZeroKnowledge/CVE-2023-23397\_EXPLOIT\_0DAY](https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY) - Exploit for the CVE-2023-23397
-
-*   [FSecureLABS/SharpGPOAbuse](https://github.com/FSecureLABS/SharpGPOAbuse) - SharpGPOAbuse is a .NET application written in C# that can be used to take advantage of a user's edit rights on a Group Policy Object (GPO) in order to compromise the objects that are controlled by that GPO.
-
-*   [qwqdanchun/DcRat](https://github.com/qwqdanchun/DcRat) - A simple remote tool in C#.
-
-*   [BeichenDream/SharpToken](https://github.com/BeichenDream/SharpToken) - Windows Token Stealing Expert
-
-*   [Hzllaga/ShellcodeLoader](https://github.com/Hzllaga/ShellcodeLoader) - 将shellcode用rsa加密并动态编译exe，自带几种反沙箱技术。
-
-*   [JDArmy/SharpSpray](https://github.com/JDArmy/SharpSpray) - 域内密码喷射工具
-
-*   [icsharpcode/AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy)
-
-*   [cube0x0/CVE-2021-1675](https://github.com/cube0x0/CVE-2021-1675) - C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527
-
-*   [1y0n/AV\_Evasion\_Tool](https://github.com/1y0n/AV_Evasion_Tool) - 掩日 - 免杀执行器生成工具
-
-*   [mabangde/SharpGetUserLoginIPRPC](https://github.com/mabangde/SharpGetUserLoginIPRPC) - 提取域控日志，支持远程提取
-
-*   [NYAN-x-CAT/AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) - Open-Source Remote Administration Tool For Windows C# (RAT)
 
 ## Go
 
@@ -678,85 +758,9 @@
 
 *   [b23r0/Heroinn](https://github.com/b23r0/Heroinn) - A cross platform C2/post-exploitation framework.
 
-## C++
-
-*   [deepinstinct/ContainYourself](https://github.com/deepinstinct/ContainYourself) - A PoC of the ContainYourself research presented in DEFCON 31, which abuses the Windows containers framework to bypass EDRs.
-
-*   [S12cybersecurity/RDPCredentialStealer](https://github.com/S12cybersecurity/RDPCredentialStealer) - RDPCredentialStealer it's a malware that steal credentials provided by users in RDP using API Hooking with Detours in C++
-
-*   [RtlDallas/KrakenMask](https://github.com/RtlDallas/KrakenMask) - Sleep obfuscation
-
-*   [iGh0st/gh0st3.6\_src](https://github.com/iGh0st/gh0st3.6_src) -
-
-*   [yuanyuanxiang/SimpleRemoter](https://github.com/yuanyuanxiang/SimpleRemoter) - 基于gh0st的远程控制器：实现了终端管理、进程管理、窗口管理、远程桌面、文件管理、语音管理、视频管理、服务管理、注册表管理等功能，优化全部代码及整理排版，修复内存泄漏缺陷，程序运行稳定。项目代码仅限于学习和交流用途。
-
-*   [hasherezade/pe\_to\_shellcode](https://github.com/hasherezade/pe_to_shellcode) - Converts PE into a shellcode
-
-*   [ZeroMemoryEx/Terminator](https://github.com/ZeroMemoryEx/Terminator) - Reproducing Spyboy technique to terminate all EDR/XDR/AVs processes
-
-*   [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) -
-
-*   [ShorSec/HWSyscalls](https://github.com/ShorSec/HWSyscalls) - HWSyscalls is a new method to execute indirect syscalls using HWBP, HalosGate and a synthetic trampoline on kernel32 with HWBP.
-
-*   [georgesotiriadis/Chimera](https://github.com/georgesotiriadis/Chimera) - Automated DLL Sideloading Tool With EDR Evasion Capabilities
-
-*   [lsecqt/OffensiveCpp](https://github.com/lsecqt/OffensiveCpp) - This repo contains C/C++ snippets that can be handy in specific offensive scenarios.
-
-*   [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 私有部署zerotier-planet服务
-
-*   [itm4n/PPLmedic](https://github.com/itm4n/PPLmedic) - Dump the memory of any PPL with a Userland exploit chain
-
-*   [XaFF-XaFF/Black-Angel-Rootkit](https://github.com/XaFF-XaFF/Black-Angel-Rootkit) - Black Angel is a Windows 11/10 x64 kernel mode rootkit. Rootkit can be loaded with enabled DSE while maintaining its full functionality.
-
-*   [ldsaiyan/EventLogPersist](https://github.com/ldsaiyan/EventLogPersist) - A Simple Proof Code for Extracting and Executing Shellcode from Event Logs
-
-*   [LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
-
-*   [mrexodia/lolbin-poc](https://github.com/mrexodia/lolbin-poc) - Small PoC of using a Microsoft signed executable as a lolbin.
-
-*   [ZeroMemoryEx/APT38-0day-Stealer](https://github.com/ZeroMemoryEx/APT38-0day-Stealer) - APT38 Tactic PoC for Stealing 0days
-
-*   [TheD1rkMtr/FilelessPELoader](https://github.com/TheD1rkMtr/FilelessPELoader) - Loading Remote AES Encrypted PE in memory , Decrypted it and run it
-
-*   [wanttobeno/SunDaySearchSignCode](https://github.com/wanttobeno/SunDaySearchSignCode) - 基于sunday算法的内存快速搜索，搜索2GB内存只需1秒
-
-*   [TheD1rkMtr/Shellcode-Hide](https://github.com/TheD1rkMtr/Shellcode-Hide) - This repo contains : simple shellcode Loader , Encoders (base64 - custom - UUID - IPv4 - MAC), Encryptors (AES), Fileless Loader (Winhttp, socket)
-
-*   [baiyies/CppWeixinHunter](https://github.com/baiyies/CppWeixinHunter) - 微信解密 c++实现。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。Search information of Wechat from memory.
-
-*   [matthieu-hackwitharts/Win32\_Offensive\_Cheatsheet](https://github.com/matthieu-hackwitharts/Win32_Offensive_Cheatsheet) - Win32 and Kernel abusing techniques for pentesters
-
-*   [cxasm/cc-compare](https://github.com/cxasm/cc-compare) - 一款可替换beycond compare, 免费使用的代码同步对比工具，来自中国。
-
-*   [wh0amitz/BypassCredGuard](https://github.com/wh0amitz/BypassCredGuard) - Credential Guard Bypass Via Patching Wdigest Memory
-
-*   [Wh04m1001/CVE-2023-21752](https://github.com/Wh04m1001/CVE-2023-21752) -
-
 ## CSS
 
 *   [smokeme/airstrike](https://github.com/smokeme/airstrike) -
-
-## PowerShell
-
-*   [Marshall-Hallenbeck/red\_team\_attack\_lab](https://github.com/Marshall-Hallenbeck/red_team_attack_lab) - Red Team Attack Lab for TTP testing & research
-
-*   [danielbohannon/Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) - PowerShell Obfuscator
-
-*   [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
-
-*   [61106960/adPEAS](https://github.com/61106960/adPEAS) - Powershell tool to automate Active Directory enumeration.
-
-*   [peewpw/Invoke-WCMDump](https://github.com/peewpw/Invoke-WCMDump) - PowerShell Script to Dump Windows Credentials from the Credential Manager
-
-*   [IAMinZoho/OFFSEC-PowerShell](https://github.com/IAMinZoho/OFFSEC-PowerShell) - My Favorite Offensive Security Scripts
-
-*   [api0cradle/CVE-2023-23397-POC-Powershell](https://github.com/api0cradle/CVE-2023-23397-POC-Powershell) -
-
-*   [rasta-mouse/Sherlock](https://github.com/rasta-mouse/Sherlock) - PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities.
-
-*   [0xBallpoint/LOAD](https://github.com/0xBallpoint/LOAD) - Lord Of Active Directory - automatic vulnerable active directory on AWS
-
-*   [jaredcatkinson/PSReflect-Functions](https://github.com/jaredcatkinson/PSReflect-Functions) - Module to provide PowerShell functions that abstract Win32 API functions
 
 ## miscellaneous
 
@@ -891,10 +895,6 @@
 *   [storerjeremy/browserless-docker-compose](https://github.com/storerjeremy/browserless-docker-compose) - a docker compose file for running Browserless
 
 *   [N7WEra/BofAllTheThings](https://github.com/N7WEra/BofAllTheThings) - Creating a repository with all public Beacon Object Files (BoFs)
-
-*   [TryGOTry/CobaltStrike\_Cat\_4.5](https://github.com/TryGOTry/CobaltStrike_Cat_4.5) - 猫猫Cs:基于Cobalt Strike\[4.5]二开 (原dogcs二开移植)
-
-*   [cjh0613/tencent-sensitive-words](https://github.com/cjh0613/tencent-sensitive-words) - 腾讯的离线敏感词库
 
 ## JavaScript
 
