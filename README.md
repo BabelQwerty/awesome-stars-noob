@@ -18,8 +18,9 @@
 
 ## Table of Contents
 
-*   [Rust](#rust)
 *   [PowerShell](#powershell)
+*   [Java](#java)
+*   [Rust](#rust)
 *   [Python](#python)
 *   [C++](#c)
 *   [C#](#c-1)
@@ -29,7 +30,6 @@
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
-*   [Java](#java)
 *   [Ruby](#ruby)
 *   [Shell](#shell)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -43,6 +43,112 @@
 *   [PHP](#php)
 *   [Vue](#vue)
 *   [Thanks](#thanks)
+
+## PowerShell
+
+*   [mthcht/ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords) - Awesome list of keywords for Threat Hunting sessions
+
+*   [WazeHell/vulnerable-AD](https://github.com/WazeHell/vulnerable-AD) - Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab
+
+*   [Marshall-Hallenbeck/red\_team\_attack\_lab](https://github.com/Marshall-Hallenbeck/red_team_attack_lab) - Red Team Attack Lab for TTP testing & research
+
+*   [danielbohannon/Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) - PowerShell Obfuscator
+
+*   [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
+
+*   [61106960/adPEAS](https://github.com/61106960/adPEAS) - Powershell tool to automate Active Directory enumeration.
+
+*   [peewpw/Invoke-WCMDump](https://github.com/peewpw/Invoke-WCMDump) - PowerShell Script to Dump Windows Credentials from the Credential Manager
+
+*   [IAMinZoho/OFFSEC-PowerShell](https://github.com/IAMinZoho/OFFSEC-PowerShell) - My Favorite Offensive Security Scripts
+
+*   [api0cradle/CVE-2023-23397-POC-Powershell](https://github.com/api0cradle/CVE-2023-23397-POC-Powershell) -
+
+*   [rasta-mouse/Sherlock](https://github.com/rasta-mouse/Sherlock) - PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities.
+
+*   [0xBallpoint/LOAD](https://github.com/0xBallpoint/LOAD) - Lord Of Active Directory - automatic vulnerable active directory on AWS
+
+*   [jaredcatkinson/PSReflect-Functions](https://github.com/jaredcatkinson/PSReflect-Functions) - Module to provide PowerShell functions that abstract Win32 API functions
+
+*   [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
+
+*   [3gstudent/Homework-of-Powershell](https://github.com/3gstudent/Homework-of-Powershell) - powershell codes of my blog.
+
+*   [scipag/HardeningKitty](https://github.com/scipag/HardeningKitty) - HardeningKitty - Checks and hardens your Windows configuration
+
+*   [rasta-mouse/Aggressor-Script](https://github.com/rasta-mouse/Aggressor-Script) - Collection of Aggressor Scripts for Cobalt Strike
+
+*   [rsmudge/ElevateKit](https://github.com/rsmudge/ElevateKit) - The Elevate Kit demonstrates how to use third-party privilege escalation attacks with Cobalt Strike's Beacon payload.
+
+*   [yanghaoi/CobaltStrike\_CNA](https://github.com/yanghaoi/CobaltStrike_CNA) - 使用多种WinAPI进行权限维持的CobaltStrike脚本，包含API设置系统服务，设置计划任务，管理用户等。
+
+## Java
+
+*   [pykiller/API-T00L](https://github.com/pykiller/API-T00L) -
+
+*   [yuyan-sec/DBeaver-decrypter](https://github.com/yuyan-sec/DBeaver-decrypter) - 解密DBeaver数据库软件保存的密码
+
+*   [doyensec/burpdeveltraining](https://github.com/doyensec/burpdeveltraining) - Material for the training "Developing Burp Suite Extensions – From Manual Testing to Security Automation"
+
+*   [c0olw/NacosRce](https://github.com/c0olw/NacosRce) - Nacos JRaft Hessian 反序列化 RCE 加载字节码 注入内存马 不出网利用
+
+*   [BeichenDream/PostConfluence](https://github.com/BeichenDream/PostConfluence) - 哥斯拉Confluence后渗透插件  MakeToken SearchPage  ListAllUser AddAdminUser ListAllPage ........
+
+*   [pap1rman/postnacos](https://github.com/pap1rman/postnacos) - 哥斯拉nacos后渗透插件 maketoken adduser
+
+*   [xi3w3n/Attacking\_Shiro\_With\_Weblogic](https://github.com/xi3w3n/Attacking_Shiro_With_Weblogic) -
+
+*   [1n7erface/PocList](https://github.com/1n7erface/PocList) - Alibaba-Nacos-Unauthorized/ApacheDruid-RCE\_CVE-2021-25646/MS-Exchange-SSRF-CVE-2021-26885/Oracle-WebLogic-CVE-2021-2109\_RCE/RG-CNVD-2021-14536/RJ-SSL-VPN-UltraVires/Redis-Unauthorized-RCE/TDOA-V11.7-GetOnlineCookie/VMware-vCenter-GetAnyFile/yongyou-GRP-U8-XXE/Oracle-WebLogic-CVE-2020-14883/Oracle-WebLogic-CVE-2020-14882/Apache-Solr-GetAnyFile/F5-BIG-IP-CVE-2021-22986/Sonicwall-SSL-VPN-RCE/GitLab-Graphql-CNVD-2021-14193/D-Link-DCS-CVE-2020-25078/WLAN-AP-WEA453e-RCE/360TianQing-Unauthorized/360TianQing-SQLinjection/FanWeiOA-V8-SQLinjection/QiZhiBaoLeiJi-AnyUserLogin/QiAnXin-WangKangFirewall-RCE/金山-V8-终端安全系统/NCCloud-SQLinjection/ShowDoc-RCE
+
+*   [safe6Sec/ShellManageTool](https://github.com/safe6Sec/ShellManageTool) - 在网传的哥斯拉&冰蝎源码基础上加了一点注释
+
+*   [kezibei/Urldns](https://github.com/kezibei/Urldns) -
+
+*   [yzddmr6/Java-Shellcode-Loader](https://github.com/yzddmr6/Java-Shellcode-Loader) - 基于Java实现的Shellcode加载器
+
+*   [altEr1125/ShiroAttack2](https://github.com/altEr1125/ShiroAttack2) - 一款针对Shiro550漏洞进行快速漏洞利用工具。 对 @SummerSec 大佬的项目https://github.com/SummerSec/ShiroAttack2 进行了一些改进。
+
+*   [lqs1848/AllatoriCrack](https://github.com/lqs1848/AllatoriCrack) - 破解 Java 混淆工具 Allatori
+
+*   [LostZX/utools](https://github.com/LostZX/utools) -
+
+*   [lsieun/learn-java-asm](https://github.com/lsieun/learn-java-asm) - :bug: Java ASM
+
+*   [0x727/BypassPro](https://github.com/0x727/BypassPro) - 对权限绕过自动化bypass的burpsuite插件
+
+*   [4ra1n/jar-analyzer-gui](https://github.com/4ra1n/jar-analyzer-gui) - 一个用于分析Jar包的GUI工具，可以用多种方式搜索你想要的信息，自动构建方法调用关系，支持分析Spring框架（A Java GUI Tool for Analyzing Jar）
+
+*   [coderabbit214/bibliothecarius](https://github.com/coderabbit214/bibliothecarius) - Quickly build services to integrate your local data and AI models.
+
+*   [Mr-xn/RedTeam\_BlueTeam\_HW](https://github.com/Mr-xn/RedTeam_BlueTeam_HW) - 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具
+
+*   [0xf4n9x/CVE-2023-0669](https://github.com/0xf4n9x/CVE-2023-0669) - CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object.
+
+*   [phith0n/JavaThings](https://github.com/phith0n/JavaThings) - Share Things Related to Java - Java安全漫谈笔记相关内容
+
+*   [DXask88MA/Weblogic-CVE-2023-21839](https://github.com/DXask88MA/Weblogic-CVE-2023-21839) -
+
+*   [FFreestanding/JavaUnserializeChain](https://github.com/FFreestanding/JavaUnserializeChain) - 自己积累的一些Java反序列化利用链
+
+*   [KrystianLi/ExchangeOWA](https://github.com/KrystianLi/ExchangeOWA) - 一款OutLook信息收集工具
+
+*   [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。
+
+*   [qtc-de/beanshooter](https://github.com/qtc-de/beanshooter) - JMX enumeration and attacking tool.
+
+*   [momosecurity/rhizobia\_J](https://github.com/momosecurity/rhizobia_J) - JAVA安全SDK及编码规范
+
+*   [BeichenDream/JDR](https://github.com/BeichenDream/JDR) -
+
+*   [wh1t3p1g/tabby](https://github.com/wh1t3p1g/tabby) - A CAT called tabby ( Code Analysis Tool )
+
+*   [pandening/Java-debug-tool](https://github.com/pandening/Java-debug-tool) - Java dynamic debug tool
+
+*   [r00t4dm/aLIEz](https://github.com/r00t4dm/aLIEz) - 杀内存马的工具，欢迎code review，提出更好的意见
+
+*   [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
+
+*   [veo/wsMemShell](https://github.com/veo/wsMemShell) - WebSocket 内存马/Webshell，一种新型内存马/WebShell技术
 
 ## Rust
 
@@ -192,33 +298,33 @@
 
 *   [b23r0/Heroinn](https://github.com/b23r0/Heroinn) - A cross platform C2/post-exploitation framework.
 
-## PowerShell
+*   [m4b/goblin](https://github.com/m4b/goblin) - An impish, cross-platform binary parsing crate, written in Rust
 
-*   [WazeHell/vulnerable-AD](https://github.com/WazeHell/vulnerable-AD) - Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab
+*   [mgostIH/process\_list](https://github.com/mgostIH/process_list) - Rust crate to get the processes list on the operating system, with their name and id
 
-*   [Marshall-Hallenbeck/red\_team\_attack\_lab](https://github.com/Marshall-Hallenbeck/red_team_attack_lab) - Red Team Attack Lab for TTP testing & research
+*   [postrequest/link](https://github.com/postrequest/link) - link is a command and control framework written in rust
 
-*   [danielbohannon/Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) - PowerShell Obfuscator
+*   [darkarp/chromepass](https://github.com/darkarp/chromepass) - Chromepass - Hacking Chrome Saved Passwords
 
-*   [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
+*   [OPENCYBER-FR/RustHound](https://github.com/OPENCYBER-FR/RustHound) - Active Directory data collector for BloodHound written in Rust. 🦀
 
-*   [61106960/adPEAS](https://github.com/61106960/adPEAS) - Powershell tool to automate Active Directory enumeration.
+*   [YDHCUI/manjusaka](https://github.com/YDHCUI/manjusaka) - 牛屎花 一款基于WEB界面的远程主机管理工具
 
-*   [peewpw/Invoke-WCMDump](https://github.com/peewpw/Invoke-WCMDump) - PowerShell Script to Dump Windows Credentials from the Credential Manager
+*   [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 
-*   [IAMinZoho/OFFSEC-PowerShell](https://github.com/IAMinZoho/OFFSEC-PowerShell) - My Favorite Offensive Security Scripts
+*   [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Forensic Artefacts
 
-*   [api0cradle/CVE-2023-23397-POC-Powershell](https://github.com/api0cradle/CVE-2023-23397-POC-Powershell) -
+*   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 
-*   [rasta-mouse/Sherlock](https://github.com/rasta-mouse/Sherlock) - PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities.
+*   [substrate-developer-hub/substrate-node-template](https://github.com/substrate-developer-hub/substrate-node-template) - A new FRAME-based Substrate node, ready for hacking.
 
-*   [0xBallpoint/LOAD](https://github.com/0xBallpoint/LOAD) - Lord Of Active Directory - automatic vulnerable active directory on AWS
+*   [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 
-*   [jaredcatkinson/PSReflect-Functions](https://github.com/jaredcatkinson/PSReflect-Functions) - Module to provide PowerShell functions that abstract Win32 API functions
+*   [wumb0/rust\_bof](https://github.com/wumb0/rust_bof) - Cobalt Strike Beacon Object Files (BOFs) written in rust with rust core and alloc.
 
 ## Python
 
-*   [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution tool
+*   [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 
 *   [XiaoliChan/CrackMapExec](https://github.com/XiaoliChan/CrackMapExec) - A swiss army knife for pentesting networks
 
@@ -327,6 +433,8 @@
 *   [ztgrace/changeme](https://github.com/ztgrace/changeme) - A default credential scanner.
 
 *   [citronneur/rdpy](https://github.com/citronneur/rdpy) - Remote Desktop Protocol in Twisted Python
+
+*   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
 *   [orleven/Hamster](https://github.com/orleven/Hamster) - Hamster是基于mitmproxy开发的异步被动扫描框架，基于http代理进行被动扫描，主要功能为重写数据包、签名、漏洞扫描、敏感参数收集等功能（开发中）。
 
@@ -474,6 +582,62 @@
 
 *   [vesperp/xray-auto](https://github.com/vesperp/xray-auto) -
 
+*   [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An open-source adversary emulation platform
+
+*   [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
+
+*   [nccgroup/web3-decoder](https://github.com/nccgroup/web3-decoder) -
+
+*   [aleenzz/ADExplorerX](https://github.com/aleenzz/ADExplorerX) -
+
+*   [aniqfakhrul/powerview.py](https://github.com/aniqfakhrul/powerview.py) - Just another Powerview alternative
+
+*   [icyguider/MoreImpacketExamples](https://github.com/icyguider/MoreImpacketExamples) - More examples using the Impacket library designed for learning purposes.
+
+*   [hakril/PythonForWindows](https://github.com/hakril/PythonForWindows) - A codebase aimed to make interaction with Windows and native execution easier
+
+*   [Litt1eQ/aliyundrive-api](https://github.com/Litt1eQ/aliyundrive-api) - 阿里云盘PythonAPI
+
+*   [Anof-cyber/APTRS](https://github.com/Anof-cyber/APTRS) - Automated Penetration Testing Reporting System
+
+*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+
+*   [XiaoliChan/RedCaddy](https://github.com/XiaoliChan/RedCaddy) - C2 redirector base on caddy
+
+*   [LiAoRJ/CS\_fakesubmit](https://github.com/LiAoRJ/CS_fakesubmit) - 一个可以伪装上线Cobaltstrike的脚本
+
+*   [aStrowxyu/Pysoserial](https://github.com/aStrowxyu/Pysoserial) - Python-based proof-of-concept tool for generating payloads that utilize unsafe Java object deserialization.
+
+*   [xz-zone/Webpackfind](https://github.com/xz-zone/Webpackfind) - Webpack自动化信息收集
+
+*   [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
+
+*   [embee-research/Randomise-api-hashes-cobalt-strike](https://github.com/embee-research/Randomise-api-hashes-cobalt-strike) - Bypass Detection By Randomising ROR13 API Hashes
+
+*   [mandiant/speakeasy](https://github.com/mandiant/speakeasy) - Windows kernel and user mode emulation.
+
+*   [w5teams/w5](https://github.com/w5teams/w5) - Security Orchestration, Automation and Response (SOAR) Platform. 安全编排与自动化响应平台，无需编写代码的安全自动化，使用 SOAR 可以让团队工作更加高效
+
+*   [zbnio/zbn](https://github.com/zbnio/zbn) - 安全编排与自动化响应平台
+
+*   [fpoli/python-asdl](https://github.com/fpoli/python-asdl) - ASDL parser taken from CPython 3.5
+
+*   [garzon/CTF-Writeups](https://github.com/garzon/CTF-Writeups) - 自己ctf比赛的writeup
+
+*   [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
+
+*   [ice-doom/codeql\_compile](https://github.com/ice-doom/codeql_compile) - 自动反编译闭源应用，创建codeql数据库
+
+*   [0xf4n9x/NPS-AUTH-BYPASS](https://github.com/0xf4n9x/NPS-AUTH-BYPASS) - NPS proxy server authentication bypasses vulnerability detection
+
+*   [Threekiii/Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 一个攻防知识仓库
+
+*   [frankstar007/kNN](https://github.com/frankstar007/kNN) - 机器学习实战
+
+*   [Neo23x0/Loki](https://github.com/Neo23x0/Loki) - Loki - Simple IOC and YARA Scanner
+
+*   [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+
 ## C++
 
 *   [NytroRST/ShellcodeCompiler](https://github.com/NytroRST/ShellcodeCompiler) - Shellcode Compiler
@@ -528,6 +692,10 @@
 
 *   [wh0amitz/BypassCredGuard](https://github.com/wh0amitz/BypassCredGuard) - Credential Guard Bypass Via Patching Wdigest Memory
 
+*   [Wh04m1001/CVE-2023-21752](https://github.com/Wh04m1001/CVE-2023-21752) -
+
+*   [jackullrich/ShellcodeStdio](https://github.com/jackullrich/ShellcodeStdio) - An extensible framework for easily writing compiler optimized position independent x86 / x64 shellcode for windows platforms.
+
 ## C\#
 
 *   [Flangvik/SharpProxyLogon](https://github.com/Flangvik/SharpProxyLogon) - C# POC for CVE-2021-26855 aka ProxyLogon, supports the classically semi-interactive web shell as well as shellcode injection
@@ -569,6 +737,14 @@
 *   [mabangde/SharpGetUserLoginIPRPC](https://github.com/mabangde/SharpGetUserLoginIPRPC) - 提取域控日志，支持远程提取
 
 *   [NYAN-x-CAT/AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) - Open-Source Remote Administration Tool For Windows C# (RAT)
+
+*   [TartarusLabs/Coyote](https://github.com/TartarusLabs/Coyote) - Coyote is a standalone C# post-exploitation implant for maintaining access to compromised Windows infrastructure during red team engagements using DNS tunneling.
+
+*   [AdminTest0/SharpWxDump](https://github.com/AdminTest0/SharpWxDump) - 微信客户端取证，可获取用户个人信息(昵称/账号/手机/邮箱/数据库密钥(用来解密聊天记录))；支持获取多用户信息，不定期更新新版本偏移，目前支持所有新版本、正式版本
+
+*   [Tycx2ry/SweetPotato\_CS](https://github.com/Tycx2ry/SweetPotato_CS) - 修改的SweetPotato，使之可以用于CobaltStrike v4.0
+
+*   [bitsadmin/nopowershell](https://github.com/bitsadmin/nopowershell) - PowerShell rebuilt in C# for Red Teaming purposes
 
 ## C
 
@@ -635,6 +811,20 @@
 *   [Cracked5pider/Ekko](https://github.com/Cracked5pider/Ekko) - Sleep Obfuscation
 
 *   [LethalSnake1337/PE-Loader-exercise](https://github.com/LethalSnake1337/PE-Loader-exercise) - A simple PE loader.
+
+*   [jas502n/coremail-checkwkpass](https://github.com/jas502n/coremail-checkwkpass) - enc8 密码碰撞脚本
+
+*   [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT\&CK.
+
+*   [blackarrowsec/redteam-research](https://github.com/blackarrowsec/redteam-research) - Collection of PoC and offensive techniques used by the BlackArrow Red Team
+
+*   [kyleavery/inject-assembly](https://github.com/kyleavery/inject-assembly) - Inject .NET assemblies into an existing process
+
+*   [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
+
+*   [kyleavery/AceLdr](https://github.com/kyleavery/AceLdr) - Cobalt Strike UDRL for memory scanner evasion.
+
+*   [rsmudge/vncdll](https://github.com/rsmudge/vncdll) - Stand-alone VNC server compiled as a Reflective DLL
 
 ## Go
 
@@ -755,6 +945,32 @@
 *   [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework.
 
 *   [TheKingOfDuck/geacon](https://github.com/TheKingOfDuck/geacon) - 修改自geacon的多功能linux运维管理工具
+
+*   [xiaoyaochen/yscan](https://github.com/xiaoyaochen/yscan) - yscan是一款基于go写的端口扫描工具，集masscan+nmap+wappalyzer+证书于一体
+
+*   [ac0d3r/Hyuga](https://github.com/ac0d3r/Hyuga) - Hyuga 是一个用来监控带外(Out-of-Band)流量的工具。🪤
+
+*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+
+*   [dubek/rabbitmq-dump-queue](https://github.com/dubek/rabbitmq-dump-queue) - Dump messages from a RabbitMQ queue to files, without affecting the queue.
+
+*   [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+
+*   [3bl3gamer/tg\_history\_dumper](https://github.com/3bl3gamer/tg_history_dumper) - Exports messages and media from Telegram dialogs, groups and channels
+
+*   [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
+
+*   [Ciyfly/woodpecker](https://github.com/Ciyfly/woodpecker) - 兼容xray nuclei yaml格式 以及go代码格式的poc验证扫描器
+
+*   [GREENHAT7/pxplan](https://github.com/GREENHAT7/pxplan) - CVE-2023-2023
+
+*   [tangxiaofeng7/3pScan](https://github.com/tangxiaofeng7/3pScan) - 一款终端扫描工具
+
+*   [NICEXAI/go2struct](https://github.com/NICEXAI/go2struct) - Convert arbitrary formats to Go Struct (including json, toml, yaml, etc.)
+
+*   [lcvvvv/kscan](https://github.com/lcvvvv/kscan) - Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。
+
+*   [yuyan-sec/RedisEXP](https://github.com/yuyan-sec/RedisEXP) - Redis 漏洞利用工具
 
 ## CSS
 
@@ -894,6 +1110,34 @@
 
 *   [N7WEra/BofAllTheThings](https://github.com/N7WEra/BofAllTheThings) - Creating a repository with all public Beacon Object Files (BoFs)
 
+*   [TryGOTry/CobaltStrike\_Cat\_4.5](https://github.com/TryGOTry/CobaltStrike_Cat_4.5) - 猫猫Cs:基于Cobalt Strike\[4.5]二开 (原dogcs二开移植)
+
+*   [cjh0613/tencent-sensitive-words](https://github.com/cjh0613/tencent-sensitive-words) - 腾讯的离线敏感词库
+
+*   [HackingCost/AD\_Pentest](https://github.com/HackingCost/AD_Pentest) - 红队|域渗透重要漏洞汇总(持续更新)
+
+*   [rustlang-cn/Rustt](https://github.com/rustlang-cn/Rustt) - 🥇RustCn 翻译计划，代号 Rustt。这里有国内最优质、最实时的 Rust 技术文章、学习资料和新闻资讯，欢迎大家 🌟 订阅。
+
+*   [Getshell/CobaltStrike](https://github.com/Getshell/CobaltStrike) - CobaltStrike资源大全
+
+*   [1135/notes](https://github.com/1135/notes) - Security & Development
+
+*   [chriskaliX/AD-Pentest-Notes](https://github.com/chriskaliX/AD-Pentest-Notes) - 用于记录内网渗透(域渗透)学习 :-)
+
+*   [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+
+*   [d3ckx1/OLa](https://github.com/d3ckx1/OLa) -
+
+*   [yuag/cobalt-strike](https://github.com/yuag/cobalt-strike) - Cobalt Strike插件
+
+*   [MichaelKoczwara/Awesome-CobaltStrike-Defence](https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence) - Defences against Cobalt Strike
+
+*   [cedowens/C2-JARM](https://github.com/cedowens/C2-JARM) - A list of JARM hashes for different ssl implementations used by some C2/red team tools.
+
+*   [noob-Engle/splunkTIPS](https://github.com/noob-Engle/splunkTIPS) - 记录我学习splunk的过程
+
+*   [noob-Engle/VBScript-Malicious-samples](https://github.com/noob-Engle/VBScript-Malicious-samples) - 记录vbscript功能方法
+
 ## JavaScript
 
 *   [djerryz/electron\_shell](https://github.com/djerryz/electron_shell) - Developing a more covert Remote Access Trojan (RAT) tool by leveraging Electron's features for command injection and combining it with remote control methods.
@@ -922,6 +1166,8 @@
 
 *   [sechacking/sgk](https://github.com/sechacking/sgk) - 仿findmima的社工库代码，基于elasticsearch和PHP构建
 
+*   [Zhwt/yaml-to-go](https://github.com/Zhwt/yaml-to-go) - Translates YAML into a Go type in your browser instantly.
+
 ## HTML
 
 *   [ybdt/exp-hub](https://github.com/ybdt/exp-hub) - 漏洞检测、漏洞利用
@@ -942,61 +1188,9 @@
 
 *   [sense-of-security/ADRecon](https://github.com/sense-of-security/ADRecon) - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
 
-## Java
+*   [ilovexjp/health-code-index](https://github.com/ilovexjp/health-code-index) - 健康码模拟 - 索引
 
-*   [yuyan-sec/DBeaver-decrypter](https://github.com/yuyan-sec/DBeaver-decrypter) - 解密DBeaver数据库软件保存的密码
-
-*   [doyensec/burpdeveltraining](https://github.com/doyensec/burpdeveltraining) - Material for the training "Developing Burp Suite Extensions – From Manual Testing to Security Automation"
-
-*   [c0olw/NacosRce](https://github.com/c0olw/NacosRce) - Nacos JRaft Hessian 反序列化 RCE 加载字节码 注入内存马 不出网利用
-
-*   [BeichenDream/PostConfluence](https://github.com/BeichenDream/PostConfluence) - 哥斯拉Confluence后渗透插件  MakeToken SearchPage  ListAllUser AddAdminUser ListAllPage ........
-
-*   [pap1rman/postnacos](https://github.com/pap1rman/postnacos) - 哥斯拉nacos后渗透插件 maketoken adduser
-
-*   [xi3w3n/Attacking\_Shiro\_With\_Weblogic](https://github.com/xi3w3n/Attacking_Shiro_With_Weblogic) -
-
-*   [1n7erface/PocList](https://github.com/1n7erface/PocList) - Alibaba-Nacos-Unauthorized/ApacheDruid-RCE\_CVE-2021-25646/MS-Exchange-SSRF-CVE-2021-26885/Oracle-WebLogic-CVE-2021-2109\_RCE/RG-CNVD-2021-14536/RJ-SSL-VPN-UltraVires/Redis-Unauthorized-RCE/TDOA-V11.7-GetOnlineCookie/VMware-vCenter-GetAnyFile/yongyou-GRP-U8-XXE/Oracle-WebLogic-CVE-2020-14883/Oracle-WebLogic-CVE-2020-14882/Apache-Solr-GetAnyFile/F5-BIG-IP-CVE-2021-22986/Sonicwall-SSL-VPN-RCE/GitLab-Graphql-CNVD-2021-14193/D-Link-DCS-CVE-2020-25078/WLAN-AP-WEA453e-RCE/360TianQing-Unauthorized/360TianQing-SQLinjection/FanWeiOA-V8-SQLinjection/QiZhiBaoLeiJi-AnyUserLogin/QiAnXin-WangKangFirewall-RCE/金山-V8-终端安全系统/NCCloud-SQLinjection/ShowDoc-RCE
-
-*   [safe6Sec/ShellManageTool](https://github.com/safe6Sec/ShellManageTool) - 在网传的哥斯拉&冰蝎源码基础上加了一点注释
-
-*   [kezibei/Urldns](https://github.com/kezibei/Urldns) -
-
-*   [yzddmr6/Java-Shellcode-Loader](https://github.com/yzddmr6/Java-Shellcode-Loader) - 基于Java实现的Shellcode加载器
-
-*   [altEr1125/ShiroAttack2](https://github.com/altEr1125/ShiroAttack2) - 一款针对Shiro550漏洞进行快速漏洞利用工具。 对 @SummerSec 大佬的项目https://github.com/SummerSec/ShiroAttack2 进行了一些改进。
-
-*   [lqs1848/AllatoriCrack](https://github.com/lqs1848/AllatoriCrack) - 破解 Java 混淆工具 Allatori
-
-*   [LostZX/utools](https://github.com/LostZX/utools) -
-
-*   [lsieun/learn-java-asm](https://github.com/lsieun/learn-java-asm) - :bug: Java ASM
-
-*   [0x727/BypassPro](https://github.com/0x727/BypassPro) - 对权限绕过自动化bypass的burpsuite插件
-
-*   [4ra1n/jar-analyzer-gui](https://github.com/4ra1n/jar-analyzer-gui) - 一个用于分析Jar包的GUI工具，可以用多种方式搜索你想要的信息，自动构建方法调用关系，支持分析Spring框架（A Java GUI Tool for Analyzing Jar）
-
-*   [coderabbit214/bibliothecarius](https://github.com/coderabbit214/bibliothecarius) - Quickly build services to integrate your local data and AI models.
-
-*   [Mr-xn/RedTeam\_BlueTeam\_HW](https://github.com/Mr-xn/RedTeam_BlueTeam_HW) - 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具
-
-*   [0xf4n9x/CVE-2023-0669](https://github.com/0xf4n9x/CVE-2023-0669) - CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object.
-
-*   [phith0n/JavaThings](https://github.com/phith0n/JavaThings) - Share Things Related to Java - Java安全漫谈笔记相关内容
-
-*   [DXask88MA/Weblogic-CVE-2023-21839](https://github.com/DXask88MA/Weblogic-CVE-2023-21839) -
-
-*   [FFreestanding/JavaUnserializeChain](https://github.com/FFreestanding/JavaUnserializeChain) - 自己积累的一些Java反序列化利用链
-
-*   [KrystianLi/ExchangeOWA](https://github.com/KrystianLi/ExchangeOWA) - 一款OutLook信息收集工具
-
-*   [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。
-
-*   [qtc-de/beanshooter](https://github.com/qtc-de/beanshooter) - JMX enumeration and attacking tool.
-
-*   [momosecurity/rhizobia\_J](https://github.com/momosecurity/rhizobia_J) - JAVA安全SDK及编码规范
-
-*   [BeichenDream/JDR](https://github.com/BeichenDream/JDR) -
+*   [Cobalt-Strike/community\_kit](https://github.com/Cobalt-Strike/community_kit) - Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work.
 
 ## Ruby
 
@@ -1024,13 +1218,15 @@
 
 *   [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 
+*   [aplura/Tango](https://github.com/aplura/Tango) - Honeypot Intelligence with Splunk
+
+*   [insightglacier/Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting) - Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。
+
 ## Jupyter Notebook
 
 *   [rtwillett/DorkLab](https://github.com/rtwillett/DorkLab) - Web app tool for helping compose advance search operators (aka Google dorking AKA boolean searches) for a variety of search engines
 
 *   [unit-mesh/unit-minions](https://github.com/unit-mesh/unit-minions) - 《AI 研发提效研究：自己动手训练 LoRA》，包含 Llama  （Alpaca LoRA）模型、ChatGLM （ChatGLM Tuning）相关 Lora 的训练。训练内容：用户故事生成、测试代码生成、代码辅助生成、文本转 SQL、文本生成代码……
-
-*   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
 *   [LC1332/Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM) - 骆驼(Luotuo): Open Sourced Chinese Language Models. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技
 
@@ -1074,9 +1270,13 @@
 
 *   [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 
+*   [hochanh/docker-airflow](https://github.com/hochanh/docker-airflow) - Docker for Airfow with auth
+
 ## Batchfile
 
 *   [sagishahar/lpeworkshop](https://github.com/sagishahar/lpeworkshop) - Windows / Linux Local Privilege Escalation Workshop
+
+*   [noob-Engle/malwareC2](https://github.com/noob-Engle/malwareC2) - MalwareC2
 
 ## Scala
 
