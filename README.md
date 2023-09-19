@@ -366,7 +366,7 @@
 
 *   [mthcht/ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords) - Awesome list of keywords for Threat Hunting sessions
 
-*   [WazeHell/vulnerable-AD](https://github.com/WazeHell/vulnerable-AD) - Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab
+*   [safebuffer/vulnerable-AD](https://github.com/safebuffer/vulnerable-AD) - Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab
 
 *   [Marshall-Hallenbeck/red\_team\_attack\_lab](https://github.com/Marshall-Hallenbeck/red_team_attack_lab) - Red Team Attack Lab for TTP testing & research
 
