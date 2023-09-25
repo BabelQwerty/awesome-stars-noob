@@ -1036,7 +1036,7 @@
 
 *   [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
 
-*   [tib36/PhishingBook](https://github.com/tib36/PhishingBook) - 钓鱼攻击资源汇总&备忘录
+*   [tib36/PhishingBook](https://github.com/tib36/PhishingBook) - 红蓝对抗：钓鱼演练资源汇总&备忘录
 
 *   [KimJun1010/WeblogicTool](https://github.com/KimJun1010/WeblogicTool) - WeblogicTool，GUI漏洞利用工具，支持漏洞检测、命令执行、内存马注入、密码解密等（深信服深蓝实验室天威战队强力驱动）
 
