@@ -1256,7 +1256,7 @@
 
 *   [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 
-*   [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) - 🪨 This is my attempt at a basic stable starting point for a Neovim IDE.
+*   [LunarVim/Launch.nvim](https://github.com/LunarVim/Launch.nvim) - 🪨 This is my attempt at a basic stable starting point for a Neovim IDE.
 
 *   [M507/nmap-vulnerability-scan-scripts](https://github.com/M507/nmap-vulnerability-scan-scripts) - nmap detection scripts for CVE-2022-45477, CVE-2022-45479, CVE-2022-45482, CVE-2022-45481
 
