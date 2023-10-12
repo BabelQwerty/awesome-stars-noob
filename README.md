@@ -810,7 +810,7 @@
 
 ## Java
 
-*   [pykiller/API-T00L](https://github.com/pykiller/API-T00L) -
+*   [pykiller/API-T00L](https://github.com/pykiller/API-T00L) - 互联网厂商API利用工具。
 
 *   [yuyan-sec/DBeaver-decrypter](https://github.com/yuyan-sec/DBeaver-decrypter) - 解密DBeaver数据库软件保存的密码
 
