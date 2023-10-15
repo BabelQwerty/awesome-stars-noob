@@ -82,6 +82,8 @@
 
 *   [rsmudge/ElevateKit](https://github.com/rsmudge/ElevateKit) - The Elevate Kit demonstrates how to use third-party privilege escalation attacks with Cobalt Strike's Beacon payload.
 
+*   [yanghaoi/CobaltStrike\_CNA](https://github.com/yanghaoi/CobaltStrike_CNA) - 使用多种WinAPI进行权限维持的CobaltStrike脚本，包含API设置系统服务，设置计划任务，管理用户等。
+
 ## C
 
 *   [leesh3288/CVE-2023-4911](https://github.com/leesh3288/CVE-2023-4911) - PoC for CVE-2023-4911
@@ -1287,8 +1289,6 @@
 *   [chris-koch-penn/gpt3\_security\_vulnerability\_scanner](https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner) - GPT-3 found hundreds of security vulnerabilities in this repo
 
 ## Vue
-
-*   [l3yx/SnowSword](https://github.com/l3yx/SnowSword) - Web版WebShell管理工具
 
 *   [AbelChe/cola\_dnslog](https://github.com/AbelChe/cola_dnslog) - Cola Dnslog v1.3.2 更加强大的dnslog平台/无回显漏洞探测辅助平台 完全开源 dnslog httplog ldaplog rmilog 支持dns http ldap rmi等协议 提供API调用方式便于与其他工具结合 支持钉钉机器人、Bark等提醒 支持docker一键部署 后端完全使用python实现 前端基于vue-element-admin二开
 
