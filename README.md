@@ -278,8 +278,6 @@
 
 *   [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
 
-*   [4ra1n/CVE-2023-21839](https://github.com/4ra1n/CVE-2023-21839) - Weblogic CVE-2023-21839 / CVE-2023-21931 / CVE-2023-21979 一键检测
-
 *   [Ggasdfg321/SmallProxyPool](https://github.com/Ggasdfg321/SmallProxyPool) - 一个免费高质量的小代理池，解决一些站点有WAF的情况下，进行目录扫描或者字典爆破
 
 *   [Gourds/upload2remote](https://github.com/Gourds/upload2remote) - 上传文件到对象存储（OSS、OBS、S3、KS3）
@@ -1141,6 +1139,8 @@
 *   [d3ckx1/OLa](https://github.com/d3ckx1/OLa) -
 
 *   [yuag/cobalt-strike](https://github.com/yuag/cobalt-strike) - Cobalt Strike插件
+
+*   [MichaelKoczwara/Awesome-CobaltStrike-Defence](https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence) - Defences against Cobalt Strike
 
 ## JavaScript
 
