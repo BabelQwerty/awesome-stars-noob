@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [protectai/ai-exploits](https://github.com/protectai/ai-exploits) - A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities
+
 *   [gubeihc/fingerprint](https://github.com/gubeihc/fingerprint) - 一个简单的指纹识别小工具
 
 *   [XiaoliChan/PetitPotam-V2](https://github.com/XiaoliChan/PetitPotam-V2) - More EFS coerced authentication method with PetitPotam.py
@@ -655,8 +657,6 @@
 *   [1135/notes](https://github.com/1135/notes) - Security & Development
 
 *   [chriskaliX/AD-Pentest-Notes](https://github.com/chriskaliX/AD-Pentest-Notes) - 用于记录内网渗透(域渗透)学习 :-)
-
-*   [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 
 ## C
 
