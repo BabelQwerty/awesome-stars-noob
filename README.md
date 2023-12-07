@@ -46,6 +46,8 @@
 
 ## miscellaneous
 
+*   [LoopDns/Fuck-you-MIUI](https://github.com/LoopDns/Fuck-you-MIUI) - fuck you, MI
+
 *   [Maverickfir/RuoYi-v4.6-vulnerability](https://github.com/Maverickfir/RuoYi-v4.6-vulnerability) - RuoYi up to v4.6 was discovered to contain a SQL injection vulnerability via the component /system/dept/edit
 
 *   [wafinfo/NCTOOls](https://github.com/wafinfo/NCTOOls) - 一款针对用友NC综合漏洞利用工具
@@ -335,8 +337,6 @@
 *   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
 
 *   [dubek/rabbitmq-dump-queue](https://github.com/dubek/rabbitmq-dump-queue) - Dump messages from a RabbitMQ queue to files, without affecting the queue.
-
-*   [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 
 ## Python
 
