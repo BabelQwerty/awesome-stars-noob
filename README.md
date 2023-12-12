@@ -18,11 +18,11 @@
 
 ## Table of Contents
 
-*   [C](#c)
+*   [C++](#c)
 *   [miscellaneous](#miscellaneous)
+*   [C](#c-1)
 *   [Go](#go)
 *   [Python](#python)
-*   [C++](#c-1)
 *   [Rust](#rust)
 *   [C#](#c-2)
 *   [TypeScript](#typescript)
@@ -44,101 +44,83 @@
 *   [Vue](#vue)
 *   [Thanks](#thanks)
 
-## C
+## C++
 
-*   [LloydLabs/delete-self-poc](https://github.com/LloydLabs/delete-self-poc) - A way to delete a locked file, or current running executable, on disk.
+*   [SafeBreach-Labs/PoolParty](https://github.com/SafeBreach-Labs/PoolParty) - A set of fully-undetectable process injection techniques abusing Windows Thread Pools
 
-*   [netero1010/GhostTask](https://github.com/netero1010/GhostTask) -
+*   [trickster0/LdrLoadDll-Unhooking](https://github.com/trickster0/LdrLoadDll-Unhooking) - LdrLoadDll Unhooking
 
-*   [maliciousgroup/RDI-SRDI](https://github.com/maliciousgroup/RDI-SRDI) - This repo goes with the blog entry at blog.malicious.group entitled "Writing your own RDI / sRDI loader using C and ASM".
+*   [nettitude/Tartarus-TpAllocInject](https://github.com/nettitude/Tartarus-TpAllocInject) -
 
-*   [fancycode/MemoryModule](https://github.com/fancycode/MemoryModule) - Library to load a DLL from memory.
+*   [je5442804/CreateProcessInternalW-Full](https://github.com/je5442804/CreateProcessInternalW-Full) - Reimplement CreateProcessInternalW via Windows 10 20H1+ Base on NtCreateUserProcess-Post
 
-*   [TheWover/donut](https://github.com/TheWover/donut) - Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters
+*   [Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) - Little AV/EDR bypassing lab for training & learning purposes
 
-*   [Cracked5pider/LdrLibraryEx](https://github.com/Cracked5pider/LdrLibraryEx) - A small x64 library to load dll's into memory.
+*   [TheD1rkMtr/D1rkInject](https://github.com/TheD1rkMtr/D1rkInject) - Another approach of Threadless injection discovered by @*EthicalChaos* in c that loads a module into the target process and stomps it, and reverting back memory protections and original memory state
 
-*   [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server
+*   [myzxcg/RealBlindingEDR](https://github.com/myzxcg/RealBlindingEDR) - Remove AV/EDR Kernel ObRegisterCallbacks、CmRegisterCallback、MiniFilter Callback、PsSetCreateProcessNotifyRoutine Callback、PsSetCreateThreadNotifyRoutine Callback、PsSetLoadImageNotifyRoutine Callback...
 
-*   [fortra/No-Consolation](https://github.com/fortra/No-Consolation) -  A BOF that runs unmanaged PEs inline
+*   [Hackerl/pangolin](https://github.com/Hackerl/pangolin) - Inject ELF into remote process
 
-*   [leesh3288/CVE-2023-4911](https://github.com/leesh3288/CVE-2023-4911) - PoC for CVE-2023-4911
+*   [improsec/BackupOperatorToolkit](https://github.com/improsec/BackupOperatorToolkit) - The BackupOperatorToolkit contains different techniques allowing you to escalate from Backup Operator to Domain Admin
 
-*   [bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
+*   [NytroRST/ShellcodeCompiler](https://github.com/NytroRST/ShellcodeCompiler) - Shellcode Compiler
 
-*   [wangfly-me/LoaderFly](https://github.com/wangfly-me/LoaderFly) - 助力每一位RT队员，快速生成免杀木马
+*   [deepinstinct/ContainYourself](https://github.com/deepinstinct/ContainYourself) - A PoC of the ContainYourself research presented in DEFCON 31, which abuses the Windows containers framework to bypass EDRs.
 
-*   [Visgean/Zeus](https://github.com/Visgean/Zeus) - NOT MY CODE! Zeus trojan horse - leaked in 2011, I am not the author. This repository is for study purposes only, do not message me about your lame hacking attempts.
+*   [S12cybersecurity/RDPCredentialStealer](https://github.com/S12cybersecurity/RDPCredentialStealer) - RDPCredentialStealer it's a malware that steal credentials provided by users in RDP using API Hooking with Detours in C++
 
-*   [4ra1n/java-gate](https://github.com/4ra1n/java-gate) - Java JNI HellsGate/HalosGate/TartarusGate/RecycledGate/SSN Syscall/Many Shellcode Loaders
+*   [RtlDallas/KrakenMask](https://github.com/RtlDallas/KrakenMask) - Sleep obfuscation
 
-*   [AgeloVito/self\_delete\_bof](https://github.com/AgeloVito/self_delete_bof) - BOF implementation of delete self poc that delete a locked executable or a currently running file from disk by its pid, path, or the current process.
+*   [iGh0st/gh0st3.6\_src](https://github.com/iGh0st/gh0st3.6_src) -
 
-*   [evilashz/PigScheduleTask](https://github.com/evilashz/PigScheduleTask) - 添加计划任务方法集合
+*   [yuanyuanxiang/SimpleRemoter](https://github.com/yuanyuanxiang/SimpleRemoter) - 基于gh0st的远程控制器：实现了终端管理、进程管理、窗口管理、远程桌面、文件管理、语音管理、视频管理、服务管理、注册表管理等功能，优化全部代码及整理排版，修复内存泄漏缺陷，程序运行稳定。项目代码仅限于学习和交流用途。
 
-*   [ldpreload/BlackLotus](https://github.com/ldpreload/BlackLotus) - BlackLotus UEFI Windows Bootkit
+*   [hasherezade/pe\_to\_shellcode](https://github.com/hasherezade/pe_to_shellcode) - Converts PE into a shellcode
 
-*   [passthehashbrowns/BOFMask](https://github.com/passthehashbrowns/BOFMask) -
+*   [ZeroMemoryEx/Terminator](https://github.com/ZeroMemoryEx/Terminator) - Reproducing Spyboy technique to terminate all EDR/XDR/AVs processes
 
-*   [WKL-Sec/HiddenDesktop](https://github.com/WKL-Sec/HiddenDesktop) - HVNC for Cobalt Strike
+*   [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) -
 
-*   [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
+*   [Dec0ne/HWSyscalls](https://github.com/Dec0ne/HWSyscalls) - HWSyscalls is a new method to execute indirect syscalls using HWBP, HalosGate and a synthetic trampoline on kernel32 with HWBP.
 
-*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
+*   [georgesotiriadis/Chimera](https://github.com/georgesotiriadis/Chimera) - Automated DLL Sideloading Tool With EDR Evasion Capabilities
 
-*   [odzhan/injection](https://github.com/odzhan/injection) - Windows process injection methods
+*   [lsecqt/OffensiveCpp](https://github.com/lsecqt/OffensiveCpp) - This repo contains C/C++ snippets that can be handy in specific offensive scenarios.
 
-*   [therealdreg/shellex](https://github.com/therealdreg/shellex) - C-shellcode to hex converter, handy tool for paste & execute shellcodes in IDA PRO, gdb, windbg, radare2, ollydbg, x64dbg, immunity debugger & 010 editor
+*   [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 私有部署zerotier-planet服务
 
-*   [oferchen/POC-CVE-2023-32233](https://github.com/oferchen/POC-CVE-2023-32233) - Use-After-Free in Netfilter nf\_tables when processing batch requests CVE-2023-32233
+*   [itm4n/PPLmedic](https://github.com/itm4n/PPLmedic) - Dump the memory of any PPL with a Userland exploit chain
 
-*   [googleprojectzero/winafl](https://github.com/googleprojectzero/winafl) - A fork of AFL for fuzzing Windows binaries
+*   [XaFF-XaFF/Black-Angel-Rootkit](https://github.com/XaFF-XaFF/Black-Angel-Rootkit) - Black Angel is a Windows 11/10 x64 kernel mode rootkit. Rootkit can be loaded with enabled DSE while maintaining its full functionality.
 
-*   [hexsen929/xmap](https://github.com/hexsen929/xmap) - XMap是一款快速网络扫描仪，专为执行互联网范围的IPv6和IPv4网络研究扫描而设计。
+*   [ldsaiyan/EventLogPersist](https://github.com/ldsaiyan/EventLogPersist) - A Simple Proof Code for Extracting and Executing Shellcode from Event Logs
 
-*   [realoriginal/bootlicker](https://github.com/realoriginal/bootlicker) - A generic UEFI bootkit used to achieve initial usermode execution. It works with modifications.
+*   [LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
 
-*   [realoriginal/bootdoor](https://github.com/realoriginal/bootdoor) - An initial proof of concept of a bootkit based on Cr4sh's DMABackdoorBoot
+*   [mrexodia/lolbin-poc](https://github.com/mrexodia/lolbin-poc) - Small PoC of using a Microsoft signed executable as a lolbin.
 
-*   [mertdas/PrivKit](https://github.com/mertdas/PrivKit) - PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.
+*   [ZeroMemoryEx/APT38-0day-Stealer](https://github.com/ZeroMemoryEx/APT38-0day-Stealer) - APT38 Tactic PoC for Stealing 0days from security professionals
 
-*   [paranoidninja/Process-Instrumentation-Syscall-Hook](https://github.com/paranoidninja/Process-Instrumentation-Syscall-Hook) - A simple program to hook the current process to identify the manual syscall executions on windows
+*   [TheD1rkMtr/FilelessPELoader](https://github.com/TheD1rkMtr/FilelessPELoader) - Loading Remote AES Encrypted PE in memory , Decrypted it and run it
 
-*   [paranoidninja/Proxy-Function-Calls-For-ETwTI](https://github.com/paranoidninja/Proxy-Function-Calls-For-ETwTI) - The code is a pingback to the Dark Vortex blog: https://0xdarkvortex.dev/hiding-memory-allocations-from-mdatp-etwti-stack-tracing/
+*   [wanttobeno/SunDaySearchSignCode](https://github.com/wanttobeno/SunDaySearchSignCode) - 基于sunday算法的内存快速搜索，搜索2GB内存只需1秒
 
-*   [wh0amitz/PetitPotato](https://github.com/wh0amitz/PetitPotato) - Local privilege escalation via PetitPotam (Abusing impersonate privileges).
+*   [TheD1rkMtr/Shellcode-Hide](https://github.com/TheD1rkMtr/Shellcode-Hide) - This repo contains : simple shellcode Loader , Encoders (base64 - custom - UUID - IPv4 - MAC), Encryptors (AES), Fileless Loader (Winhttp, socket)
 
-*   [saucer-man/ecapture](https://github.com/saucer-man/ecapture) - capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android  x86\_64/Aarch64.
+*   [baiyies/CppWeixinHunter](https://github.com/baiyies/CppWeixinHunter) - 微信解密 c++实现。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。Search information of Wechat from memory.
 
-*   [helloexp/0day](https://github.com/helloexp/0day) - 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新
+*   [matthieu-hackwitharts/Win32\_Offensive\_Cheatsheet](https://github.com/matthieu-hackwitharts/Win32_Offensive_Cheatsheet) - Win32 and Kernel abusing techniques for pentesters
 
-*   [infoskirmish/hive](https://github.com/infoskirmish/hive) - The CIA Hive source code as released by Wikileaks
+*   [cxasm/cc-compare](https://github.com/cxasm/cc-compare) - 一款可替换beycond compare, 免费使用的代码同步对比工具，来自中国。
 
-*   [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+*   [wh0amitz/BypassCredGuard](https://github.com/wh0amitz/BypassCredGuard) - Credential Guard Bypass Via Patching Wdigest Memory
 
-*   [Esonhugh/sshd\_backdoor](https://github.com/Esonhugh/sshd_backdoor) - /root/.ssh/authorized\_keys evil file watchdog with ebpf tracepoint hook.
-
-*   [paranoidninja/Proxy-DLL-Loads](https://github.com/paranoidninja/Proxy-DLL-Loads) - The code is a pingback to the Dark Vortex blog:
-
-*   [ajkhoury/UEFI-Bootkit](https://github.com/ajkhoury/UEFI-Bootkit) - A small bootkit which does not rely on x64 assembly.
-
-*   [quarkslab/dreamboot](https://github.com/quarkslab/dreamboot) - UEFI bootkit
-
-*   [Cracked5pider/Ekko](https://github.com/Cracked5pider/Ekko) - Sleep Obfuscation
-
-*   [LethalSnake1337/PE-Loader-exercise](https://github.com/LethalSnake1337/PE-Loader-exercise) - A simple PE loader.
-
-*   [jas502n/coremail-checkwkpass](https://github.com/jas502n/coremail-checkwkpass) - enc8 密码碰撞脚本
-
-*   [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT\&CK.
-
-*   [blackarrowsec/redteam-research](https://github.com/blackarrowsec/redteam-research) - Collection of PoC and offensive techniques used by the BlackArrow Red Team
-
-*   [kyleavery/inject-assembly](https://github.com/kyleavery/inject-assembly) - Inject .NET assemblies into an existing process
-
-*   [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
+*   [Wh04m1001/CVE-2023-21752](https://github.com/Wh04m1001/CVE-2023-21752) -
 
 ## miscellaneous
+
+*   [7hang/--Java](https://github.com/7hang/--Java) - 代码审计知识点整理-Java
 
 *   [TianWen-Lab/TranSec](https://github.com/TianWen-Lab/TranSec) - IoV Pentesting OS
 
@@ -293,6 +275,100 @@
 *   [cjh0613/tencent-sensitive-words](https://github.com/cjh0613/tencent-sensitive-words) - 腾讯的离线敏感词库
 
 *   [HackingCost/AD\_Pentest](https://github.com/HackingCost/AD_Pentest) - 红队|域渗透重要漏洞汇总(持续更新)
+
+## C
+
+*   [LloydLabs/delete-self-poc](https://github.com/LloydLabs/delete-self-poc) - A way to delete a locked file, or current running executable, on disk.
+
+*   [netero1010/GhostTask](https://github.com/netero1010/GhostTask) -
+
+*   [maliciousgroup/RDI-SRDI](https://github.com/maliciousgroup/RDI-SRDI) - This repo goes with the blog entry at blog.malicious.group entitled "Writing your own RDI / sRDI loader using C and ASM".
+
+*   [fancycode/MemoryModule](https://github.com/fancycode/MemoryModule) - Library to load a DLL from memory.
+
+*   [TheWover/donut](https://github.com/TheWover/donut) - Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters
+
+*   [Cracked5pider/LdrLibraryEx](https://github.com/Cracked5pider/LdrLibraryEx) - A small x64 library to load dll's into memory.
+
+*   [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server
+
+*   [fortra/No-Consolation](https://github.com/fortra/No-Consolation) -  A BOF that runs unmanaged PEs inline
+
+*   [leesh3288/CVE-2023-4911](https://github.com/leesh3288/CVE-2023-4911) - PoC for CVE-2023-4911
+
+*   [bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
+
+*   [wangfly-me/LoaderFly](https://github.com/wangfly-me/LoaderFly) - 助力每一位RT队员，快速生成免杀木马
+
+*   [Visgean/Zeus](https://github.com/Visgean/Zeus) - NOT MY CODE! Zeus trojan horse - leaked in 2011, I am not the author. This repository is for study purposes only, do not message me about your lame hacking attempts.
+
+*   [4ra1n/java-gate](https://github.com/4ra1n/java-gate) - Java JNI HellsGate/HalosGate/TartarusGate/RecycledGate/SSN Syscall/Many Shellcode Loaders
+
+*   [AgeloVito/self\_delete\_bof](https://github.com/AgeloVito/self_delete_bof) - BOF implementation of delete self poc that delete a locked executable or a currently running file from disk by its pid, path, or the current process.
+
+*   [evilashz/PigScheduleTask](https://github.com/evilashz/PigScheduleTask) - 添加计划任务方法集合
+
+*   [ldpreload/BlackLotus](https://github.com/ldpreload/BlackLotus) - BlackLotus UEFI Windows Bootkit
+
+*   [passthehashbrowns/BOFMask](https://github.com/passthehashbrowns/BOFMask) -
+
+*   [WKL-Sec/HiddenDesktop](https://github.com/WKL-Sec/HiddenDesktop) - HVNC for Cobalt Strike
+
+*   [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
+
+*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
+
+*   [odzhan/injection](https://github.com/odzhan/injection) - Windows process injection methods
+
+*   [therealdreg/shellex](https://github.com/therealdreg/shellex) - C-shellcode to hex converter, handy tool for paste & execute shellcodes in IDA PRO, gdb, windbg, radare2, ollydbg, x64dbg, immunity debugger & 010 editor
+
+*   [oferchen/POC-CVE-2023-32233](https://github.com/oferchen/POC-CVE-2023-32233) - Use-After-Free in Netfilter nf\_tables when processing batch requests CVE-2023-32233
+
+*   [googleprojectzero/winafl](https://github.com/googleprojectzero/winafl) - A fork of AFL for fuzzing Windows binaries
+
+*   [hexsen929/xmap](https://github.com/hexsen929/xmap) - XMap是一款快速网络扫描仪，专为执行互联网范围的IPv6和IPv4网络研究扫描而设计。
+
+*   [realoriginal/bootlicker](https://github.com/realoriginal/bootlicker) - A generic UEFI bootkit used to achieve initial usermode execution. It works with modifications.
+
+*   [realoriginal/bootdoor](https://github.com/realoriginal/bootdoor) - An initial proof of concept of a bootkit based on Cr4sh's DMABackdoorBoot
+
+*   [mertdas/PrivKit](https://github.com/mertdas/PrivKit) - PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.
+
+*   [paranoidninja/Process-Instrumentation-Syscall-Hook](https://github.com/paranoidninja/Process-Instrumentation-Syscall-Hook) - A simple program to hook the current process to identify the manual syscall executions on windows
+
+*   [paranoidninja/Proxy-Function-Calls-For-ETwTI](https://github.com/paranoidninja/Proxy-Function-Calls-For-ETwTI) - The code is a pingback to the Dark Vortex blog: https://0xdarkvortex.dev/hiding-memory-allocations-from-mdatp-etwti-stack-tracing/
+
+*   [wh0amitz/PetitPotato](https://github.com/wh0amitz/PetitPotato) - Local privilege escalation via PetitPotam (Abusing impersonate privileges).
+
+*   [saucer-man/ecapture](https://github.com/saucer-man/ecapture) - capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android  x86\_64/Aarch64.
+
+*   [helloexp/0day](https://github.com/helloexp/0day) - 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新
+
+*   [infoskirmish/hive](https://github.com/infoskirmish/hive) - The CIA Hive source code as released by Wikileaks
+
+*   [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+
+*   [Esonhugh/sshd\_backdoor](https://github.com/Esonhugh/sshd_backdoor) - /root/.ssh/authorized\_keys evil file watchdog with ebpf tracepoint hook.
+
+*   [paranoidninja/Proxy-DLL-Loads](https://github.com/paranoidninja/Proxy-DLL-Loads) - The code is a pingback to the Dark Vortex blog:
+
+*   [ajkhoury/UEFI-Bootkit](https://github.com/ajkhoury/UEFI-Bootkit) - A small bootkit which does not rely on x64 assembly.
+
+*   [quarkslab/dreamboot](https://github.com/quarkslab/dreamboot) - UEFI bootkit
+
+*   [Cracked5pider/Ekko](https://github.com/Cracked5pider/Ekko) - Sleep Obfuscation
+
+*   [LethalSnake1337/PE-Loader-exercise](https://github.com/LethalSnake1337/PE-Loader-exercise) - A simple PE loader.
+
+*   [jas502n/coremail-checkwkpass](https://github.com/jas502n/coremail-checkwkpass) - enc8 密码碰撞脚本
+
+*   [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT\&CK.
+
+*   [blackarrowsec/redteam-research](https://github.com/blackarrowsec/redteam-research) - Collection of PoC and offensive techniques used by the BlackArrow Red Team
+
+*   [kyleavery/inject-assembly](https://github.com/kyleavery/inject-assembly) - Inject .NET assemblies into an existing process
+
+*   [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
 
 ## Go
 
@@ -740,78 +816,6 @@
 
 *   [aStrowxyu/Pysoserial](https://github.com/aStrowxyu/Pysoserial) - Python-based proof-of-concept tool for generating payloads that utilize unsafe Java object deserialization.
 
-## C++
-
-*   [trickster0/LdrLoadDll-Unhooking](https://github.com/trickster0/LdrLoadDll-Unhooking) - LdrLoadDll Unhooking
-
-*   [nettitude/Tartarus-TpAllocInject](https://github.com/nettitude/Tartarus-TpAllocInject) -
-
-*   [je5442804/CreateProcessInternalW-Full](https://github.com/je5442804/CreateProcessInternalW-Full) - Reimplement CreateProcessInternalW via Windows 10 20H1+ Base on NtCreateUserProcess-Post
-
-*   [Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) - Little AV/EDR bypassing lab for training & learning purposes
-
-*   [TheD1rkMtr/D1rkInject](https://github.com/TheD1rkMtr/D1rkInject) - Another approach of Threadless injection discovered by @*EthicalChaos* in c that loads a module into the target process and stomps it, and reverting back memory protections and original memory state
-
-*   [myzxcg/RealBlindingEDR](https://github.com/myzxcg/RealBlindingEDR) - Remove AV/EDR Kernel ObRegisterCallbacks、CmRegisterCallback、MiniFilter Callback、PsSetCreateProcessNotifyRoutine Callback、PsSetCreateThreadNotifyRoutine Callback、PsSetLoadImageNotifyRoutine Callback...
-
-*   [Hackerl/pangolin](https://github.com/Hackerl/pangolin) - Inject ELF into remote process
-
-*   [improsec/BackupOperatorToolkit](https://github.com/improsec/BackupOperatorToolkit) - The BackupOperatorToolkit contains different techniques allowing you to escalate from Backup Operator to Domain Admin
-
-*   [NytroRST/ShellcodeCompiler](https://github.com/NytroRST/ShellcodeCompiler) - Shellcode Compiler
-
-*   [deepinstinct/ContainYourself](https://github.com/deepinstinct/ContainYourself) - A PoC of the ContainYourself research presented in DEFCON 31, which abuses the Windows containers framework to bypass EDRs.
-
-*   [S12cybersecurity/RDPCredentialStealer](https://github.com/S12cybersecurity/RDPCredentialStealer) - RDPCredentialStealer it's a malware that steal credentials provided by users in RDP using API Hooking with Detours in C++
-
-*   [RtlDallas/KrakenMask](https://github.com/RtlDallas/KrakenMask) - Sleep obfuscation
-
-*   [iGh0st/gh0st3.6\_src](https://github.com/iGh0st/gh0st3.6_src) -
-
-*   [yuanyuanxiang/SimpleRemoter](https://github.com/yuanyuanxiang/SimpleRemoter) - 基于gh0st的远程控制器：实现了终端管理、进程管理、窗口管理、远程桌面、文件管理、语音管理、视频管理、服务管理、注册表管理等功能，优化全部代码及整理排版，修复内存泄漏缺陷，程序运行稳定。项目代码仅限于学习和交流用途。
-
-*   [hasherezade/pe\_to\_shellcode](https://github.com/hasherezade/pe_to_shellcode) - Converts PE into a shellcode
-
-*   [ZeroMemoryEx/Terminator](https://github.com/ZeroMemoryEx/Terminator) - Reproducing Spyboy technique to terminate all EDR/XDR/AVs processes
-
-*   [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) -
-
-*   [Dec0ne/HWSyscalls](https://github.com/Dec0ne/HWSyscalls) - HWSyscalls is a new method to execute indirect syscalls using HWBP, HalosGate and a synthetic trampoline on kernel32 with HWBP.
-
-*   [georgesotiriadis/Chimera](https://github.com/georgesotiriadis/Chimera) - Automated DLL Sideloading Tool With EDR Evasion Capabilities
-
-*   [lsecqt/OffensiveCpp](https://github.com/lsecqt/OffensiveCpp) - This repo contains C/C++ snippets that can be handy in specific offensive scenarios.
-
-*   [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 私有部署zerotier-planet服务
-
-*   [itm4n/PPLmedic](https://github.com/itm4n/PPLmedic) - Dump the memory of any PPL with a Userland exploit chain
-
-*   [XaFF-XaFF/Black-Angel-Rootkit](https://github.com/XaFF-XaFF/Black-Angel-Rootkit) - Black Angel is a Windows 11/10 x64 kernel mode rootkit. Rootkit can be loaded with enabled DSE while maintaining its full functionality.
-
-*   [ldsaiyan/EventLogPersist](https://github.com/ldsaiyan/EventLogPersist) - A Simple Proof Code for Extracting and Executing Shellcode from Event Logs
-
-*   [LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
-
-*   [mrexodia/lolbin-poc](https://github.com/mrexodia/lolbin-poc) - Small PoC of using a Microsoft signed executable as a lolbin.
-
-*   [ZeroMemoryEx/APT38-0day-Stealer](https://github.com/ZeroMemoryEx/APT38-0day-Stealer) - APT38 Tactic PoC for Stealing 0days from security professionals
-
-*   [TheD1rkMtr/FilelessPELoader](https://github.com/TheD1rkMtr/FilelessPELoader) - Loading Remote AES Encrypted PE in memory , Decrypted it and run it
-
-*   [wanttobeno/SunDaySearchSignCode](https://github.com/wanttobeno/SunDaySearchSignCode) - 基于sunday算法的内存快速搜索，搜索2GB内存只需1秒
-
-*   [TheD1rkMtr/Shellcode-Hide](https://github.com/TheD1rkMtr/Shellcode-Hide) - This repo contains : simple shellcode Loader , Encoders (base64 - custom - UUID - IPv4 - MAC), Encryptors (AES), Fileless Loader (Winhttp, socket)
-
-*   [baiyies/CppWeixinHunter](https://github.com/baiyies/CppWeixinHunter) - 微信解密 c++实现。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。Search information of Wechat from memory.
-
-*   [matthieu-hackwitharts/Win32\_Offensive\_Cheatsheet](https://github.com/matthieu-hackwitharts/Win32_Offensive_Cheatsheet) - Win32 and Kernel abusing techniques for pentesters
-
-*   [cxasm/cc-compare](https://github.com/cxasm/cc-compare) - 一款可替换beycond compare, 免费使用的代码同步对比工具，来自中国。
-
-*   [wh0amitz/BypassCredGuard](https://github.com/wh0amitz/BypassCredGuard) - Credential Guard Bypass Via Patching Wdigest Memory
-
-*   [Wh04m1001/CVE-2023-21752](https://github.com/Wh04m1001/CVE-2023-21752) -
-
 ## Rust
 
 *   [jiushill/FuckVM](https://github.com/jiushill/FuckVM) - Rust Fuck VM
@@ -1036,8 +1040,6 @@
 
 *   [TartarusLabs/Coyote](https://github.com/TartarusLabs/Coyote) - Coyote is a standalone C# post-exploitation implant for maintaining access to compromised Windows infrastructure during red team engagements using DNS tunneling.
 
-*   [AdminTest0/SharpWxDump](https://github.com/AdminTest0/SharpWxDump) - 微信客户端取证，可获取用户个人信息(昵称/账号/手机/邮箱/数据库密钥(用来解密聊天记录))；支持获取多用户信息，不定期更新新版本偏移，目前支持所有新版本、正式版本
-
 ## TypeScript
 
 *   [keiko233/clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - Clash Nyanpasu! (∠・ω< )⌒☆​
@@ -1087,8 +1089,6 @@
 *   [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
 
 *   [3gstudent/Homework-of-Powershell](https://github.com/3gstudent/Homework-of-Powershell) - powershell codes of my blog.
-
-*   [scipag/HardeningKitty](https://github.com/scipag/HardeningKitty) - HardeningKitty - Checks and hardens your Windows configuration
 
 ## Lua
 
