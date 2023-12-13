@@ -122,7 +122,7 @@
 
 *   [7hang/--Java](https://github.com/7hang/--Java) - 代码审计知识点整理-Java
 
-*   [TianWen-Lab/TranSec](https://github.com/TianWen-Lab/TranSec) - IoV Pentesting OS
+*   [TianWen-Lab/TranSec](https://github.com/TianWen-Lab/TranSec) - Internet of Vehicles Penetration testing OS. An out of the box testing environment that includes hundreds of commonly used toolsets for penetration testing of the Internet of Vehicles. 车联网渗透测试系统，开箱即用的测试环境，包含上百个常见用于车联网渗透测试的工具集。覆盖逆向、CAN、车载以太网、WiFi、蓝牙、云平台等安全测试
 
 *   [LoopDns/Fuck-you-MIUI](https://github.com/LoopDns/Fuck-you-MIUI) - fuck you, MI
 
