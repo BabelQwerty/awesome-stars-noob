@@ -84,8 +84,6 @@
 
 *   [Dec0ne/HWSyscalls](https://github.com/Dec0ne/HWSyscalls) - HWSyscalls is a new method to execute indirect syscalls using HWBP, HalosGate and a synthetic trampoline on kernel32 with HWBP.
 
-*   [georgesotiriadis/Chimera](https://github.com/georgesotiriadis/Chimera) - Automated DLL Sideloading Tool With EDR Evasion Capabilities
-
 *   [lsecqt/OffensiveCpp](https://github.com/lsecqt/OffensiveCpp) - This repo contains C/C++ snippets that can be handy in specific offensive scenarios.
 
 *   [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 私有部署zerotier-planet服务
@@ -623,6 +621,8 @@
 *   [Mr-Un1k0d3r/PowerLessShell](https://github.com/Mr-Un1k0d3r/PowerLessShell) - Run PowerShell command without invoking powershell.exe
 
 *   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+
+*   [georgesotiriadis/Chimera](https://github.com/georgesotiriadis/Chimera) - Automated DLL Sideloading Tool With EDR Evasion Capabilities
 
 *   [jiushill/wmi-hack-py](https://github.com/jiushill/wmi-hack-py) -
 
