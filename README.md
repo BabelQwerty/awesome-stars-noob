@@ -272,8 +272,6 @@
 
 *   [lsecqt/OffensiveCpp](https://github.com/lsecqt/OffensiveCpp) - This repo contains C/C++ snippets that can be handy in specific offensive scenarios.
 
-*   [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 私有部署zerotier-planet服务
-
 *   [itm4n/PPLmedic](https://github.com/itm4n/PPLmedic) - Dump the memory of any PPL with a Userland exploit chain
 
 *   [XaFF-XaFF/Black-Angel-Rootkit](https://github.com/XaFF-XaFF/Black-Angel-Rootkit) - Black Angel is a Windows 11/10 x64 kernel mode rootkit. Rootkit can be loaded with enabled DSE while maintaining its full functionality.
@@ -798,7 +796,7 @@
 
 *   [ScorpionesLabs/MSSqlPwner](https://github.com/ScorpionesLabs/MSSqlPwner) -
 
-*   [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
+*   [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
 
 *   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 【重制中 Repairing】短信轰炸 / 短信测压 | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！
 
@@ -1239,6 +1237,8 @@
 *   [Ridter/warp\_proxy](https://github.com/Ridter/warp_proxy) - cloudflare socks5 server
 
 *   [iredmail/dockerized](https://github.com/iredmail/dockerized) - Official dockerized iRedMail.
+
+*   [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 私有部署zerotier-planet服务
 
 *   [heweiye/v2ray-233boy](https://github.com/heweiye/v2ray-233boy) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
 
