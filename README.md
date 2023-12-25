@@ -19,8 +19,8 @@
 ## Table of Contents
 
 *   [Rust](#rust)
-*   [C++](#c)
 *   [Java](#java)
+*   [C++](#c)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [C](#c-1)
@@ -45,6 +45,8 @@
 *   [Thanks](#thanks)
 
 ## Rust
+
+*   [b23r0/rsocx](https://github.com/b23r0/rsocx) - A bind/reverse Socks5 proxy server.
 
 *   [evilsocket/medusa](https://github.com/evilsocket/medusa) - A fast and secure multi protocol honeypot.
 
@@ -222,7 +224,71 @@
 
 *   [postrequest/link](https://github.com/postrequest/link) - link is a command and control framework written in rust
 
-*   [darkarp/chromepass](https://github.com/darkarp/chromepass) - Chromepass - Hacking Chrome Saved Passwords
+## Java
+
+*   [MountCloud/BehinderClientSource](https://github.com/MountCloud/BehinderClientSource) - ❄️冰蝎客户端源码-V4.0.6🔞
+
+*   [MinaMichita/AntiAntiDefraud](https://github.com/MinaMichita/AntiAntiDefraud) - Stop uploading my installed app list! Miui!
+
+*   [pykiller/API-T00L](https://github.com/pykiller/API-T00L) - 互联网厂商API利用工具。
+
+*   [yuyan-sec/DBeaver-decrypter](https://github.com/yuyan-sec/DBeaver-decrypter) - 解密DBeaver数据库软件保存的密码
+
+*   [doyensec/burpdeveltraining](https://github.com/doyensec/burpdeveltraining) - Material for the training "Developing Burp Suite Extensions – From Manual Testing to Security Automation"
+
+*   [c0olw/NacosRce](https://github.com/c0olw/NacosRce) - Nacos JRaft Hessian 反序列化 RCE 加载字节码 注入内存马 不出网利用
+
+*   [BeichenDream/PostConfluence](https://github.com/BeichenDream/PostConfluence) - 哥斯拉Confluence后渗透插件  MakeToken SearchPage  ListAllUser AddAdminUser ListAllPage ........
+
+*   [pap1rman/postnacos](https://github.com/pap1rman/postnacos) - 哥斯拉nacos后渗透插件 maketoken adduser
+
+*   [xi3w3n/Attacking\_Shiro\_With\_Weblogic](https://github.com/xi3w3n/Attacking_Shiro_With_Weblogic) -
+
+*   [1n7erface/PocList](https://github.com/1n7erface/PocList) - Alibaba-Nacos-Unauthorized/ApacheDruid-RCE\_CVE-2021-25646/MS-Exchange-SSRF-CVE-2021-26885/Oracle-WebLogic-CVE-2021-2109\_RCE/RG-CNVD-2021-14536/RJ-SSL-VPN-UltraVires/Redis-Unauthorized-RCE/TDOA-V11.7-GetOnlineCookie/VMware-vCenter-GetAnyFile/yongyou-GRP-U8-XXE/Oracle-WebLogic-CVE-2020-14883/Oracle-WebLogic-CVE-2020-14882/Apache-Solr-GetAnyFile/F5-BIG-IP-CVE-2021-22986/Sonicwall-SSL-VPN-RCE/GitLab-Graphql-CNVD-2021-14193/D-Link-DCS-CVE-2020-25078/WLAN-AP-WEA453e-RCE/360TianQing-Unauthorized/360TianQing-SQLinjection/FanWeiOA-V8-SQLinjection/QiZhiBaoLeiJi-AnyUserLogin/QiAnXin-WangKangFirewall-RCE/金山-V8-终端安全系统/NCCloud-SQLinjection/ShowDoc-RCE
+
+*   [safe6Sec/ShellManageTool](https://github.com/safe6Sec/ShellManageTool) - 在网传的哥斯拉&冰蝎源码基础上加了一点注释
+
+*   [kezibei/Urldns](https://github.com/kezibei/Urldns) -
+
+*   [yzddmr6/Java-Shellcode-Loader](https://github.com/yzddmr6/Java-Shellcode-Loader) - 基于Java实现的Shellcode加载器
+
+*   [altEr1125/ShiroAttack2](https://github.com/altEr1125/ShiroAttack2) - 一款针对Shiro550漏洞进行快速漏洞利用工具。 对 @SummerSec 大佬的项目https://github.com/SummerSec/ShiroAttack2 进行了一些改进。
+
+*   [lqs1848/AllatoriCrack](https://github.com/lqs1848/AllatoriCrack) - 破解 Java 混淆工具 Allatori
+
+*   [LostZX/utools](https://github.com/LostZX/utools) -
+
+*   [lsieun/learn-java-asm](https://github.com/lsieun/learn-java-asm) - :bug: Java ASM
+
+*   [0x727/BypassPro](https://github.com/0x727/BypassPro) - 对权限绕过自动化bypass的burpsuite插件
+
+*   [4ra1n/jar-analyzer-gui](https://github.com/4ra1n/jar-analyzer-gui) - 建议使用新版：https://github.com/jar-analyzer/jar-analyzer
+
+*   [coderabbit214/bibliothecarius](https://github.com/coderabbit214/bibliothecarius) - Quickly build services to integrate your local data and AI models.
+
+*   [Mr-xn/RedTeam\_BlueTeam\_HW](https://github.com/Mr-xn/RedTeam_BlueTeam_HW) - 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具
+
+*   [0xf4n9x/CVE-2023-0669](https://github.com/0xf4n9x/CVE-2023-0669) - CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object.
+
+*   [phith0n/JavaThings](https://github.com/phith0n/JavaThings) - Share Things Related to Java - Java安全漫谈笔记相关内容
+
+*   [DXask88MA/Weblogic-CVE-2023-21839](https://github.com/DXask88MA/Weblogic-CVE-2023-21839) -
+
+*   [FFreestanding/JavaUnserializeChain](https://github.com/FFreestanding/JavaUnserializeChain) - 自己积累的一些Java反序列化利用链
+
+*   [KrystianLi/ExchangeOWA](https://github.com/KrystianLi/ExchangeOWA) - 一款OutLook信息收集工具
+
+*   [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。
+
+*   [qtc-de/beanshooter](https://github.com/qtc-de/beanshooter) - JMX enumeration and attacking tool.
+
+*   [momosecurity/rhizobia\_J](https://github.com/momosecurity/rhizobia_J) - JAVA安全SDK及编码规范
+
+*   [BeichenDream/JDR](https://github.com/BeichenDream/JDR) -
+
+*   [wh1t3p1g/tabby](https://github.com/wh1t3p1g/tabby) - A CAT called tabby ( Code Analysis Tool )
+
+*   [pandening/Java-debug-tool](https://github.com/pandening/Java-debug-tool) - Java dynamic debug tool
 
 ## C++
 
@@ -299,70 +365,6 @@
 *   [wh0amitz/BypassCredGuard](https://github.com/wh0amitz/BypassCredGuard) - Credential Guard Bypass Via Patching Wdigest Memory
 
 *   [Wh04m1001/CVE-2023-21752](https://github.com/Wh04m1001/CVE-2023-21752) -
-
-## Java
-
-*   [MinaMichita/AntiAntiDefraud](https://github.com/MinaMichita/AntiAntiDefraud) - Stop uploading my installed app list! Miui!
-
-*   [pykiller/API-T00L](https://github.com/pykiller/API-T00L) - 互联网厂商API利用工具。
-
-*   [yuyan-sec/DBeaver-decrypter](https://github.com/yuyan-sec/DBeaver-decrypter) - 解密DBeaver数据库软件保存的密码
-
-*   [doyensec/burpdeveltraining](https://github.com/doyensec/burpdeveltraining) - Material for the training "Developing Burp Suite Extensions – From Manual Testing to Security Automation"
-
-*   [c0olw/NacosRce](https://github.com/c0olw/NacosRce) - Nacos JRaft Hessian 反序列化 RCE 加载字节码 注入内存马 不出网利用
-
-*   [BeichenDream/PostConfluence](https://github.com/BeichenDream/PostConfluence) - 哥斯拉Confluence后渗透插件  MakeToken SearchPage  ListAllUser AddAdminUser ListAllPage ........
-
-*   [pap1rman/postnacos](https://github.com/pap1rman/postnacos) - 哥斯拉nacos后渗透插件 maketoken adduser
-
-*   [xi3w3n/Attacking\_Shiro\_With\_Weblogic](https://github.com/xi3w3n/Attacking_Shiro_With_Weblogic) -
-
-*   [1n7erface/PocList](https://github.com/1n7erface/PocList) - Alibaba-Nacos-Unauthorized/ApacheDruid-RCE\_CVE-2021-25646/MS-Exchange-SSRF-CVE-2021-26885/Oracle-WebLogic-CVE-2021-2109\_RCE/RG-CNVD-2021-14536/RJ-SSL-VPN-UltraVires/Redis-Unauthorized-RCE/TDOA-V11.7-GetOnlineCookie/VMware-vCenter-GetAnyFile/yongyou-GRP-U8-XXE/Oracle-WebLogic-CVE-2020-14883/Oracle-WebLogic-CVE-2020-14882/Apache-Solr-GetAnyFile/F5-BIG-IP-CVE-2021-22986/Sonicwall-SSL-VPN-RCE/GitLab-Graphql-CNVD-2021-14193/D-Link-DCS-CVE-2020-25078/WLAN-AP-WEA453e-RCE/360TianQing-Unauthorized/360TianQing-SQLinjection/FanWeiOA-V8-SQLinjection/QiZhiBaoLeiJi-AnyUserLogin/QiAnXin-WangKangFirewall-RCE/金山-V8-终端安全系统/NCCloud-SQLinjection/ShowDoc-RCE
-
-*   [safe6Sec/ShellManageTool](https://github.com/safe6Sec/ShellManageTool) - 在网传的哥斯拉&冰蝎源码基础上加了一点注释
-
-*   [kezibei/Urldns](https://github.com/kezibei/Urldns) -
-
-*   [yzddmr6/Java-Shellcode-Loader](https://github.com/yzddmr6/Java-Shellcode-Loader) - 基于Java实现的Shellcode加载器
-
-*   [altEr1125/ShiroAttack2](https://github.com/altEr1125/ShiroAttack2) - 一款针对Shiro550漏洞进行快速漏洞利用工具。 对 @SummerSec 大佬的项目https://github.com/SummerSec/ShiroAttack2 进行了一些改进。
-
-*   [lqs1848/AllatoriCrack](https://github.com/lqs1848/AllatoriCrack) - 破解 Java 混淆工具 Allatori
-
-*   [LostZX/utools](https://github.com/LostZX/utools) -
-
-*   [lsieun/learn-java-asm](https://github.com/lsieun/learn-java-asm) - :bug: Java ASM
-
-*   [0x727/BypassPro](https://github.com/0x727/BypassPro) - 对权限绕过自动化bypass的burpsuite插件
-
-*   [4ra1n/jar-analyzer-gui](https://github.com/4ra1n/jar-analyzer-gui) - 建议使用新版：https://github.com/jar-analyzer/jar-analyzer
-
-*   [coderabbit214/bibliothecarius](https://github.com/coderabbit214/bibliothecarius) - Quickly build services to integrate your local data and AI models.
-
-*   [Mr-xn/RedTeam\_BlueTeam\_HW](https://github.com/Mr-xn/RedTeam_BlueTeam_HW) - 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具
-
-*   [0xf4n9x/CVE-2023-0669](https://github.com/0xf4n9x/CVE-2023-0669) - CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object.
-
-*   [phith0n/JavaThings](https://github.com/phith0n/JavaThings) - Share Things Related to Java - Java安全漫谈笔记相关内容
-
-*   [DXask88MA/Weblogic-CVE-2023-21839](https://github.com/DXask88MA/Weblogic-CVE-2023-21839) -
-
-*   [FFreestanding/JavaUnserializeChain](https://github.com/FFreestanding/JavaUnserializeChain) - 自己积累的一些Java反序列化利用链
-
-*   [KrystianLi/ExchangeOWA](https://github.com/KrystianLi/ExchangeOWA) - 一款OutLook信息收集工具
-
-*   [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。
-
-*   [qtc-de/beanshooter](https://github.com/qtc-de/beanshooter) - JMX enumeration and attacking tool.
-
-*   [momosecurity/rhizobia\_J](https://github.com/momosecurity/rhizobia_J) - JAVA安全SDK及编码规范
-
-*   [BeichenDream/JDR](https://github.com/BeichenDream/JDR) -
-
-*   [wh1t3p1g/tabby](https://github.com/wh1t3p1g/tabby) - A CAT called tabby ( Code Analysis Tool )
-
-*   [pandening/Java-debug-tool](https://github.com/pandening/Java-debug-tool) - Java dynamic debug tool
 
 ## JavaScript
 
@@ -1183,8 +1185,6 @@
 *   [jaredcatkinson/PSReflect-Functions](https://github.com/jaredcatkinson/PSReflect-Functions) - Module to provide PowerShell functions that abstract Win32 API functions
 
 *   [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
-
-*   [3gstudent/Homework-of-Powershell](https://github.com/3gstudent/Homework-of-Powershell) - powershell codes of my blog.
 
 ## Lua
 
