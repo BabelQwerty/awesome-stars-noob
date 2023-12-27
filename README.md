@@ -46,6 +46,12 @@
 
 ## Rust
 
+*   [libp2p/rust-yamux](https://github.com/libp2p/rust-yamux) - Multiplexer over reliable, ordered connections.
+
+*   [nwtgck/yamux-cli-rust](https://github.com/nwtgck/yamux-cli-rust) - CLI of multiplexing TCP and UDP using yamux
+
+*   [Matrix-Zhang/kcp](https://github.com/Matrix-Zhang/kcp) - Reliable-UDP Library for Rust
+
 *   [b23r0/rsocx](https://github.com/b23r0/rsocx) - A bind/reverse Socks5 proxy server.
 
 *   [evilsocket/medusa](https://github.com/evilsocket/medusa) - A fast and secure multi protocol honeypot.
@@ -222,8 +228,6 @@
 
 *   [mgostIH/process\_list](https://github.com/mgostIH/process_list) - Rust crate to get the processes list on the operating system, with their name and id
 
-*   [postrequest/link](https://github.com/postrequest/link) - link is a command and control framework written in rust
-
 ## Java
 
 *   [MountCloud/BehinderClientSource](https://github.com/MountCloud/BehinderClientSource) - ❄️冰蝎客户端源码-V4.0.6🔞
@@ -285,10 +289,6 @@
 *   [momosecurity/rhizobia\_J](https://github.com/momosecurity/rhizobia_J) - JAVA安全SDK及编码规范
 
 *   [BeichenDream/JDR](https://github.com/BeichenDream/JDR) -
-
-*   [wh1t3p1g/tabby](https://github.com/wh1t3p1g/tabby) - A CAT called tabby ( Code Analysis Tool )
-
-*   [pandening/Java-debug-tool](https://github.com/pandening/Java-debug-tool) - Java dynamic debug tool
 
 ## C++
 
