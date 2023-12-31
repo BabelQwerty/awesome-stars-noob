@@ -708,7 +708,7 @@
 
 *   [LloydLabs/delete-self-poc](https://github.com/LloydLabs/delete-self-poc) - A way to delete a locked file, or current running executable, on disk.
 
-*   [netero1010/GhostTask](https://github.com/netero1010/GhostTask) -
+*   [netero1010/GhostTask](https://github.com/netero1010/GhostTask) - A tool employs direct registry manipulation to create scheduled tasks without triggering the usual event logs.
 
 *   [maliciousgroup/RDI-SRDI](https://github.com/maliciousgroup/RDI-SRDI) - This repo goes with the blog entry at blog.malicious.group entitled "Writing your own RDI / sRDI loader using C and ASM".
 
