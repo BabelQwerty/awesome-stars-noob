@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [PowerShell](#powershell)
 *   [Rust](#rust)
 *   [C++](#c)
 *   [Go](#go)
@@ -28,7 +29,6 @@
 *   [Python](#python)
 *   [C#](#c-2)
 *   [TypeScript](#typescript)
-*   [PowerShell](#powershell)
 *   [Lua](#lua)
 *   [CSS](#css)
 *   [HTML](#html)
@@ -43,6 +43,36 @@
 *   [PHP](#php)
 *   [Vue](#vue)
 *   [Thanks](#thanks)
+
+## PowerShell
+
+*   [mattifestation/PIC\_Bindshell](https://github.com/mattifestation/PIC_Bindshell) - Position Independent Windows Shellcode Written in C
+
+*   [monoxgas/sRDI](https://github.com/monoxgas/sRDI) - Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode
+
+*   [XiaoliChan/Invoke-sAMSpoofing](https://github.com/XiaoliChan/Invoke-sAMSpoofing) - CVE-2021-42287/CVE-2021-42278 exploits in powershell
+
+*   [mthcht/ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords) - Awesome list of keywords for Threat Hunting sessions
+
+*   [safebuffer/vulnerable-AD](https://github.com/safebuffer/vulnerable-AD) - Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab
+
+*   [Marshall-Hallenbeck/red\_team\_attack\_lab](https://github.com/Marshall-Hallenbeck/red_team_attack_lab) - Red Team Attack Lab for TTP testing & research
+
+*   [danielbohannon/Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) - PowerShell Obfuscator
+
+*   [61106960/adPEAS](https://github.com/61106960/adPEAS) - Powershell tool to automate Active Directory enumeration.
+
+*   [peewpw/Invoke-WCMDump](https://github.com/peewpw/Invoke-WCMDump) - PowerShell Script to Dump Windows Credentials from the Credential Manager
+
+*   [IAMinZoho/OFFSEC-PowerShell](https://github.com/IAMinZoho/OFFSEC-PowerShell) - My Favorite Offensive Security Scripts
+
+*   [api0cradle/CVE-2023-23397-POC-Powershell](https://github.com/api0cradle/CVE-2023-23397-POC-Powershell) -
+
+*   [rasta-mouse/Sherlock](https://github.com/rasta-mouse/Sherlock) - PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities.
+
+*   [0xBallpoint/LOAD](https://github.com/0xBallpoint/LOAD) - Lord Of Active Directory - automatic vulnerable active directory on AWS
+
+*   [jaredcatkinson/PSReflect-Functions](https://github.com/jaredcatkinson/PSReflect-Functions) - Module to provide PowerShell functions that abstract Win32 API functions
 
 ## Rust
 
@@ -1092,8 +1122,6 @@
 
 *   [aniqfakhrul/powerview.py](https://github.com/aniqfakhrul/powerview.py) - Just another Powerview alternative
 
-*   [icyguider/MoreImpacketExamples](https://github.com/icyguider/MoreImpacketExamples) - More examples using the Impacket library designed for learning purposes.
-
 ## C\#
 
 *   [qwqdanchun/Pillager](https://github.com/qwqdanchun/Pillager) - Pillager是一个适用于后渗透期间的信息收集工具
@@ -1157,34 +1185,6 @@
 *   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 
 *   [kahosan/lolicon-chat-bot](https://github.com/kahosan/lolicon-chat-bot) -
-
-## PowerShell
-
-*   [monoxgas/sRDI](https://github.com/monoxgas/sRDI) - Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode
-
-*   [XiaoliChan/Invoke-sAMSpoofing](https://github.com/XiaoliChan/Invoke-sAMSpoofing) - CVE-2021-42287/CVE-2021-42278 exploits in powershell
-
-*   [mthcht/ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords) - Awesome list of keywords for Threat Hunting sessions
-
-*   [safebuffer/vulnerable-AD](https://github.com/safebuffer/vulnerable-AD) - Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab
-
-*   [Marshall-Hallenbeck/red\_team\_attack\_lab](https://github.com/Marshall-Hallenbeck/red_team_attack_lab) - Red Team Attack Lab for TTP testing & research
-
-*   [danielbohannon/Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) - PowerShell Obfuscator
-
-*   [61106960/adPEAS](https://github.com/61106960/adPEAS) - Powershell tool to automate Active Directory enumeration.
-
-*   [peewpw/Invoke-WCMDump](https://github.com/peewpw/Invoke-WCMDump) - PowerShell Script to Dump Windows Credentials from the Credential Manager
-
-*   [IAMinZoho/OFFSEC-PowerShell](https://github.com/IAMinZoho/OFFSEC-PowerShell) - My Favorite Offensive Security Scripts
-
-*   [api0cradle/CVE-2023-23397-POC-Powershell](https://github.com/api0cradle/CVE-2023-23397-POC-Powershell) -
-
-*   [rasta-mouse/Sherlock](https://github.com/rasta-mouse/Sherlock) - PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities.
-
-*   [0xBallpoint/LOAD](https://github.com/0xBallpoint/LOAD) - Lord Of Active Directory - automatic vulnerable active directory on AWS
-
-*   [jaredcatkinson/PSReflect-Functions](https://github.com/jaredcatkinson/PSReflect-Functions) - Module to provide PowerShell functions that abstract Win32 API functions
 
 ## Lua
 
