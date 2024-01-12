@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Objective-C](#objective-c)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [C++](#c)
@@ -43,6 +44,10 @@
 *   [Scala](#scala)
 *   [Vue](#vue)
 *   [Thanks](#thanks)
+
+## Objective-C
+
+*   [jhftss/POC](https://github.com/jhftss/POC) - A public collection of POCs & Exploits for the vulnerabilities I discovered
 
 ## miscellaneous
 
@@ -474,8 +479,6 @@
 
 *   [wh0amitz/BypassCredGuard](https://github.com/wh0amitz/BypassCredGuard) - Credential Guard Bypass Via Patching Wdigest Memory
 
-*   [Wh04m1001/CVE-2023-21752](https://github.com/Wh04m1001/CVE-2023-21752) -
-
 ## C
 
 *   [ekknod/EC](https://github.com/ekknod/EC) - open-source CS:GO/CS2 cheat
@@ -618,7 +621,7 @@
 
 *   [opsdisk/pagodo](https://github.com/opsdisk/pagodo) - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching
 
-*   [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - OSINT automation for hackers.
+*   [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
 
 *   [openeasm/ICP-API](https://github.com/openeasm/ICP-API) - ICP备案查询 API
 
