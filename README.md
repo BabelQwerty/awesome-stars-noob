@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Objective-C](#objective-c)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
@@ -36,7 +37,6 @@
 *   [HTML](#html)
 *   [Ruby](#ruby)
 *   [Shell](#shell)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Makefile](#makefile)
 *   [Vim Script](#vim-script)
 *   [Dockerfile](#dockerfile)
@@ -44,6 +44,22 @@
 *   [Scala](#scala)
 *   [Vue](#vue)
 *   [Thanks](#thanks)
+
+## Jupyter Notebook
+
+*   [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验。
+
+*   [rtwillett/DorkLab](https://github.com/rtwillett/DorkLab) - Web app tool for helping compose advance search operators (aka Google dorking AKA boolean searches) for a variety of search engines
+
+*   [unit-mesh/unit-minions](https://github.com/unit-mesh/unit-minions) - 《AI 研发提效研究：自己动手训练 LoRA》，包含 Llama  （Alpaca LoRA）模型、ChatGLM （ChatGLM Tuning）相关 Lora 的训练。训练内容：用户故事生成、测试代码生成、代码辅助生成、文本转 SQL、文本生成代码……
+
+*   [LC1332/Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM) - 骆驼(Luotuo): Open Sourced Chinese Language Models. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技
+
+*   [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
+
+*   [0FuzzingQ/dga\_check](https://github.com/0FuzzingQ/dga_check) -
+
+*   [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 
 ## Objective-C
 
@@ -208,8 +224,6 @@
 *   [N7WEra/BofAllTheThings](https://github.com/N7WEra/BofAllTheThings) - Creating a repository with all public Beacon Object Files (BoFs)
 
 *   [TryGOTry/CobaltStrike\_Cat\_4.5](https://github.com/TryGOTry/CobaltStrike_Cat_4.5) - 猫猫Cs:基于Cobalt Strike\[4.5]二开 (原dogcs二开移植)
-
-*   [cjh0613/tencent-sensitive-words](https://github.com/cjh0613/tencent-sensitive-words) - 腾讯的离线敏感词库
 
 ## Rust
 
@@ -1256,20 +1270,6 @@
 *   [M4fiaB0y/CVE-2023-22809](https://github.com/M4fiaB0y/CVE-2023-22809) -
 
 *   [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
-
-## Jupyter Notebook
-
-*   [rtwillett/DorkLab](https://github.com/rtwillett/DorkLab) - Web app tool for helping compose advance search operators (aka Google dorking AKA boolean searches) for a variety of search engines
-
-*   [unit-mesh/unit-minions](https://github.com/unit-mesh/unit-minions) - 《AI 研发提效研究：自己动手训练 LoRA》，包含 Llama  （Alpaca LoRA）模型、ChatGLM （ChatGLM Tuning）相关 Lora 的训练。训练内容：用户故事生成、测试代码生成、代码辅助生成、文本转 SQL、文本生成代码……
-
-*   [LC1332/Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM) - 骆驼(Luotuo): Open Sourced Chinese Language Models. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技
-
-*   [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
-
-*   [0FuzzingQ/dga\_check](https://github.com/0FuzzingQ/dga_check) -
-
-*   [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 
 ## Makefile
 
