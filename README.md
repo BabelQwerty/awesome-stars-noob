@@ -70,7 +70,7 @@
 
 *   [nettitude/Tartarus-TpAllocInject](https://github.com/nettitude/Tartarus-TpAllocInject) -
 
-*   [je5442804/CreateProcessInternalW-Full](https://github.com/je5442804/CreateProcessInternalW-Full) - Reimplement CreateProcessInternalW via Windows 10 20H1+ Base on NtCreateUserProcess-Post
+*   [je5442804/CreateProcessInternalW-Full](https://github.com/je5442804/CreateProcessInternalW-Full) - Reimplement CreateProcessInternalW via Windows 10 20H1+/Windows 11 Base on NtCreateUserProcess-Post
 
 *   [Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) - Little AV/EDR bypassing lab for training & learning purposes
 
@@ -136,7 +136,7 @@
 
 *   [K3rnel-Dev/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/K3rnel-Dev/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
 
-*   [ZeusGuard/RIP](https://github.com/ZeusGuard/RIP) -
+*   [roadwy/RIP](https://github.com/roadwy/RIP) -
 
 *   [al0ne/suricata-rules](https://github.com/al0ne/suricata-rules) - Suricata IDS rules 用来检测红队渗透/恶意行为等，支持检测CobaltStrike/MSF/Empire/DNS隧道/Weevely/菜刀/冰蝎/挖矿/反弹shell/ICMP隧道等
 
@@ -1158,7 +1158,7 @@
 
 *   [Metarget/cloud-native-security-book](https://github.com/Metarget/cloud-native-security-book) - 《云原生安全：攻防实践与体系构建》资料仓库
 
-*   [chushuai/wscan](https://github.com/chushuai/wscan) - An open source security assessment tool supports common web security issue scanning and custom POCs. In addition, the tool also has vulnerability detection and automated testing capabilities using machine learning.
+*   [chushuai/wscan](https://github.com/chushuai/wscan) -  Wscan is a web security scanner that focuses on web security, dedicated to making web security accessible to everyone.
 
 *   [liamg/traitor](https://github.com/liamg/traitor) - :arrow\_up: :skull\_and\_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 
