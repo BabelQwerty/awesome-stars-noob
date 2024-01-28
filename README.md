@@ -50,7 +50,7 @@
 
 *   [czs108/Windows-PE-Packer](https://github.com/czs108/Windows-PE-Packer) - 🗜️ A packer for Windows x86 executable files written in C and Intel x86 Assembly. The new file after packing can obstruct reverse engineering.
 
-*   [Cracked5pider/ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate) - An easily modifiable shellcode template for Windows x64/x86
+*   [Cracked5pider/Stardust](https://github.com/Cracked5pider/Stardust) - An modern 64-bit position independent implant template
 
 *   [ekknod/EC](https://github.com/ekknod/EC) - open-source CS:GO/CS2 cheat
 
