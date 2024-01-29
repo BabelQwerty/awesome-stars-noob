@@ -18,11 +18,11 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [C](#c)
 *   [CSS](#css)
 *   [C++](#c-1)
 *   [miscellaneous](#miscellaneous)
-*   [Python](#python)
 *   [Assembly](#assembly)
 *   [Rust](#rust)
 *   [Objective-C](#objective-c)
@@ -46,11 +46,367 @@
 *   [Vue](#vue)
 *   [Thanks](#thanks)
 
+## Python
+
+*   [cilame/vthread](https://github.com/cilame/vthread) - python 更加方便的多线程库，以最小的代码侵入，做到最高效的多线程、线程池 coding 效率。在不改变源代码的情况下，一行代码即可实现线程池操作。
+
+*   [xinyisleep/pocscan](https://github.com/xinyisleep/pocscan) - 继承大量poc检查 包含oa 如 泛微 通达 致远 万户 等。
+
+*   [DawnFlame/POChouse](https://github.com/DawnFlame/POChouse) - POC\&EXP仓库、hvv弹药库、Nday、1day
+
+*   [DSO-Lab/passets](https://github.com/DSO-Lab/passets) - Passets 是一套开源的被动资产识别框架。
+
+*   [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验。
+
+*   [20142995/pocsuite3](https://github.com/20142995/pocsuite3) -
+
+*   [hanc00l/some\_pocsuite](https://github.com/hanc00l/some_pocsuite) - 用于漏洞排查的pocsuite3验证POC代码
+
+*   [jonatanSh/shelf](https://github.com/jonatanSh/shelf) - Python library to convert elf to os-independent shellcodes
+
+*   [HG-ha/ICP\_Query](https://github.com/HG-ha/ICP_Query) - 全异步构建的高性能实时ICP备案查询模块和http接口，从工业和信息化部政务服务平台抓取实时数据，自动通过验证码，支持Web、APP、小程序、快应用名称查询，违法违规应用查询，支持根据备案号查询，支持根据企业名称查询，同时提供发行版程序
+
+*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
+
+*   [r1is/xiaolanben\_h\_sign](https://github.com/r1is/xiaolanben_h_sign) - 小蓝本(https://www.xiaolanben.com/) 爬虫的 h\_sign 签名JSRPC实现。nodejs 补环境也实现了
+
+*   [ScorpionesLabs/MSSqlPwner](https://github.com/ScorpionesLabs/MSSqlPwner) -
+
+*   [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
+
+*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 【重制中 Repairing】短信轰炸 / 短信测压 | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！
+
+*   [protectai/ai-exploits](https://github.com/protectai/ai-exploits) - A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities
+
+*   [gubeihc/fingerprint](https://github.com/gubeihc/fingerprint) - 一个简单的指纹识别小工具
+
+*   [XiaoliChan/PetitPotam-V2](https://github.com/XiaoliChan/PetitPotam-V2) - More EFS coerced authentication method with PetitPotam.py
+
+*   [ConsciousHacker/WFH](https://github.com/ConsciousHacker/WFH) -
+
+*   [mabangde/tyc\_query](https://github.com/mabangde/tyc_query) -
+
+*   [CodeXTF2/PyHmmm](https://github.com/CodeXTF2/PyHmmm) - Simple PoC Python agent to showcase Havoc C2's custom agent interface. Not operationally safe or stable. Released with accompanying blog post as a tutorial sample
+
+*   [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
+
+*   [XiaoliChan/CrackMapExec](https://github.com/XiaoliChan/CrackMapExec) - A swiss army knife for pentesting networks
+
+*   [gubeihc/blasting](https://github.com/gubeihc/blasting) -
+
+*   [MD-SEC/MDPOCS](https://github.com/MD-SEC/MDPOCS) - 猫蛋儿安全团队编写的poc能报就能打。企业微信、海康、Metabase、Openfire、泛微OA......
+
+*   [ruggi99/combine-decoder](https://github.com/ruggi99/combine-decoder) -
+
+*   [opsdisk/pagodo](https://github.com/opsdisk/pagodo) - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching
+
+*   [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
+
+*   [openeasm/ICP-API](https://github.com/openeasm/ICP-API) - ICP备案查询 API
+
+*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+
+*   [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
+
+*   [Amulab/CAudit](https://github.com/Amulab/CAudit) - 集权设施扫描器
+
+*   [Ridter/PySQLTools](https://github.com/Ridter/PySQLTools) - Mssql利用工具
+
+*   [fin3ss3g0d/cypherhound](https://github.com/fin3ss3g0d/cypherhound) - Python3 terminal application that contains 400 Neo4j cyphers for BloodHound data sets and 383 GUI cyphers
+
+*   [WingsSec/Meppo](https://github.com/WingsSec/Meppo) - 漏洞检测框架 Meppo | By WingsSec
+
+*   [WithSecureLabs/drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
+
+*   [Qihoo360/Luwak](https://github.com/Qihoo360/Luwak) - 利用预训练语言模型从非结构化威胁报告中提取 MITRE ATT\&CK TTP 信息
+
+*   [StarfireLab/AutoZerologon](https://github.com/StarfireLab/AutoZerologon) - Zerologon自动化脚本
+
+*   [Wrin9/weaverOA\_sql\_RCE](https://github.com/Wrin9/weaverOA_sql_RCE) - 泛微OA\_V9全版本的SQL远程代码执行漏洞
+
+*   [dinosn/hikvision](https://github.com/dinosn/hikvision) - Hikvision log4j PoC
+
+*   [FeeiCN/Cobra](https://github.com/FeeiCN/Cobra) - Source Code Security Audit (源代码安全审计)
+
+*   [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
+
+*   [Ridter/GetMail](https://github.com/Ridter/GetMail) - 利用NTLM Hash读取Exchange邮件
+
+*   [lemonlove7/dirsearch\_bypass403](https://github.com/lemonlove7/dirsearch_bypass403) - 目录扫描+JS文件中提取URL和子域+403状态绕过+指纹识别
+
+*   [ZacharyZcR/SecGPT](https://github.com/ZacharyZcR/SecGPT) -  A Test Project for a Network Security-oriented LLM Tool Emulating AutoGPT
+
+*   [koutto/web-brutator](https://github.com/koutto/web-brutator) - Fast Modular Web Interfaces Bruteforcer
+
+*   [XiaoliChan/zerologon-Shot](https://github.com/XiaoliChan/zerologon-Shot) - Zerologon exploit with restore DC password automatically
+
+*   [tr0uble-mAker/POC-bomber](https://github.com/tr0uble-mAker/POC-bomber) - 利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点
+
+*   [Valerian7/Proxifier\_ProxyPool](https://github.com/Valerian7/Proxifier_ProxyPool) - Proxifier批量添加代理服务器
+
+*   [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
+
+*   [Malayke/CVE-2023-33246\_RocketMQ\_RCE\_EXPLOIT](https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT) - CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit
+
+*   [molly/gh-dork](https://github.com/molly/gh-dork) - Github dorking tool
+
+*   [madhavmehndiratta/dorkScanner](https://github.com/madhavmehndiratta/dorkScanner) - A typical search engine dork scanner scrapes search engines with dorks that you provide in order to find vulnerable URLs.
+
+*   [jborean93/pypsrp](https://github.com/jborean93/pypsrp) - PowerShell Remoting Protocol for Python
+
+*   [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
+
+*   [six2dez/dorks\_hunter](https://github.com/six2dez/dorks_hunter) - Simple Google Dorks search tool
+
+*   [hayabhay/frogbase](https://github.com/hayabhay/frogbase) - Transform audio-visual content into navigable knowledge.
+
+*   [snehankekre/streamlit-d3graph](https://github.com/snehankekre/streamlit-d3graph) - A simple component to display d3graph network graphs in Streamlit apps.
+
+*   [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
+
+*   [thewhiteninja/deobshell](https://github.com/thewhiteninja/deobshell) - Powershell script deobfuscation using AST in Python
+
+*   [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+
+*   [HavocFramework/havoc-py](https://github.com/HavocFramework/havoc-py) - Havoc python api
+
+*   [bigb0sss/RedTeam-OffensiveSecurity](https://github.com/bigb0sss/RedTeam-OffensiveSecurity) - Tools & Interesting Things for RedTeam Ops
+
+*   [grimlockx/ADCSKiller](https://github.com/grimlockx/ADCSKiller) - An ADCS Exploitation Automation Tool Weaponizing Certipy and Coercer
+
+*   [Mr-Un1k0d3r/PowerLessShell](https://github.com/Mr-Un1k0d3r/PowerLessShell) - Run PowerShell command without invoking powershell.exe
+
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+
+*   [georgesotiriadis/Chimera](https://github.com/georgesotiriadis/Chimera) - Automated DLL Sideloading Tool With EDR Evasion Capabilities
+
+*   [jiushill/wmi-hack-py](https://github.com/jiushill/wmi-hack-py) -
+
+*   [dr0op/WeblogicScan](https://github.com/dr0op/WeblogicScan) - 增强版WeblogicScan、检测结果更精确、插件化、添加CVE-2019-2618，CVE-2019-2729检测，Python3支持
+
+*   [20142995/Goby](https://github.com/20142995/Goby) -
+
+*   [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+
+*   [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University
+
+*   [dadevel/mssql-spider](https://github.com/dadevel/mssql-spider) - Automated exploitation of MSSQL servers at scale
+
+*   [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
+
+*   [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA\&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
+
+*   [ztgrace/changeme](https://github.com/ztgrace/changeme) - A default credential scanner.
+
+*   [citronneur/rdpy](https://github.com/citronneur/rdpy) - Remote Desktop Protocol in Twisted Python
+
+*   [orleven/Hamster](https://github.com/orleven/Hamster) - Hamster是基于mitmproxy开发的异步被动扫描框架，基于http代理进行被动扫描，主要功能为重写数据包、签名、漏洞扫描、敏感参数收集等功能（开发中）。
+
+*   [skelsec/aardwolf](https://github.com/skelsec/aardwolf) - Asynchronous RDP client for Python (headless)
+
+*   [XiaoliChan/wmiexec-Pro](https://github.com/XiaoliChan/wmiexec-Pro) - New generation of wmiexec.py
+
+*   [zblurx/dploot](https://github.com/zblurx/dploot) - DPAPI looting remotely in Python
+
+*   [hexian2001/HRP-Nnepnep-auto-pwn](https://github.com/hexian2001/HRP-Nnepnep-auto-pwn) - 基于pwntools+angr的简单CTF AMD64 PWN  AUTO FUZZ
+
+*   [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+
+*   [karust/cuckoo-docker](https://github.com/karust/cuckoo-docker) - Dockerized Cuckoo sandbox
+
+*   [mohamedbenchikh/MDML](https://github.com/mohamedbenchikh/MDML) - Malware Detection using Machine Learning (MDML)
+
+*   [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+
+*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+
+*   [johnsmith0031/alpaca\_lora\_4bit](https://github.com/johnsmith0031/alpaca_lora_4bit) -
+
+*   [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service
+
+*   [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit) -
+
+*   [crytic/solc-select](https://github.com/crytic/solc-select) - Manage and switch between Solidity compiler versions
+
+*   [Consensys/mythril](https://github.com/Consensys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
+
+*   [davidefiocco/streamlit-fastapi-model-serving](https://github.com/davidefiocco/streamlit-fastapi-model-serving) - Simple web app example serving a PyTorch model using streamlit and FastAPI
+
+*   [Ciyfly/mullet](https://github.com/Ciyfly/mullet) - 总要写一款自己的扫描器
+
+*   [SpiderClub/haipproxy](https://github.com/SpiderClub/haipproxy) - :sparkling\_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis
+
+*   [djhons/mssqlproxy](https://github.com/djhons/mssqlproxy) - mssqlproxy python3.5+ 并修复bug
+
+*   [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) -
+
+*   [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
+
+*   [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
+
+*   [lxflxfcl/monitor](https://github.com/lxflxfcl/monitor) - 漏洞监控平台——Monitor。目前实现了监控GitHub、微软、CNNVD三者的漏洞信息，并使用企业微信实时推送。还可以使用邮箱推送，默认关闭。
+
+*   [Y4hL/PyDoor](https://github.com/Y4hL/PyDoor) - Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption
+
+*   [machine1337/fudrat](https://github.com/machine1337/fudrat) - Generate Undetectable Metasploit Payload in a simple way
+
+*   [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
+
+*   [FunnyWolf/pystinger](https://github.com/FunnyWolf/pystinger) - Bypass firewall for traffic forwarding using webshell 一款使用webshell进行流量转发的出网工具
+
+*   [Jumbo-WJB/PTH\_Exchange](https://github.com/Jumbo-WJB/PTH_Exchange) - If you only have hash, you can still operate exchange
+
+*   [jfrog/text4shell-tools](https://github.com/jfrog/text4shell-tools) -
+
+*   [z-bool/CVE-2022-40684](https://github.com/z-bool/CVE-2022-40684) - 一键枚举所有用户名以及写入SSH公钥
+
+*   [refraction-ray/xalpha](https://github.com/refraction-ray/xalpha) - 基金投资管理回测引擎
+
+*   [w-digital-scanner/w12scan-client](https://github.com/w-digital-scanner/w12scan-client) - 网络资产搜索发现引擎，w12scan 扫描端程序
+
+*   [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
+
+*   [machine1337/gmailc2](https://github.com/machine1337/gmailc2) - A Fully Undetectable C2 Server That Communicates Via Google SMTP to evade Antivirus Protections and Network Traffic Restrictions
+
+*   [mymarilyn/clickhouse-driver](https://github.com/mymarilyn/clickhouse-driver) - ClickHouse Python Driver with native interface support
+
+*   [balki97/OWASSRF-CVE-2022-41082-POC](https://github.com/balki97/OWASSRF-CVE-2022-41082-POC) - PoC for the CVE-2022-41080 , CVE-2022-41082 and CVE-2022-41076 Vulnerabilities Affecting Microsoft Exchange Servers
+
+*   [YinWC/2021hvv\_vul](https://github.com/YinWC/2021hvv_vul) - 2021hvv漏洞汇总
+
+*   [klezVirus/SysWhispers3](https://github.com/klezVirus/SysWhispers3) - SysWhispers on Steroids - AV/EDR evasion via direct system calls.
+
+*   [ShutdownRepo/pywhisker](https://github.com/ShutdownRepo/pywhisker) - Python version of the C# tool for "Shadow Credentials" attacks
+
+*   [1in9e/icp-domains](https://github.com/1in9e/icp-domains) - 输入一个域名，输出ICP备案所有关联域名
+
+*   [jellever/CyberArkTools](https://github.com/jellever/CyberArkTools) - Some Python tooling to for example try to decrypt CyberArk .cred credential files
+
+*   [qianxiao996/R-Knife](https://github.com/qianxiao996/R-Knife) - R-Knife 综合渗透工具箱
+
+*   [Cl0udG0d/Fofa-hack](https://github.com/Cl0udG0d/Fofa-hack) - 非付费会员，fofa数据采集工具
+
+*   [YagamiiLight/Cerberus](https://github.com/YagamiiLight/Cerberus) - 一款功能强大的漏洞扫描器，子域名爆破使用aioDNS，asyncio异步快速扫描，覆盖目标全方位资产进行批量漏洞扫描，中间件信息收集，自动收集ip代理，探测Waf信息时自动使用来保护本机真实Ip，在本机Ip被Waf杀死后，自动切换代理Ip进行扫描，Waf信息收集(国内外100+款waf信息)包括安全狗，云锁，阿里云，云盾，腾讯云等，提供部分已知waf bypass 方案，中间件漏洞检测(Thinkphp,weblogic等 CVE-2018-5955,CVE-2018-12613,CVE-2018-11759等)，支持SQL注入, XSS, 命令执行,文件包含, ssrf 漏洞扫描, 支持自定义漏洞邮箱推送功能
+
+*   [dgh05t/VMware\_ESXI\_OpenSLP\_PoCs](https://github.com/dgh05t/VMware_ESXI_OpenSLP_PoCs) - CVE-2020-3992 & CVE-2019-5544
+
+*   [liuhuanshuo/ChatGPT\_PyBot](https://github.com/liuhuanshuo/ChatGPT_PyBot) -
+
+*   [styczynski/chatdb](https://github.com/styczynski/chatdb) - ChatGPT-based database, wait... WHAT?
+
+*   [Ukenn2112/ChatGPTelegramBot](https://github.com/Ukenn2112/ChatGPTelegramBot) - ChatGPTelegramBot 支持私聊群组单会话
+
+*   [talwrii/llmcli](https://github.com/talwrii/llmcli) -
+
+*   [lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT) - a quick and easy interface to generate emails with ChatGPT
+
+*   [Pab450/ana](https://github.com/Pab450/ana) - OpenAI chatGPT twitter bot
+
+*   [chitalian/revChatGPTServer](https://github.com/chitalian/revChatGPTServer) -
+
+*   [shiyemin/ChatGPT-MS](https://github.com/shiyemin/ChatGPT-MS) - This repo is named by ChatGPT for Multi-Session ChatGPT API.
+
+*   [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
+
+*   [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
+
+*   [pedrorito/ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - 🤖 A Slack bot that integrates with OpenAI's ChatGPT to provide answers, written in Python
+
+*   [platelminto/chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - Have a conversation with ChatGPT using your voice, and have it talk back.
+
+*   [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot
+
+*   [ausbitbank/ChatGPTDiscord](https://github.com/ausbitbank/ChatGPTDiscord) - Discord bot for interacting with ChatGPT's API by OpenAI
+
+*   [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
+
+*   [y1nglamore/IDOR\_detect\_tool](https://github.com/y1nglamore/IDOR_detect_tool) - 一款API水平越权漏洞检测工具
+
+*   [doscriptsite/ZSXQ-Spider](https://github.com/doscriptsite/ZSXQ-Spider) - 爬取知识星球内容，并制作成PDF电子书。
+
+*   [mogwailabs/mjet](https://github.com/mogwailabs/mjet) - MOGWAI LABS JMX exploitation toolkit
+
+*   [creditease-sec/insight2](https://github.com/creditease-sec/insight2) -
+
+*   [synacktiv/Prox-Ez](https://github.com/synacktiv/Prox-Ez) -
+
+*   [r0ysue/r0capture](https://github.com/r0ysue/r0capture) - 安卓应用层抓包通杀脚本
+
+*   [yumusb/coremail\_export](https://github.com/yumusb/coremail_export) - 导出coremail联系人
+
+*   [Le0nsec/zyte\_crawler](https://github.com/Le0nsec/zyte_crawler) - A crawler for xz.aliyun.com、paper.seebug.org、tttang.com powered by zyte.
+
+*   [wuerror/pocsuite3\_pocs](https://github.com/wuerror/pocsuite3_pocs) - pocsuite3 poc\&exp
+
+*   [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
+
+*   [moyuwa/wechat\_appinfo\_wxapkg](https://github.com/moyuwa/wechat_appinfo_wxapkg) - 渗透测试：微信小程序信息在线收集，wxapkg源码包内提取信息
+
+*   [xnuinside/airflow\_in\_docker\_compose](https://github.com/xnuinside/airflow_in_docker_compose) - Apache Airflow in Docker Compose (for both versions 1.10.\* and 2.\*)
+
+*   [vesperp/xray-auto](https://github.com/vesperp/xray-auto) -
+
+*   [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An open-source adversary emulation platform
+
+*   [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
+
+*   [nccgroup/web3-decoder](https://github.com/nccgroup/web3-decoder) -
+
+*   [aleenzz/ADExplorerX](https://github.com/aleenzz/ADExplorerX) -
+
+*   [aniqfakhrul/powerview.py](https://github.com/aniqfakhrul/powerview.py) - Just another Powerview alternative
+
+*   [icyguider/MoreImpacketExamples](https://github.com/icyguider/MoreImpacketExamples) - More examples using the Impacket library designed for learning purposes.
+
+*   [hakril/PythonForWindows](https://github.com/hakril/PythonForWindows) - A codebase aimed to make interaction with Windows and native execution easier
+
+*   [Litt1eQ/aliyundrive-api](https://github.com/Litt1eQ/aliyundrive-api) - 阿里云盘PythonAPI
+
+*   [APTRS/APTRS](https://github.com/APTRS/APTRS) - Automated Penetration Testing Reporting System
+
+*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+
+*   [XiaoliChan/RedCaddy](https://github.com/XiaoliChan/RedCaddy) - C2 redirector base on caddy
+
+*   [LiAoRJ/CS\_fakesubmit](https://github.com/LiAoRJ/CS_fakesubmit) - 一个可以伪装上线Cobaltstrike的脚本
+
+*   [aStrowxyu/Pysoserial](https://github.com/aStrowxyu/Pysoserial) - Python-based proof-of-concept tool for generating payloads that utilize unsafe Java object deserialization.
+
+*   [xz-zone/Webpackfind](https://github.com/xz-zone/Webpackfind) - Webpack自动化信息收集
+
+*   [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
+
+*   [embee-research/Randomise-api-hashes-cobalt-strike](https://github.com/embee-research/Randomise-api-hashes-cobalt-strike) - Bypass Detection By Randomising ROR13 API Hashes
+
+*   [mandiant/speakeasy](https://github.com/mandiant/speakeasy) - Windows kernel and user mode emulation.
+
+*   [w5teams/w5](https://github.com/w5teams/w5) - Security Orchestration, Automation and Response (SOAR) Platform. 安全编排与自动化响应平台，无需编写代码的安全自动化，使用 SOAR 可以让团队工作更加高效
+
+*   [zbnio/zbn](https://github.com/zbnio/zbn) - 安全编排与自动化响应平台
+
+*   [fpoli/python-asdl](https://github.com/fpoli/python-asdl) - ASDL parser taken from CPython 3.5
+
+*   [garzon/CTF-Writeups](https://github.com/garzon/CTF-Writeups) - 自己ctf比赛的writeup
+
+*   [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
+
+*   [ice-doom/codeql\_compile](https://github.com/ice-doom/codeql_compile) - 自动反编译闭源应用，创建codeql数据库
+
+*   [0xf4n9x/NPS-AUTH-BYPASS](https://github.com/0xf4n9x/NPS-AUTH-BYPASS) - NPS proxy server authentication bypasses vulnerability detection
+
+*   [Threekiii/Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 一个攻防知识仓库
+
+*   [frankstar007/kNN](https://github.com/frankstar007/kNN) - 机器学习实战
+
+*   [Neo23x0/Loki](https://github.com/Neo23x0/Loki) - Loki - Simple IOC and YARA Scanner
+
+*   [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+
 ## C
 
 *   [czs108/Windows-PE-Packer](https://github.com/czs108/Windows-PE-Packer) - 🗜️ A packer for Windows x86 executable files written in C and Intel x86 Assembly. The new file after packing can obstruct reverse engineering.
 
-*   [Cracked5pider/Stardust](https://github.com/Cracked5pider/Stardust) - An modern 64-bit position independent implant template
+*   [Cracked5pider/Stardust](https://github.com/Cracked5pider/Stardust) - A modern 64-bit position independent implant template
 
 *   [ekknod/EC](https://github.com/ekknod/EC) - open-source CS:GO/CS2 cheat
 
@@ -427,362 +783,6 @@
 *   [d3ckx1/OLa](https://github.com/d3ckx1/OLa) -
 
 *   [yuag/cobalt-strike](https://github.com/yuag/cobalt-strike) - Cobalt Strike插件
-
-*   [MichaelKoczwara/Awesome-CobaltStrike-Defence](https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence) - Defences against Cobalt Strike
-
-## Python
-
-*   [xinyisleep/pocscan](https://github.com/xinyisleep/pocscan) - 继承大量poc检查 包含oa 如 泛微 通达 致远 万户 等。
-
-*   [DawnFlame/POChouse](https://github.com/DawnFlame/POChouse) - POC\&EXP仓库、hvv弹药库、Nday、1day
-
-*   [DSO-Lab/passets](https://github.com/DSO-Lab/passets) - Passets 是一套开源的被动资产识别框架。
-
-*   [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验。
-
-*   [20142995/pocsuite3](https://github.com/20142995/pocsuite3) -
-
-*   [hanc00l/some\_pocsuite](https://github.com/hanc00l/some_pocsuite) - 用于漏洞排查的pocsuite3验证POC代码
-
-*   [jonatanSh/shelf](https://github.com/jonatanSh/shelf) - Python library to convert elf to os-independent shellcodes
-
-*   [HG-ha/ICP\_Query](https://github.com/HG-ha/ICP_Query) - 全异步构建的高性能实时ICP备案查询模块和http接口，从工业和信息化部政务服务平台抓取实时数据，自动通过验证码，支持Web、APP、小程序、快应用名称查询，违法违规应用查询，支持根据备案号查询，支持根据企业名称查询，同时提供发行版程序
-
-*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
-
-*   [r1is/xiaolanben\_h\_sign](https://github.com/r1is/xiaolanben_h_sign) - 小蓝本(https://www.xiaolanben.com/) 爬虫的 h\_sign 签名JSRPC实现。nodejs 补环境也实现了
-
-*   [ScorpionesLabs/MSSqlPwner](https://github.com/ScorpionesLabs/MSSqlPwner) -
-
-*   [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
-
-*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 【重制中 Repairing】短信轰炸 / 短信测压 | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！
-
-*   [protectai/ai-exploits](https://github.com/protectai/ai-exploits) - A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities
-
-*   [gubeihc/fingerprint](https://github.com/gubeihc/fingerprint) - 一个简单的指纹识别小工具
-
-*   [XiaoliChan/PetitPotam-V2](https://github.com/XiaoliChan/PetitPotam-V2) - More EFS coerced authentication method with PetitPotam.py
-
-*   [ConsciousHacker/WFH](https://github.com/ConsciousHacker/WFH) -
-
-*   [mabangde/tyc\_query](https://github.com/mabangde/tyc_query) -
-
-*   [CodeXTF2/PyHmmm](https://github.com/CodeXTF2/PyHmmm) - Simple PoC Python agent to showcase Havoc C2's custom agent interface. Not operationally safe or stable. Released with accompanying blog post as a tutorial sample
-
-*   [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
-
-*   [XiaoliChan/CrackMapExec](https://github.com/XiaoliChan/CrackMapExec) - A swiss army knife for pentesting networks
-
-*   [gubeihc/blasting](https://github.com/gubeihc/blasting) -
-
-*   [MD-SEC/MDPOCS](https://github.com/MD-SEC/MDPOCS) - 猫蛋儿安全团队编写的poc能报就能打。企业微信、海康、Metabase、Openfire、泛微OA......
-
-*   [ruggi99/combine-decoder](https://github.com/ruggi99/combine-decoder) -
-
-*   [opsdisk/pagodo](https://github.com/opsdisk/pagodo) - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching
-
-*   [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
-
-*   [openeasm/ICP-API](https://github.com/openeasm/ICP-API) - ICP备案查询 API
-
-*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
-
-*   [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
-
-*   [Amulab/CAudit](https://github.com/Amulab/CAudit) - 集权设施扫描器
-
-*   [Ridter/PySQLTools](https://github.com/Ridter/PySQLTools) - Mssql利用工具
-
-*   [fin3ss3g0d/cypherhound](https://github.com/fin3ss3g0d/cypherhound) - Python3 terminal application that contains 400 Neo4j cyphers for BloodHound data sets and 383 GUI cyphers
-
-*   [WingsSec/Meppo](https://github.com/WingsSec/Meppo) - 漏洞检测框架 Meppo | By WingsSec
-
-*   [WithSecureLabs/drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
-
-*   [Qihoo360/Luwak](https://github.com/Qihoo360/Luwak) - 利用预训练语言模型从非结构化威胁报告中提取 MITRE ATT\&CK TTP 信息
-
-*   [StarfireLab/AutoZerologon](https://github.com/StarfireLab/AutoZerologon) - Zerologon自动化脚本
-
-*   [Wrin9/weaverOA\_sql\_RCE](https://github.com/Wrin9/weaverOA_sql_RCE) - 泛微OA\_V9全版本的SQL远程代码执行漏洞
-
-*   [dinosn/hikvision](https://github.com/dinosn/hikvision) - Hikvision log4j PoC
-
-*   [FeeiCN/Cobra](https://github.com/FeeiCN/Cobra) - Source Code Security Audit (源代码安全审计)
-
-*   [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
-
-*   [Ridter/GetMail](https://github.com/Ridter/GetMail) - 利用NTLM Hash读取Exchange邮件
-
-*   [lemonlove7/dirsearch\_bypass403](https://github.com/lemonlove7/dirsearch_bypass403) - 目录扫描+JS文件中提取URL和子域+403状态绕过+指纹识别
-
-*   [ZacharyZcR/SecGPT](https://github.com/ZacharyZcR/SecGPT) -  A Test Project for a Network Security-oriented LLM Tool Emulating AutoGPT
-
-*   [koutto/web-brutator](https://github.com/koutto/web-brutator) - Fast Modular Web Interfaces Bruteforcer
-
-*   [XiaoliChan/zerologon-Shot](https://github.com/XiaoliChan/zerologon-Shot) - Zerologon exploit with restore DC password automatically
-
-*   [tr0uble-mAker/POC-bomber](https://github.com/tr0uble-mAker/POC-bomber) - 利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点
-
-*   [Valerian7/Proxifier\_ProxyPool](https://github.com/Valerian7/Proxifier_ProxyPool) - Proxifier批量添加代理服务器
-
-*   [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
-
-*   [Malayke/CVE-2023-33246\_RocketMQ\_RCE\_EXPLOIT](https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT) - CVE-2023-33246 RocketMQ RCE Detect By Version and Exploit
-
-*   [molly/gh-dork](https://github.com/molly/gh-dork) - Github dorking tool
-
-*   [madhavmehndiratta/dorkScanner](https://github.com/madhavmehndiratta/dorkScanner) - A typical search engine dork scanner scrapes search engines with dorks that you provide in order to find vulnerable URLs.
-
-*   [jborean93/pypsrp](https://github.com/jborean93/pypsrp) - PowerShell Remoting Protocol for Python
-
-*   [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
-
-*   [six2dez/dorks\_hunter](https://github.com/six2dez/dorks_hunter) - Simple Google Dorks search tool
-
-*   [hayabhay/frogbase](https://github.com/hayabhay/frogbase) - Transform audio-visual content into navigable knowledge.
-
-*   [snehankekre/streamlit-d3graph](https://github.com/snehankekre/streamlit-d3graph) - A simple component to display d3graph network graphs in Streamlit apps.
-
-*   [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
-
-*   [thewhiteninja/deobshell](https://github.com/thewhiteninja/deobshell) - Powershell script deobfuscation using AST in Python
-
-*   [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-
-*   [HavocFramework/havoc-py](https://github.com/HavocFramework/havoc-py) - Havoc python api
-
-*   [bigb0sss/RedTeam-OffensiveSecurity](https://github.com/bigb0sss/RedTeam-OffensiveSecurity) - Tools & Interesting Things for RedTeam Ops
-
-*   [grimlockx/ADCSKiller](https://github.com/grimlockx/ADCSKiller) - An ADCS Exploitation Automation Tool Weaponizing Certipy and Coercer
-
-*   [Mr-Un1k0d3r/PowerLessShell](https://github.com/Mr-Un1k0d3r/PowerLessShell) - Run PowerShell command without invoking powershell.exe
-
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
-
-*   [georgesotiriadis/Chimera](https://github.com/georgesotiriadis/Chimera) - Automated DLL Sideloading Tool With EDR Evasion Capabilities
-
-*   [jiushill/wmi-hack-py](https://github.com/jiushill/wmi-hack-py) -
-
-*   [dr0op/WeblogicScan](https://github.com/dr0op/WeblogicScan) - 增强版WeblogicScan、检测结果更精确、插件化、添加CVE-2019-2618，CVE-2019-2729检测，Python3支持
-
-*   [20142995/Goby](https://github.com/20142995/Goby) -
-
-*   [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
-
-*   [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University
-
-*   [dadevel/mssql-spider](https://github.com/dadevel/mssql-spider) - Automated exploitation of MSSQL servers at scale
-
-*   [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
-
-*   [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA\&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
-
-*   [ztgrace/changeme](https://github.com/ztgrace/changeme) - A default credential scanner.
-
-*   [citronneur/rdpy](https://github.com/citronneur/rdpy) - Remote Desktop Protocol in Twisted Python
-
-*   [orleven/Hamster](https://github.com/orleven/Hamster) - Hamster是基于mitmproxy开发的异步被动扫描框架，基于http代理进行被动扫描，主要功能为重写数据包、签名、漏洞扫描、敏感参数收集等功能（开发中）。
-
-*   [skelsec/aardwolf](https://github.com/skelsec/aardwolf) - Asynchronous RDP client for Python (headless)
-
-*   [XiaoliChan/wmiexec-Pro](https://github.com/XiaoliChan/wmiexec-Pro) - New generation of wmiexec.py
-
-*   [zblurx/dploot](https://github.com/zblurx/dploot) - DPAPI looting remotely in Python
-
-*   [hexian2001/HRP-Nnepnep-auto-pwn](https://github.com/hexian2001/HRP-Nnepnep-auto-pwn) - 基于pwntools+angr的简单CTF AMD64 PWN  AUTO FUZZ
-
-*   [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
-
-*   [karust/cuckoo-docker](https://github.com/karust/cuckoo-docker) - Dockerized Cuckoo sandbox
-
-*   [mohamedbenchikh/MDML](https://github.com/mohamedbenchikh/MDML) - Malware Detection using Machine Learning (MDML)
-
-*   [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
-
-*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-
-*   [johnsmith0031/alpaca\_lora\_4bit](https://github.com/johnsmith0031/alpaca_lora_4bit) -
-
-*   [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service
-
-*   [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit) -
-
-*   [crytic/solc-select](https://github.com/crytic/solc-select) - Manage and switch between Solidity compiler versions
-
-*   [Consensys/mythril](https://github.com/Consensys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
-
-*   [davidefiocco/streamlit-fastapi-model-serving](https://github.com/davidefiocco/streamlit-fastapi-model-serving) - Simple web app example serving a PyTorch model using streamlit and FastAPI
-
-*   [Ciyfly/mullet](https://github.com/Ciyfly/mullet) - 总要写一款自己的扫描器
-
-*   [SpiderClub/haipproxy](https://github.com/SpiderClub/haipproxy) - :sparkling\_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis
-
-*   [djhons/mssqlproxy](https://github.com/djhons/mssqlproxy) - mssqlproxy python3.5+ 并修复bug
-
-*   [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) -
-
-*   [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
-
-*   [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
-
-*   [lxflxfcl/monitor](https://github.com/lxflxfcl/monitor) - 漏洞监控平台——Monitor。目前实现了监控GitHub、微软、CNNVD三者的漏洞信息，并使用企业微信实时推送。还可以使用邮箱推送，默认关闭。
-
-*   [Y4hL/PyDoor](https://github.com/Y4hL/PyDoor) - Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption
-
-*   [machine1337/fudrat](https://github.com/machine1337/fudrat) - Generate Undetectable Metasploit Payload in a simple way
-
-*   [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
-
-*   [FunnyWolf/pystinger](https://github.com/FunnyWolf/pystinger) - Bypass firewall for traffic forwarding using webshell 一款使用webshell进行流量转发的出网工具
-
-*   [Jumbo-WJB/PTH\_Exchange](https://github.com/Jumbo-WJB/PTH_Exchange) - If you only have hash, you can still operate exchange
-
-*   [jfrog/text4shell-tools](https://github.com/jfrog/text4shell-tools) -
-
-*   [z-bool/CVE-2022-40684](https://github.com/z-bool/CVE-2022-40684) - 一键枚举所有用户名以及写入SSH公钥
-
-*   [refraction-ray/xalpha](https://github.com/refraction-ray/xalpha) - 基金投资管理回测引擎
-
-*   [w-digital-scanner/w12scan-client](https://github.com/w-digital-scanner/w12scan-client) - 网络资产搜索发现引擎，w12scan 扫描端程序
-
-*   [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
-
-*   [machine1337/gmailc2](https://github.com/machine1337/gmailc2) - A Fully Undetectable C2 Server That Communicates Via Google SMTP to evade Antivirus Protections and Network Traffic Restrictions
-
-*   [mymarilyn/clickhouse-driver](https://github.com/mymarilyn/clickhouse-driver) - ClickHouse Python Driver with native interface support
-
-*   [balki97/OWASSRF-CVE-2022-41082-POC](https://github.com/balki97/OWASSRF-CVE-2022-41082-POC) - PoC for the CVE-2022-41080 , CVE-2022-41082 and CVE-2022-41076 Vulnerabilities Affecting Microsoft Exchange Servers
-
-*   [YinWC/2021hvv\_vul](https://github.com/YinWC/2021hvv_vul) - 2021hvv漏洞汇总
-
-*   [klezVirus/SysWhispers3](https://github.com/klezVirus/SysWhispers3) - SysWhispers on Steroids - AV/EDR evasion via direct system calls.
-
-*   [ShutdownRepo/pywhisker](https://github.com/ShutdownRepo/pywhisker) - Python version of the C# tool for "Shadow Credentials" attacks
-
-*   [1in9e/icp-domains](https://github.com/1in9e/icp-domains) - 输入一个域名，输出ICP备案所有关联域名
-
-*   [jellever/CyberArkTools](https://github.com/jellever/CyberArkTools) - Some Python tooling to for example try to decrypt CyberArk .cred credential files
-
-*   [qianxiao996/R-Knife](https://github.com/qianxiao996/R-Knife) - R-Knife 综合渗透工具箱
-
-*   [Cl0udG0d/Fofa-hack](https://github.com/Cl0udG0d/Fofa-hack) - 非付费会员，fofa数据采集工具
-
-*   [YagamiiLight/Cerberus](https://github.com/YagamiiLight/Cerberus) - 一款功能强大的漏洞扫描器，子域名爆破使用aioDNS，asyncio异步快速扫描，覆盖目标全方位资产进行批量漏洞扫描，中间件信息收集，自动收集ip代理，探测Waf信息时自动使用来保护本机真实Ip，在本机Ip被Waf杀死后，自动切换代理Ip进行扫描，Waf信息收集(国内外100+款waf信息)包括安全狗，云锁，阿里云，云盾，腾讯云等，提供部分已知waf bypass 方案，中间件漏洞检测(Thinkphp,weblogic等 CVE-2018-5955,CVE-2018-12613,CVE-2018-11759等)，支持SQL注入, XSS, 命令执行,文件包含, ssrf 漏洞扫描, 支持自定义漏洞邮箱推送功能
-
-*   [dgh05t/VMware\_ESXI\_OpenSLP\_PoCs](https://github.com/dgh05t/VMware_ESXI_OpenSLP_PoCs) - CVE-2020-3992 & CVE-2019-5544
-
-*   [liuhuanshuo/ChatGPT\_PyBot](https://github.com/liuhuanshuo/ChatGPT_PyBot) -
-
-*   [styczynski/chatdb](https://github.com/styczynski/chatdb) - ChatGPT-based database, wait... WHAT?
-
-*   [Ukenn2112/ChatGPTelegramBot](https://github.com/Ukenn2112/ChatGPTelegramBot) - ChatGPTelegramBot 支持私聊群组单会话
-
-*   [talwrii/llmcli](https://github.com/talwrii/llmcli) -
-
-*   [lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT) - a quick and easy interface to generate emails with ChatGPT
-
-*   [Pab450/ana](https://github.com/Pab450/ana) - OpenAI chatGPT twitter bot
-
-*   [chitalian/revChatGPTServer](https://github.com/chitalian/revChatGPTServer) -
-
-*   [shiyemin/ChatGPT-MS](https://github.com/shiyemin/ChatGPT-MS) - This repo is named by ChatGPT for Multi-Session ChatGPT API.
-
-*   [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
-
-*   [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
-
-*   [pedrorito/ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - 🤖 A Slack bot that integrates with OpenAI's ChatGPT to provide answers, written in Python
-
-*   [platelminto/chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - Have a conversation with ChatGPT using your voice, and have it talk back.
-
-*   [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot
-
-*   [ausbitbank/ChatGPTDiscord](https://github.com/ausbitbank/ChatGPTDiscord) - Discord bot for interacting with ChatGPT's API by OpenAI
-
-*   [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
-
-*   [y1nglamore/IDOR\_detect\_tool](https://github.com/y1nglamore/IDOR_detect_tool) - 一款API水平越权漏洞检测工具
-
-*   [doscriptsite/ZSXQ-Spider](https://github.com/doscriptsite/ZSXQ-Spider) - 爬取知识星球内容，并制作成PDF电子书。
-
-*   [mogwailabs/mjet](https://github.com/mogwailabs/mjet) - MOGWAI LABS JMX exploitation toolkit
-
-*   [creditease-sec/insight2](https://github.com/creditease-sec/insight2) -
-
-*   [synacktiv/Prox-Ez](https://github.com/synacktiv/Prox-Ez) -
-
-*   [r0ysue/r0capture](https://github.com/r0ysue/r0capture) - 安卓应用层抓包通杀脚本
-
-*   [yumusb/coremail\_export](https://github.com/yumusb/coremail_export) - 导出coremail联系人
-
-*   [Le0nsec/zyte\_crawler](https://github.com/Le0nsec/zyte_crawler) - A crawler for xz.aliyun.com、paper.seebug.org、tttang.com powered by zyte.
-
-*   [wuerror/pocsuite3\_pocs](https://github.com/wuerror/pocsuite3_pocs) - pocsuite3 poc\&exp
-
-*   [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-
-*   [moyuwa/wechat\_appinfo\_wxapkg](https://github.com/moyuwa/wechat_appinfo_wxapkg) - 渗透测试：微信小程序信息在线收集，wxapkg源码包内提取信息
-
-*   [xnuinside/airflow\_in\_docker\_compose](https://github.com/xnuinside/airflow_in_docker_compose) - Apache Airflow in Docker Compose (for both versions 1.10.\* and 2.\*)
-
-*   [vesperp/xray-auto](https://github.com/vesperp/xray-auto) -
-
-*   [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An open-source adversary emulation platform
-
-*   [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
-
-*   [nccgroup/web3-decoder](https://github.com/nccgroup/web3-decoder) -
-
-*   [aleenzz/ADExplorerX](https://github.com/aleenzz/ADExplorerX) -
-
-*   [aniqfakhrul/powerview.py](https://github.com/aniqfakhrul/powerview.py) - Just another Powerview alternative
-
-*   [icyguider/MoreImpacketExamples](https://github.com/icyguider/MoreImpacketExamples) - More examples using the Impacket library designed for learning purposes.
-
-*   [hakril/PythonForWindows](https://github.com/hakril/PythonForWindows) - A codebase aimed to make interaction with Windows and native execution easier
-
-*   [Litt1eQ/aliyundrive-api](https://github.com/Litt1eQ/aliyundrive-api) - 阿里云盘PythonAPI
-
-*   [Anof-cyber/APTRS](https://github.com/Anof-cyber/APTRS) - Automated Penetration Testing Reporting System
-
-*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-
-*   [XiaoliChan/RedCaddy](https://github.com/XiaoliChan/RedCaddy) - C2 redirector base on caddy
-
-*   [LiAoRJ/CS\_fakesubmit](https://github.com/LiAoRJ/CS_fakesubmit) - 一个可以伪装上线Cobaltstrike的脚本
-
-*   [aStrowxyu/Pysoserial](https://github.com/aStrowxyu/Pysoserial) - Python-based proof-of-concept tool for generating payloads that utilize unsafe Java object deserialization.
-
-*   [xz-zone/Webpackfind](https://github.com/xz-zone/Webpackfind) - Webpack自动化信息收集
-
-*   [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
-
-*   [embee-research/Randomise-api-hashes-cobalt-strike](https://github.com/embee-research/Randomise-api-hashes-cobalt-strike) - Bypass Detection By Randomising ROR13 API Hashes
-
-*   [mandiant/speakeasy](https://github.com/mandiant/speakeasy) - Windows kernel and user mode emulation.
-
-*   [w5teams/w5](https://github.com/w5teams/w5) - Security Orchestration, Automation and Response (SOAR) Platform. 安全编排与自动化响应平台，无需编写代码的安全自动化，使用 SOAR 可以让团队工作更加高效
-
-*   [zbnio/zbn](https://github.com/zbnio/zbn) - 安全编排与自动化响应平台
-
-*   [fpoli/python-asdl](https://github.com/fpoli/python-asdl) - ASDL parser taken from CPython 3.5
-
-*   [garzon/CTF-Writeups](https://github.com/garzon/CTF-Writeups) - 自己ctf比赛的writeup
-
-*   [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
-
-*   [ice-doom/codeql\_compile](https://github.com/ice-doom/codeql_compile) - 自动反编译闭源应用，创建codeql数据库
-
-*   [0xf4n9x/NPS-AUTH-BYPASS](https://github.com/0xf4n9x/NPS-AUTH-BYPASS) - NPS proxy server authentication bypasses vulnerability detection
-
-*   [Threekiii/Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 一个攻防知识仓库
-
-*   [frankstar007/kNN](https://github.com/frankstar007/kNN) - 机器学习实战
-
-*   [Neo23x0/Loki](https://github.com/Neo23x0/Loki) - Loki - Simple IOC and YARA Scanner
-
-*   [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 
 ## Assembly
 
