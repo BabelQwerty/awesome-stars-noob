@@ -695,6 +695,8 @@
 
 *   [fuckhoneypot/fuckhoneypot](https://github.com/fuckhoneypot/fuckhoneypot) - FuckHoneypot is 去他妈的蜜罐
 
+*   [mthcht/ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords) - Awesome list of keywords for Threat Hunting sessions
+
 *   [ybdt/exp-hub](https://github.com/ybdt/exp-hub) - 漏洞检测、漏洞利用
 
 *   [ddzipp/AutoAudit](https://github.com/ddzipp/AutoAudit) - AutoAudit—— the LLM for Cyber Security 网络安全大语言模型
@@ -1245,8 +1247,6 @@
 
 *   [XiaoliChan/Invoke-sAMSpoofing](https://github.com/XiaoliChan/Invoke-sAMSpoofing) - CVE-2021-42287/CVE-2021-42278 exploits in powershell
 
-*   [mthcht/ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords) - Awesome list of keywords for Threat Hunting sessions
-
 *   [safebuffer/vulnerable-AD](https://github.com/safebuffer/vulnerable-AD) - Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab
 
 *   [Marshall-Hallenbeck/red\_team\_attack\_lab](https://github.com/Marshall-Hallenbeck/red_team_attack_lab) - Red Team Attack Lab for TTP testing & research
@@ -1453,7 +1453,7 @@
 
 *   [machine1337/win-rat](https://github.com/machine1337/win-rat) - A Fully Undectable RAT for Windows that bypass every kind of Antivirus Protections and will give u a CMD shell in your terminal
 
-*   [n3m1dotsys/CVE-2023-22809-sudoedit-privesc](https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc) - A script to automate privilege escalation with CVE-2023-22809 vulnerability
+*   [n3m1sys/CVE-2023-22809-sudoedit-privesc](https://github.com/n3m1sys/CVE-2023-22809-sudoedit-privesc) - A script to automate privilege escalation with CVE-2023-22809 vulnerability
 
 *   [M4fiaB0y/CVE-2023-22809](https://github.com/M4fiaB0y/CVE-2023-22809) -
 
